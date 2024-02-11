@@ -21,6 +21,7 @@ hotel_comment_url_list = [
 
 max_review_count = 500
 
+
 def crawl_comments():
     """
     호텔 별 리뷰점소 + 리뷰 Text를 크롤링해서, csv 파일로 저장
@@ -111,19 +112,16 @@ def crawl_comments():
         # hotel_review_score_list, hotel_review_comment_list dataFrame 으로 묶어 csv로 저장
         print(len(hotel_review_score_list))
         print(len(hotel_review_comment_list))
-        hotel_review_dict = {"score" : hotel_review_score_list, "comment": hotel_review_comment_list}
+        hotel_review_dict = {"score": hotel_review_score_list, "comment": hotel_review_comment_list}
 
         df = pd.DataFrame(hotel_review_dict)
 
-        df.to_csv('hotelData/hotel'+url_object['key']+'.csv', index=False, encoding='utf-8-sig')
+        df.to_csv('hotelData/hotel' + url_object['key'] + '.csv', index=False, encoding='utf-8-sig')
 
         driver.quit()
 
     print("End Of crawl_comments()")
 
 
-
 if (__name__ == "__main__"):
     crawl_comments()
-
-
