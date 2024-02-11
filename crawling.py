@@ -21,6 +21,7 @@ hotel_comment_url_list = [
 
 max_review_count = 500
 
+
 def crawl_comments():
     """
     호텔 별 리뷰점소 + 리뷰 Text를 크롤링해서, csv 파일로 저장
@@ -47,16 +48,19 @@ def crawl_comments():
 
         # 호텔 리뷰 총 갯수
         temp_hotel_total_review_count_element = WebDriverWait(driver, 30).until(
-            EC.visibility_of_element_located((By.CSS_SELECTOR, 'span.Review__SummaryContainer--left.Review__SummaryContainer__Text'))
+            EC.visibility_of_element_located(
+                (By.CSS_SELECTOR, 'span.Review__SummaryContainer--left.Review__SummaryContainer__Text'))
         )
 
         temp_hotel_total_review_count = soup.find('span', {
             'class': 'Review__SummaryContainer--left Review__SummaryContainer__Text'}).text
 
-        hotel_total_review_count = int(temp_hotel_total_review_count.replace('[100% 실제 이용후기 ', '').replace('건 보기 중]', '').replace(',',''))
+        hotel_total_review_count = int(
+            temp_hotel_total_review_count.replace('[100% 실제 이용후기 ', '').replace('건 보기 중]', '').replace(',', ''))
 
         # 호텔 리뷰 중, 최대 500건만 사용
-        hotel_total_review_count = max_review_count if int(hotel_total_review_count) > max_review_count else int(hotel_total_review_count)
+        hotel_total_review_count = max_review_count if int(hotel_total_review_count) > max_review_count else int(
+            hotel_total_review_count)
         print(hotel_total_review_count)
 
         # 페이지 내 리뷰 건별 점수
@@ -111,19 +115,16 @@ def crawl_comments():
         # hotel_review_score_list, hotel_review_comment_list dataFrame 으로 묶어 csv로 저장
         print(len(hotel_review_score_list))
         print(len(hotel_review_comment_list))
-        hotel_review_dict = {"score" : hotel_review_score_list, "comment": hotel_review_comment_list}
+        hotel_review_dict = {"score": hotel_review_score_list, "comment": hotel_review_comment_list}
 
         df = pd.DataFrame(hotel_review_dict)
 
-        df.to_csv('hotelData/hotel'+url_object['key']+'.csv', index=False, encoding='utf-8-sig')
+        df.to_csv('hotelData/hotel' + url_object['key'] + '.csv', index=False, encoding='utf-8-sig')
 
         driver.quit()
 
     print("End Of crawl_comments()")
 
 
-
 if (__name__ == "__main__"):
     crawl_comments()
-
-
