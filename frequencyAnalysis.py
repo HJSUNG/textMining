@@ -96,9 +96,6 @@ def draw_word_cloud(word_list, title=''):
 
 
 def analyze_single_hotel(file_path):
-    """
-    호텔 1개 comment에 대한 빈도분석
-    """
     df_hotel = pd.read_csv(file_path)
     analysis_result = analyze_dataframe(df_hotel)
 
@@ -113,6 +110,7 @@ def analyze_single_hotel(file_path):
 def analyze_total_hotel():
     """
     호텔 전체 comment에 대한 빈도분석
+    :return : [comment_word_list, comment_word_list_positive, comment_word_list_negative]
     """
     df_hotel = pd.DataFrame(columns=['score', 'comment'])
 
