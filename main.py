@@ -8,5 +8,5 @@ list of Packages
 - seaborn : 0.13.2
 - selenium : 4.17.2
 - wordcloud : 1.9.3
-
+- Googletrans :4.0.0rc1
 """
