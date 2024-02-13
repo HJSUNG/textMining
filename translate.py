@@ -19,6 +19,7 @@ def translate_single_file(file_path):
 
     df_hotel.to_csv('hotelData_en/' + file_path.split('/')[-1].split('.')[0] + '_en.csv')
 
+
 def translate_all_files():
     """
     hotelData 디렉토리 내 모든 csv 파일을 번역하여 hotelData_en 디렉토리에 저장
@@ -29,12 +30,17 @@ def translate_all_files():
         if os.path.isfile(file_path) & file_name.startswith('hotel') & file_name.endswith('.csv'):
             translate_single_file(file_path)
 
+
 if __name__ == "__main__":
-# print(googletrans.LANGUAGES)
-#     translate_all_files()
-#     translate_single_file('hotelData/hotel4.csv') #
-#     translate_single_file('hotelData/hotel5.csv')
-#     translate_single_file('hotelData/hotel6.csv') #
-#     translate_single_file('hotelData/hotel7.csv') #
-    translate_single_file('hotelData/hotel8.csv')
+    print(googletrans.LANGUAGES)
+    # translate_all_files()
+    # translate_single_file('hotelData/hotel1.csv')
+    # translate_single_file('hotelData/hotel2.csv')
+    # translate_single_file('hotelData/hotel3.csv')
+    # translate_single_file('hotelData/hotel4.csv')
+    # translate_single_file('hotelData/hotel5.csv')
+    # translate_single_file('hotelData/hotel6.csv')
+    # translate_single_file('hotelData/hotel7.csv')
+    # translate_single_file('hotelData/hotel8.csv')
     # translate_single_file('hotelData/hotel9.csv')
+    # translate_single_file('hotelData/hotel10.csv')
