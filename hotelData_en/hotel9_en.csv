@@ -1,39 +1,39 @@
-,score,comment
-0,10.0,"The location is good, so it's easy to move after staying before staying
+score,comment,afinn_score,vader_score
+10.0,"The location is good, so it's easy to move after staying before staying
 The price is fine
 The staff were so kind
-It's a pity that I just went to sleep because I checked in this time."
-1,10.0,"The staff's response was kind, the room was clean and the water purifier was provided.
-I applied for breakfast and ate it, but it has a lot of types and delicious taste."
-2,10.0,"The friendly staff was a nice terrace, a clean facility, and it was the best place to be really satisfied with it!The father and the baby's medicine envelope was insane, so I mistaken it in a hotel trash bin, and the male staff went through all the garbage bags in a situation where I was busy with my original work.I would like to express my deepest gratitude for the goodwill of the male staff who helped me.Thanks to this, I was able to finish my first family trip with my baby.thank you !!"
-3,10.0,"The convenience of the Premier Sweet Room was so great.Throughout the first visit, the best service and comfortable rooms have made me want to visit in the future.If you stay again in Jeju, you will book a sweet hotel and this room again."
-4,10.0,"One of the 5 -star hotels in Jungmun Complex.The feeling of European sensibility boutique hotel.One of the reasons why the first floor with the terrace should go to this hotel.It is the best of the water purifier and the bidet because the teacher group acquired.If you go to Jeju next time, you will definitely use it again."
-5,10.0,"From clean facilities to terrace views, I was also satisfied :) I was thrown into a hotel trash bin by mistake, but I was heartbroken because I couldn't find it again.However, the staff who knew this fact searched for all the trash can to find the baby and father's medicine bag.I would have been so busy enough for my original work, but I was really impressed with the good faith that the male staff gave me.Once again, I would like to express my deepest gratitude.thank you !"
-6,10.0,"The location was good because it was Jungmun and the staff were kind.
+It's a pity that I just went to sleep because I checked in this time.",6.0,0.8683
+10.0,"The staff's response was kind, the room was clean and the water purifier was provided.
+I applied for breakfast and ate it, but it has a lot of types and delicious taste.",7.0,0.8442
+10.0,"The friendly staff was a nice terrace, a clean facility, and it was the best place to be really satisfied with it!The father and the baby's medicine envelope was insane, so I mistaken it in a hotel trash bin, and the male staff went through all the garbage bags in a situation where I was busy with my original work.I would like to express my deepest gratitude for the goodwill of the male staff who helped me.Thanks to this, I was able to finish my first family trip with my baby.thank you !!",16.0,0.9585
+10.0,"The convenience of the Premier Sweet Room was so great.Throughout the first visit, the best service and comfortable rooms have made me want to visit in the future.If you stay again in Jeju, you will book a sweet hotel and this room again.",13.0,0.93
+10.0,"One of the 5 -star hotels in Jungmun Complex.The feeling of European sensibility boutique hotel.One of the reasons why the first floor with the terrace should go to this hotel.It is the best of the water purifier and the bidet because the teacher group acquired.If you go to Jeju next time, you will definitely use it again.",4.0,0.8126
+10.0,"From clean facilities to terrace views, I was also satisfied :) I was thrown into a hotel trash bin by mistake, but I was heartbroken because I couldn't find it again.However, the staff who knew this fact searched for all the trash can to find the baby and father's medicine bag.I would have been so busy enough for my original work, but I was really impressed with the good faith that the male staff gave me.Once again, I would like to express my deepest gratitude.thank you !",10.0,0.9406
+10.0,"The location was good because it was Jungmun and the staff were kind.
 It was a bed, but it was also good to be heated by the floor because it was floor.
 I didn't ask for a humidifier and filled it with a clean humidifier.
 It is a hotel because it is a place where you can use the microwave, but it was also good to heat baby food.
-+ I went to the Shilla Hotel Park View evening buffet ... It was so close."
-7,9.6,"Location is good and hotel condition is good
++ I went to the Shilla Hotel Park View evening buffet ... It was so close.",13.0,0.9371
+9.6,"Location is good and hotel condition is good
 However, convenience facilities are far enough to drive out, and there is no other convenience store.
 Breakfast is also a bit unfortunate for the price
-Others like the hotel quiet, the pool is pretty and the staff is kind."
-8,10.0,"There are many places to tour around, and there are many good places to walk and take a walk, so you can relax and sightseeing, and the items you really need are properly available."
-9,10.0,"Since I entered the first floor, I was kind to the women's staff, and when I entered the room, I felt that it was luxurious and luxurious.All were clean and the bed was so soft that I was very satisfied.At night, Silla Lotte Hotel was nearby, so it was fun to look around.If you go a little car in the tourist complex, there are many restaurants in Olive Young Mart, and even if you go out, there are restaurants that are known in Jungmun.200%will be used again next time."
-10,10.0,"The outdoor swimming pool is a picture, but it's close to Jungmun Beach!The nearby Olle trail is really good and the Cheonjiyeon Falls is also good."
-11,10.0,"It was good to be able to stay at a 5 -star hotel at a good price at the Jungmun Tourism Complex.There were plenty of towels and amenities and it was good to clean the room cleaning while working.However, breakfast was somewhat poor for 5 stars.I stayed in Jeju City, and the food type or quality was compared with the business hotel."
-12,10.0,"It was a corner concept room, which was suitable for four people.The location of the hostel was good, clean and the room service was excellent.I recommend it."
-13,10.0,"There are more rooms for 3-4 people, and check-in checkouts are also a machine, but it is not difficult.It is in the Jungmun Hotel Complex, so it is good to move to the car.The fragrance in the hotel is very good and it's small, but it's good to have everything.First of all, I am very satisfied in terms of price."
-14,10.0,"It's not like a hotel view, but it's clean and the staff are very friendly and soundproofing."
-15,10.0,"Halla Mountain View was so good. The hotel itself is atmosphere!
-In particular, the room condition is satisfactory, and when it was a lot of time, you can call you separately, so please prepare all the necessary parts."
-16,9.6,"I came to Jeju Island several times and made my first visit to Jungmun, but I went to the hotel for the first time."
-17,10.0,"I had a mother and three women stayed.
-It's a room content that can be satisfied with a neat mother, and the bedding was comfortable.The bed is more comfortable than the double bed, so if you go with your parents if you go with your parents.I don't know if I am allocating the room, but it was quiet and the terrace was quiet."
-18,10.0,"I use it again in summer
-The staff are all kind!"
-19,10.0,The staff were all kind and the room condition was good.
-20,9.6,"Location -It's just next to the Shilla Hotel, so it's quiet and there's no restaurant or other facilities that you can walk, but if you move with a rental car, it's quiet (open until 12 o'clock in the hotel).
+Others like the hotel quiet, the pool is pretty and the staff is kind.",10.0,0.8658
+10.0,"There are many places to tour around, and there are many good places to walk and take a walk, so you can relax and sightseeing, and the items you really need are properly available.",3.0,0.7239
+10.0,"Since I entered the first floor, I was kind to the women's staff, and when I entered the room, I felt that it was luxurious and luxurious.All were clean and the bed was so soft that I was very satisfied.At night, Silla Lotte Hotel was nearby, so it was fun to look around.If you go a little car in the tourist complex, there are many restaurants in Olive Young Mart, and even if you go out, there are restaurants that are known in Jungmun.200%will be used again next time.",10.0,0.8646
+10.0,"The outdoor swimming pool is a picture, but it's close to Jungmun Beach!The nearby Olle trail is really good and the Cheonjiyeon Falls is also good.",6.0,0.8711
+10.0,"It was good to be able to stay at a 5 -star hotel at a good price at the Jungmun Tourism Complex.There were plenty of towels and amenities and it was good to clean the room cleaning while working.However, breakfast was somewhat poor for 5 stars.I stayed in Jeju City, and the food type or quality was compared with the business hotel.",11.0,0.8221
+10.0,"It was a corner concept room, which was suitable for four people.The location of the hostel was good, clean and the room service was excellent.I recommend it.",12.0,0.7964
+10.0,"There are more rooms for 3-4 people, and check-in checkouts are also a machine, but it is not difficult.It is in the Jungmun Hotel Complex, so it is good to move to the car.The fragrance in the hotel is very good and it's small, but it's good to have everything.First of all, I am very satisfied in terms of price.",10.0,0.9576
+10.0,"It's not like a hotel view, but it's clean and the staff are very friendly and soundproofing.",6.0,0.8287
+10.0,"Halla Mountain View was so good. The hotel itself is atmosphere!
+In particular, the room condition is satisfactory, and when it was a lot of time, you can call you separately, so please prepare all the necessary parts.",4.0,0.8599
+9.6,"I came to Jeju Island several times and made my first visit to Jungmun, but I went to the hotel for the first time.",0.0,0.0
+10.0,"I had a mother and three women stayed.
+It's a room content that can be satisfied with a neat mother, and the bedding was comfortable.The bed is more comfortable than the double bed, so if you go with your parents if you go with your parents.I don't know if I am allocating the room, but it was quiet and the terrace was quiet.",6.0,0.6365
+10.0,"I use it again in summer
+The staff are all kind!",2.0,0.5707
+10.0,The staff were all kind and the room condition was good.,5.0,0.743
+9.6,"Location -It's just next to the Shilla Hotel, so it's quiet and there's no restaurant or other facilities that you can walk, but if you move with a rental car, it's quiet (open until 12 o'clock in the hotel).
 
 Room condition -It's a bit old, but it's very good to manage.There is a corridor or the next room noise, but it's not a problem here.
 
@@ -41,260 +41,260 @@ Breakfast -not excellent, but 26 400 won (20% discount on guests) is good for th
 
 Staff -cheerful kindness.
 
-Overall, it was a satisfactory stay."
-21,10.0,"There are no hotels with rooms that can sleep with 4 people
-It's the best to have a beer at night on the terrace."
-22,9.6,"The bunker room was unusual, so the child really liked it.
-I had a delivery food on the terrace and I had breakfast. There was a bus from the airport in front of the hotel."
-23,10.0,"When I asked for a large bed, I was able to get a good night's sleep in a big bed, and most of all, the bed is so comfortable.No noise around"
-24,10.0,Clean and friendly .... It was good .... I had a big heart and dinner.It's so delicious that I still want to eat again ...
-25,10.0,"The swimming pool is close and the 5 -star hotel can be done for 100,000 won."
-26,10.0,"I've been resting comfortably.
-The bunker room is so popular on the second floor, so if you think about how to decide on the second floor, you can go in."
-27,10.0,"It is located in Jungmun, so visiting tourist destinations as well as restaurants
-The best location to visit."
-28,10.0,"The staff were so kind and the breakfast was fine. But the inside of the hotel was a little narrow, there was no table. If you are a good business trip, it is a clean and good place to stay."
-29,9.6,"Lotte Hotel Shilla Hotel is located nearby, so it is accessible to Jungmun or Seogwipo.
-Unfortunately, the swimming pool is a bit small and it opens from 10 am. The small thing is inevitable, but the opening of the opening season, for example, from 7 am."
-30,10.0,"The staff are too friendly
+Overall, it was a satisfactory stay.",13.0,0.9774
+10.0,"There are no hotels with rooms that can sleep with 4 people
+It's the best to have a beer at night on the terrace.",2.0,0.4588
+9.6,"The bunker room was unusual, so the child really liked it.
+I had a delivery food on the terrace and I had breakfast. There was a bus from the airport in front of the hotel.",2.0,0.4754
+10.0,"When I asked for a large bed, I was able to get a good night's sleep in a big bed, and most of all, the bed is so comfortable.No noise around",5.0,0.4404
+10.0,Clean and friendly .... It was good .... I had a big heart and dinner.It's so delicious that I still want to eat again ...,12.0,0.9305
+10.0,"The swimming pool is close and the 5 -star hotel can be done for 100,000 won.",3.0,0.5719
+10.0,"I've been resting comfortably.
+The bunker room is so popular on the second floor, so if you think about how to decide on the second floor, you can go in.",5.0,0.7518
+10.0,"It is located in Jungmun, so visiting tourist destinations as well as restaurants
+The best location to visit.",3.0,0.743
+10.0,"The staff were so kind and the breakfast was fine. But the inside of the hotel was a little narrow, there was no table. If you are a good business trip, it is a clean and good place to stay.",11.0,0.9106
+9.6,"Lotte Hotel Shilla Hotel is located nearby, so it is accessible to Jungmun or Seogwipo.
+Unfortunately, the swimming pool is a bit small and it opens from 10 am. The small thing is inevitable, but the opening of the opening season, for example, from 7 am.",1.0,-0.1779
+10.0,"The staff are too friendly
 It's my second visit, but I'm going to go to Jeju again.
-It's so good haha"
-31,10.0,"This is the best location in Jungmun.
+It's so good haha",8.0,0.9123
+10.0,"This is the best location in Jungmun.
 The room is tidy and especially in purification vocation
 It was good to be able to use hygiene and water shortage when drinking ramen or coffee.
 I was able to enjoy the Shilla Hotel Garden after eating at the Silla Hotel right in front of me.
-The bus stop was close, so there was no inconvenience to use without rent."
-32,10.0,There was a grass and the double bed bed was very pleasant.Satisfied with that alone.Small and comfortable hotel
-33,10.0,"I made a reservation for my parents' birthday trip and accommodation, but the location was good and clean."
-34,10.0,"I saw a review that breakfast is delicious, but I think the kind of food type and quality for the real price is so good.
-If you have a chance to go next time, I think I'll choose because of breakfast ~ ^^"
-35,9.6,"In Jungmun, I went to breakfast while only Shilla Hotel!Overseas feelings ~ The room service was all delicious, but the pizza was not so good."
-36,10.0,"In fact, it's funny to be a 5 -star hotel, but it's so good and the best. I want to see the hotels around me."
-37,10.0,It was so fun.The hot water pool is also excellent and the location and value for money are good.
-38,10.0,"It was a good hotel for the family to stay.
-The price was reasonable and the location was in Jungmun."
-39,8.4,"Pool Villa was so good.
-I think I'll use it again next time."
-40,8.0,The location of the location was good.I like the bathroom.I want to visit again.
-41,10.0,"I'm so satisfied
-It was a cozy, kind and unfortunate day!I want to go again"
-42,10.0,The accommodation was very clean and not complicated.I also liked the breakfast at night.
-43,9.6,"I stayed in Jungmun with my parents and children, and it was really comfortable and enjoyable.However, the weather was so cold that I couldn't use the pool.The breakfast was satisfactory and the room hygiene was so clean and good.In particular, the children loved the bunker bed and were comfortable, so the couple+two children were satisfied!"
-44,10.0,"The bedding is really warm and nice
+The bus stop was close, so there was no inconvenience to use without rent.",2.0,0.483
+10.0,There was a grass and the double bed bed was very pleasant.Satisfied with that alone.Small and comfortable hotel,5.0,0.5106
+10.0,"I made a reservation for my parents' birthday trip and accommodation, but the location was good and clean.",5.0,0.8126
+10.0,"I saw a review that breakfast is delicious, but I think the kind of food type and quality for the real price is so good.
+If you have a chance to go next time, I think I'll choose because of breakfast ~ ^^",10.0,0.8739
+9.6,"In Jungmun, I went to breakfast while only Shilla Hotel!Overseas feelings ~ The room service was all delicious, but the pizza was not so good.",6.0,-0.4561
+10.0,"In fact, it's funny to be a 5 -star hotel, but it's so good and the best. I want to see the hotels around me.",11.0,0.9361
+10.0,It was so fun.The hot water pool is also excellent and the location and value for money are good.,10.0,0.8402
+10.0,"It was a good hotel for the family to stay.
+The price was reasonable and the location was in Jungmun.",3.0,0.4404
+8.4,"Pool Villa was so good.
+I think I'll use it again next time.",3.0,0.5777
+8.0,The location of the location was good.I like the bathroom.I want to visit again.,6.0,0.4215
+10.0,"I'm so satisfied
+It was a cozy, kind and unfortunate day!I want to go again",5.0,0.623
+10.0,The accommodation was very clean and not complicated.I also liked the breakfast at night.,4.0,0.1682
+9.6,"I stayed in Jungmun with my parents and children, and it was really comfortable and enjoyable.However, the weather was so cold that I couldn't use the pool.The breakfast was satisfactory and the room hygiene was so clean and good.In particular, the children loved the bunker bed and were comfortable, so the couple+two children were satisfied!",16.0,0.9646
+10.0,"The bedding is really warm and nice
 After all, it was a 5 -star hotel 👍🏻
 The view that I see when I open the window in the morning was wonderful
 The location was also Jungmun, so it was okay to go here and there.
 There was also a CU in front, so it was good to buy something.
 The hot water pool didn't take a swimsuit and just watched it.
 Even if you take a picture on the pool side, it's a photo zone.
-It is pretty recommended 👍🏻👍🏻"
-45,6.4,The kindness of the staff is felt from the front desk.I was welcoming with a bright smile .. I felt better with me.
-46,10.0,"4 family
+It is pretty recommended 👍🏻👍🏻",14.0,0.9537
+6.4,The kindness of the staff is felt from the front desk.I was welcoming with a bright smile .. I felt better with me.,7.0,0.9217
+10.0,"4 family
 Family Bunk Room
-This is the best accommodation in Jeju Island this week."
-47,8.0,Not bad for the price
-48,8.0,"I am comfortable with the cost of accommodation in the middle of 100,000 won.I like it because I have a staircase.
+This is the best accommodation in Jeju Island this week.",3.0,0.6369
+8.0,Not bad for the price,-3.0,0.431
+8.0,"I am comfortable with the cost of accommodation in the middle of 100,000 won.I like it because I have a staircase.
  In winter, I chose to enjoy outdoor water with warm hot water.
 
- Satisfaction"
-49,8.0,great
-50,10.0,"It's not far from the swimming pool, so you can move without much cold even though it was a winter trip.
+ Satisfaction",10.0,0.9153
+8.0,great,3.0,0.6249
+10.0,"It's not far from the swimming pool, so you can move without much cold even though it was a winter trip.
 Bunker beds and double beds were all comfortable
-The terrace is not good to say, so the second round on the terrace ^^"
-51,9.6,"It was a bad winter trip, but it was so good because there was a hot water pool.The staff are also kind and good!"
-52,10.0,Clean facility friendly guide facilities are also satisfied with the comfort and pleasant trip.
-53,10.0,"The location is next to Silla Lotte
+The terrace is not good to say, so the second round on the terrace ^^",0.0,0.2249
+9.6,"It was a bad winter trip, but it was so good because there was a hot water pool.The staff are also kind and good!",5.0,0.942
+10.0,Clean facility friendly guide facilities are also satisfied with the comfort and pleasant trip.,11.0,0.926
+10.0,"The location is next to Silla Lotte
 It was good in the middle of Jungmun.
 
 Thank you for the good service for the price for the price.
-Especially the second floor bed is the best."
-54,10.0,The staff were kind and the accommodation was clean!
-55,7.2,"It's between a good hotel, so if you look at the hotel alone, it was just like that.
-There is no merit compared to the price"
-56,10.0,"Good price
+Especially the second floor bed is the best.",11.0,0.91
+10.0,The staff were kind and the accommodation was clean!,4.0,0.75
+7.2,"It's between a good hotel, so if you look at the hotel alone, it was just like that.
+There is no merit compared to the price",2.0,0.6124
+10.0,"Good price
 Location good ..
 Warm outdoor swimming pool good ..
 Clean and comfortable rooms ..
-I've been resting well."
-57,10.0,I enjoy Jeju well with hot water pool.
-58,10.0,"The children loved the double bed so much and for breakfast
-The satisfaction was high.The pool hot water pool was also so fun.Even though it was cold, I couldn't feel the cold in the hot water pool.I want to use it next time."
-59,10.0,"Bedding was good and breakfast was satisfactory ~
-The location is also good, so I want to use it again next time !!"
-60,10.0,It's a good value for swimming in the middle of winter.The facilities are clean and good.I want breakfast to be cheaper.
-61,9.6,"In Jeju Island, there are many places that are already full, so I searched for the hotel.But 5 -star hotels were expensive and burdensome for 3 nights.I liked it because it was small but it was clean and had a swimming pool.The staff were also friendly!I think it's a place next time!"
-62,9.6,"I used a family bunker room
+I've been resting well.",14.0,0.9493
+10.0,I enjoy Jeju well with hot water pool.,2.0,0.6486
+10.0,"The children loved the double bed so much and for breakfast
+The satisfaction was high.The pool hot water pool was also so fun.Even though it was cold, I couldn't feel the cold in the hot water pool.I want to use it next time.",8.0,0.7964
+10.0,"Bedding was good and breakfast was satisfactory ~
+The location is also good, so I want to use it again next time !!",7.0,0.8633
+10.0,It's a good value for swimming in the middle of winter.The facilities are clean and good.I want breakfast to be cheaper.,9.0,0.8074
+9.6,"In Jeju Island, there are many places that are already full, so I searched for the hotel.But 5 -star hotels were expensive and burdensome for 3 nights.I liked it because it was small but it was clean and had a swimming pool.The staff were also friendly!I think it's a place next time!",6.0,0.629
+9.6,"I used a family bunker room
 The bunker bed was bigger than I thought, so it was so comfortable
 Above all, it was good to have a terrace, and the water purifier installed in the room was really useful.
 Bedding is also clean
 The hotel itself was a low floor, so even if it was a single brewing, it was very good to rest quietly.
 It's the first time to use the first floor room, but I have a lot of convenience.
 The hot water pool was also good and until free use of Kabana
-I really spent it."
-63,8.8,"Thank you for the good service
-I have spent a happy time with my family"
-64,7.6,"I stayed in the terrace room on the first floor.
+I really spent it.",16.0,0.9452
+8.8,"Thank you for the good service
+I have spent a happy time with my family",8.0,0.8442
+7.6,"I stayed in the terrace room on the first floor.
 It's right next to the Shilla Hotel, so it's easy to go to the hills of the trail and Shri.
 The location is so good and the price, but the hotel hygiene is unfortunate.
 Hair was left on the check -in room desk and the pades were buried.
 I changed my room, but this time I was surprised that there was a big pollution.
-In the end, he changed the curtain, but the cleanliness management was unfortunate as a whole, but the staff's attitude was great."
-65,10.0,"I really go to Jeju Island, but my family is going to Jeju Island."
-66,10.0,I was so happy that the breakfast was delicious and the facilities were so good
-67,10.0,"On a trip with Idul and the couple
+In the end, he changed the curtain, but the cleanliness management was unfortunate as a whole, but the staff's attitude was great.",6.0,0.5361
+10.0,"I really go to Jeju Island, but my family is going to Jeju Island.",0.0,0.0
+10.0,I was so happy that the breakfast was delicious and the facilities were so good,9.0,0.9088
+10.0,"On a trip with Idul and the couple
 Sweet accommodation makes beautiful memories
 I gave you the winter, even though it was so good, I played for a while.sweet
-It is completely recommended"
-68,10.0,"It was clean and staff
+It is completely recommended",12.0,0.9373
+10.0,"It was clean and staff
 You are all kind ~ Breakfast is over
 It was delicious ~
-I'm going to suite ♡ Recommended"
-69,10.0,"Make a pledge
-Return !!!"
-70,10.0,"This is the best background open terrace
+I'm going to suite ♡ Recommended",9.0,0.891
+10.0,"Make a pledge
+Return !!!",0.0,0.0
+10.0,"This is the best background open terrace
 At the terrace table while looking at the scenery
 Drinking coffee and stupid
 It's winter, but breakfast buffet for hot water pools
-It's very good ^^"
-71,9.6,"Four -person family is not enough to stay.On the day of the blizzard, the water play in the hot water is a wonderful memory."
-72,8.0,It was easy to attend and it was good to see the surroundings
-73,10.0,It was a comfortable accommodation for friendly employees
-74,10.0,I had a good time with the children and the mini hoc cass.
-75,9.6,"I have a cozy room and a terrace (1st floor) and I stayed well at a beautiful hotel with a garden view with palm trees :)
+It's very good ^^",4.0,0.6897
+9.6,"Four -person family is not enough to stay.On the day of the blizzard, the water play in the hot water is a wonderful memory.",4.0,0.7269
+8.0,It was easy to attend and it was good to see the surroundings,4.0,0.7003
+10.0,It was a comfortable accommodation for friendly employees,4.0,0.7579
+10.0,I had a good time with the children and the mini hoc cass.,3.0,0.4404
+9.6,"I have a cozy room and a terrace (1st floor) and I stayed well at a beautiful hotel with a garden view with palm trees :)
 The location is also located in Jungmun, and there is a convenience store next to it.
-I stayed well last year and returned this year.Recommended if you are looking for a pretty hotel!"
-76,10.0,The child is good to play
-77,8.8,"The price is really good and the restaurant is delicious
+I stayed well last year and returned this year.Recommended if you are looking for a pretty hotel!",6.0,0.9273
+10.0,The child is good to play,3.0,0.6486
+8.8,"The price is really good and the restaurant is delicious
 
 But when it rains, the terrace room cannot be used.
-It's a little unfortunate that I have to go to the Shilla Hotel because there is no electric car charging station."
-78,10.0,"The room is slightly small but full.There is a bathtub in the bathroom, so I washed it well.Even if the bathtub structure was made well, it was good to take a long time because the water was cold and the breakfast was delicious.And even though it was winter, I used a hot water pool.I didn't know that it was cold, but I didn't take a swimsuit, but others would take it ㅠㅠ Jeju Island was 15 degrees and it was hot and it was worth it at night.The breakfast price was about 30,000 won per name."
-79,10.0,Recommended as a child accommodation.
-80,8.8,"The hot water was warm, so it was good to swim in the evening.It was good to have a free coupon event for katoklin pediatric breakfast."
-81,10.0,It is a clean and facility hotel.All of the families were satisfied .... I am a doctor again.
-82,10.0,"I booked for 4 nights and was similar to the nearby hotel
+It's a little unfortunate that I have to go to the Shilla Hotel because there is no electric car charging station.",5.0,-0.443
+10.0,"The room is slightly small but full.There is a bathtub in the bathroom, so I washed it well.Even if the bathtub structure was made well, it was good to take a long time because the water was cold and the breakfast was delicious.And even though it was winter, I used a hot water pool.I didn't know that it was cold, but I didn't take a swimsuit, but others would take it ㅠㅠ Jeju Island was 15 degrees and it was hot and it was worth it at night.The breakfast price was about 30,000 won per name.",11.0,0.9313
+10.0,Recommended as a child accommodation.,2.0,0.2023
+8.8,"The hot water was warm, so it was good to swim in the evening.It was good to have a free coupon event for katoklin pediatric breakfast.",8.0,0.8892
+10.0,It is a clean and facility hotel.All of the families were satisfied .... I am a doctor again.,4.0,0.6705
+10.0,"I booked for 4 nights and was similar to the nearby hotel
 Everything is okay!Unfortunately, breakfast is worth breakfast
 There is no food and the amenity is SOSO?!
 There is no other than that.
-Except when you're busy, please move the carrier baggage"
-83,10.0,The staff were kind and the accommodation was good.
-84,8.0,"I went on a family trip.
-The water temperature was a bit cold because of the winter, but the water temperature was a bit cold."
-85,9.6,"I was worried that I could sleep in one shot, but it was good to have a room for a reasonable price.It was recommended if the hotel was old and the hygiene was a little bad, but if you don't care about it and want a reasonable price."
-86,10.0,It is a hotel that you want to give 1000 points out of 100 points out of 100 points.
-87,8.0,great
-88,9.2,"The location is good because it is Jungmun.The staff are also very friendly.The breakfast is worth eating, and it's a kind and comfortable atmosphere!Outdoor hot water grass is available and it was atmosphere and pretty in the evening!However, the bathroom is old and there are a lot of red water in many places, so the part is a lot."
-89,10.0,"Next time, I visited when it was warm
-I want to eat room service breakfast on the terrace"
-90,10.0,It was a pretty hotel and a good price.
-91,10.0,The hotel I used for the first time .. The location was good and the price was too merit.
-92,9.2,"I am a family hotel accompanied by a child.
+Except when you're busy, please move the carrier baggage",1.0,-0.1984
+10.0,The staff were kind and the accommodation was good.,5.0,0.743
+8.0,"I went on a family trip.
+The water temperature was a bit cold because of the winter, but the water temperature was a bit cold.",0.0,0.0
+9.6,"I was worried that I could sleep in one shot, but it was good to have a room for a reasonable price.It was recommended if the hotel was old and the hygiene was a little bad, but if you don't care about it and want a reasonable price.",2.0,-0.4315
+10.0,It is a hotel that you want to give 1000 points out of 100 points out of 100 points.,1.0,0.0772
+8.0,great,3.0,0.6249
+9.2,"The location is good because it is Jungmun.The staff are also very friendly.The breakfast is worth eating, and it's a kind and comfortable atmosphere!Outdoor hot water grass is available and it was atmosphere and pretty in the evening!However, the bathroom is old and there are a lot of red water in many places, so the part is a lot.",12.0,0.9358
+10.0,"Next time, I visited when it was warm
+I want to eat room service breakfast on the terrace",2.0,0.296
+10.0,It was a pretty hotel and a good price.,4.0,0.7269
+10.0,The hotel I used for the first time .. The location was good and the price was too merit.,3.0,0.6908
+9.2,"I am a family hotel accompanied by a child.
 It is a good hotel because it operates winter hot water and can use the unusual room structure and terrace called bunker room.
 In particular, the operation of the winter hot water was an important point in selecting the hotel, and the satisfaction was good.
-However, there was a complaint in breakfast hygiene."
-93,9.2,"I've been relaxing well
-It's the best price"
-94,7.2,"The bed was too low.The noise outside the door was severe.In general, the facility is underdeveloped"
-95,10.0,"The hygiene is good and the bed has been so far that it was the best.
-Next time, I want to come here again."
-96,10.0,"The location was good, clean and friendly.The breakfast was a bit expensive, but I ate it well and I left an air pot."
-97,10.0,"The employees who tried to immediately handle the inconvenience were always kind and the facilities were clean.Sometimes it was not soundproofed, but I could immediately move the room to spend the remaining schedule comfortably.There was also a beer/wine coupon that was provided free of charge to guests."
-98,8.4,"It's a cold season, but it's really good at water.
+However, there was a complaint in breakfast hygiene.",6.0,0.8074
+9.2,"I've been relaxing well
+It's the best price",3.0,0.8591
+7.2,"The bed was too low.The noise outside the door was severe.In general, the facility is underdeveloped",-2.0,0.0
+10.0,"The hygiene is good and the bed has been so far that it was the best.
+Next time, I want to come here again.",7.0,0.8126
+10.0,"The location was good, clean and friendly.The breakfast was a bit expensive, but I ate it well and I left an air pot.",7.0,0.6652
+10.0,"The employees who tried to immediately handle the inconvenience were always kind and the facilities were clean.Sometimes it was not soundproofed, but I could immediately move the room to spend the remaining schedule comfortably.There was also a beer/wine coupon that was provided free of charge to guests.",5.0,0.7096
+8.4,"It's a cold season, but it's really good at water.
 And female staff.I was unhappy because I didn't know the name, but I was impressed by the hard work of working hard for customers and working as a positive mind.
-I want to visit again next time"
-99,10.0,"It's clean, soft and hot water, and it's good to have water pressure."
-100,8.8,I have to stay afterwards.Employee response requires a new line
-101,10.0,Good
-102,10.0,"Winter trips to preliminary college students and parents are so happy to have a lot of memories in Jeju.
+I want to visit again next time",5.0,0.8717
+10.0,"It's clean, soft and hot water, and it's good to have water pressure.",4.0,0.5267
+8.8,I have to stay afterwards.Employee response requires a new line,0.0,0.0
+10.0,Good,3.0,0.4404
+10.0,"Winter trips to preliminary college students and parents are so happy to have a lot of memories in Jeju.
 It's so pretty when the surrounding trails will be sunk.Lighting is fantasy.
-It is a promenade with Lotte Hotel, so the night light is more beautiful."
-103,10.0,The kids were also satisfied with the accommodation ^^ I like it because it is clean
-104,5.2,"It has a strong scent that seems to hide the smell of something different, but it smells like a head."
-105,9.6,It was the best location for the price.
-106,7.2,"There was a long hair to open the body towel ... I had to wash my face and brush my teeth.There's something like a point in the bedding, so it's a moment?I did it, but it wasn't ;;;There was a fly flies in the bathroom bathtub.The atmosphere was good, but it was a bit unfortunate."
-107,7.6,I am generally satisfied.
-108,10.0,"It's a room condition, a price, and it's all very satisfied.It is God's Hansu to make a reservation with a family pool room.No matter how warm the water is, I was worried that the outdoor swimming would be difficult if the weather was cold.If you go to Jeju, the children will go to the same room again."
-109,10.0,"It was a variety of breakfast and I ate it as soon as I opened it, and I was able to see the chefs who were busy moving to greet customers.It was Jungmun, so it was so good to visit Seogwipo and the west.The swimming pool was operated as a lukewarm pool."
-110,9.2,"Separate from 4 families
+It is a promenade with Lotte Hotel, so the night light is more beautiful.",7.0,0.9331
+10.0,The kids were also satisfied with the accommodation ^^ I like it because it is clean,6.0,0.7906
+5.2,"It has a strong scent that seems to hide the smell of something different, but it smells like a head.",3.0,0.6187
+9.6,It was the best location for the price.,3.0,0.6369
+7.2,"There was a long hair to open the body towel ... I had to wash my face and brush my teeth.There's something like a point in the bedding, so it's a moment?I did it, but it wasn't ;;;There was a fly flies in the bathroom bathtub.The atmosphere was good, but it was a bit unfortunate.",5.0,0.1531
+7.6,I am generally satisfied.,2.0,0.4215
+10.0,"It's a room condition, a price, and it's all very satisfied.It is God's Hansu to make a reservation with a family pool room.No matter how warm the water is, I was worried that the outdoor swimming would be difficult if the weather was cold.If you go to Jeju, the children will go to the same room again.",0.0,-0.4019
+10.0,"It was a variety of breakfast and I ate it as soon as I opened it, and I was able to see the chefs who were busy moving to greet customers.It was Jungmun, so it was so good to visit Seogwipo and the west.The swimming pool was operated as a lukewarm pool.",4.0,0.722
+9.2,"Separate from 4 families
 But I made a reservation because I wanted to sleep in one shot.
 It was a smoking cessation, but it smelled a bit in the curtain.
 Perhaps it was a conscientious guest who used the room.
-Elbe is fast and there is a convenience store right in front of me, and the info staff was so kind.I slept in the double floor, but the soundproofing was not slightly.Still, there were many restaurants nearby and the cafes were close and good"
-111,10.0,"The location is so good.
-It also provided breakfast for price and tasted good."
-112,10.0,"Apply with Agoda and get a lot of discounts
-It's very comfortable and clean"
-113,8.4,"Masks in Jeju Island.Always stay in Jungmun.to do
+Elbe is fast and there is a convenience store right in front of me, and the info staff was so kind.I slept in the double floor, but the soundproofing was not slightly.Still, there were many restaurants nearby and the cafes were close and good",5.0,0.5927
+10.0,"The location is so good.
+It also provided breakfast for price and tasted good.",6.0,0.8168
+10.0,"Apply with Agoda and get a lot of discounts
+It's very comfortable and clean",4.0,0.762
+8.4,"Masks in Jeju Island.Always stay in Jungmun.to do
 Lotte.Silla.It's all.Expensive and room condition
 just.I did.
 first.location.price.I'm so satisfied.Room.situation.It's the best.Jungmun.Dinner and drink.Cold when I go out
 The bus terminal.Before.there is.very
 I was satisfied ~~
-Jungmun.Sweet ^^"
-114,9.6,"It was for two nights to be pleasant to welcome it with a fragrant scent.Thank you for reflecting your location and facilities quiet and 5 stars in Jungmun.Clean, clean and friendly.The breakfast was clean and fine.As a house wine event, a glass of wine in Lataberna on the first floor ~ The airport bus will be lowered in front of the hotel."
-115,6.8,"The most friendly employee was the guard.You handled it neatly and quickly.When I checked in, the staff gathered and talked.Well, but it was not good for the first impression of the hotel, and in the meantime, I couldn't find the room with the wrong guidance of the staff and returned to the front of the front.
-And it rained a lot at night, and the sound of the rain in the room was so big that I was so surprised that it was really bursting.It was really not good"
-116,8.4,"The location is so good, but the facilities are limited"
-117,10.0,"The staff are also friendly
-The inside of the hotel was not noisy"
-118,8.4,Generally satisfied
-119,10.0,Review of business trip
-120,10.0,I like the review of the review of the business trip
-121,10.0,Review of business trip
-122,8.0,You can play in the pool
-123,3.6,"Most of the employees were not aware of the baby goods rental service and were very passive and mechanical.
-The room condition was also located in Jungmun, so I didn't think of it."
-124,9.2,"I had a good fitness in the morning and I had a curtain in the morning, so I could feel that the view of overseas travel is really a trip.The swimming pool was romantic air at night.I am satisfied"
-125,9.6,"While I was living, the location of the hostel was all good, etc."
-126,8.0,stayed here for one night as a couple. located in the main hotel area near joongmun  meaning 1)great for transportation 2) convenient bc you can use the restaurants of other hotels 3) close to a beach. room was great  very clean and airy. it was rainy an cold when we went so we couldn't enjoy the view  but would come back in the summer
-127,8.0,I was grateful that guests came and caught in foreign countries.
-128,9.2,"It would have been better if the weather was good, but the breakfast on the terrace was the best.It is recommended to stay on the terrace for about one day in Jeju.The bathroom is old.I have a doctor of return."
-129,9.6,It was clean and uncomfortable.
-130,9.6,"I feel like Jeju Island, and the amount is good and I liked the location so much."
-131,2.0,The price for the price is not expensive
-132,10.0,The property is so good and I like the surrounding location.
-133,9.6,"However, I need to catch the smell of the toilet mold once
- In addition to the satisfaction"
-134,10.0,"It was small but there was a two -layer bed, so it was not inconvenient to use three people."
-135,8.8,It is good to stay in Jungmun and just stay without the use of additional facilities.
-136,8.0,"It was a shame that Taras Buya was rumored to have a slightly neglected manage.Still, the viewdo restaurant Taras Rasfish is also a restaurant"
-137,10.0,I was happy and happy !!
-138,8.8,"The price is excellent in the Jungmun location
+Jungmun.Sweet ^^",9.0,0.4215
+9.6,"It was for two nights to be pleasant to welcome it with a fragrant scent.Thank you for reflecting your location and facilities quiet and 5 stars in Jungmun.Clean, clean and friendly.The breakfast was clean and fine.As a house wine event, a glass of wine in Lataberna on the first floor ~ The airport bus will be lowered in front of the hotel.",17.0,0.8807
+6.8,"The most friendly employee was the guard.You handled it neatly and quickly.When I checked in, the staff gathered and talked.Well, but it was not good for the first impression of the hotel, and in the meantime, I couldn't find the room with the wrong guidance of the staff and returned to the front of the front.
+And it rained a lot at night, and the sound of the rain in the room was so big that I was so surprised that it was really bursting.It was really not good",-3.0,-0.4281
+8.4,"The location is so good, but the facilities are limited",2.0,0.0053
+10.0,"The staff are also friendly
+The inside of the hotel was not noisy",1.0,0.5744
+8.4,Generally satisfied,2.0,0.4215
+10.0,Review of business trip,0.0,0.0
+10.0,I like the review of the review of the business trip,2.0,0.3612
+10.0,Review of business trip,0.0,0.0
+8.0,You can play in the pool,0.0,0.34
+3.6,"Most of the employees were not aware of the baby goods rental service and were very passive and mechanical.
+The room condition was also located in Jungmun, so I didn't think of it.",-1.0,0.2716
+9.2,"I had a good fitness in the morning and I had a curtain in the morning, so I could feel that the view of overseas travel is really a trip.The swimming pool was romantic air at night.I am satisfied",6.0,0.8591
+9.6,"While I was living, the location of the hostel was all good, etc.",3.0,0.4404
+8.0,stayed here for one night as a couple. located in the main hotel area near joongmun  meaning 1)great for transportation 2) convenient bc you can use the restaurants of other hotels 3) close to a beach. room was great  very clean and airy. it was rainy an cold when we went so we couldn't enjoy the view  but would come back in the summer,9.0,0.3508
+8.0,I was grateful that guests came and caught in foreign countries.,3.0,0.4588
+9.2,"It would have been better if the weather was good, but the breakfast on the terrace was the best.It is recommended to stay on the terrace for about one day in Jeju.The bathroom is old.I have a doctor of return.",10.0,0.6249
+9.6,It was clean and uncomfortable.,0.0,0.0258
+9.6,"I feel like Jeju Island, and the amount is good and I liked the location so much.",7.0,0.802
+2.0,The price for the price is not expensive,0.0,0.0
+10.0,The property is so good and I like the surrounding location.,5.0,0.7583
+9.6,"However, I need to catch the smell of the toilet mold once
+ In addition to the satisfaction",0.0,0.4404
+10.0,"It was small but there was a two -layer bed, so it was not inconvenient to use three people.",-2.0,0.3724
+8.8,It is good to stay in Jungmun and just stay without the use of additional facilities.,3.0,0.4404
+8.0,"It was a shame that Taras Buya was rumored to have a slightly neglected manage.Still, the viewdo restaurant Taras Rasfish is also a restaurant",-4.0,-0.7357
+10.0,I was happy and happy !!,6.0,0.8395
+8.8,"The price is excellent in the Jungmun location
 Inner hotel facility users are unfavorable (internal facilities are vulnerable compared to other Jungmun hotels-so the price is good)
 Employees are kind
-I am satisfied"
-139,10.0,"No soundproofing
-But the room condition and location were very good!"
-140,9.6,Recommended terrace room!
-141,9.2,"It's Jungmun, so it's convenient.The staff were kind to the neat accommodation, so I was satisfied for two days."
-142,10.0,The location is so good and the accommodation is clean and fun.
-143,9.2,Breakfast is a bit disappointing than other hotels
-144,9.2,"Clean
-The pool is warm, so there were quite a few people used at night"
-145,8.8,Why is it an ambiguous position for 5 adults.The facility is simple and tidy.Luxury splendor Modern Instagram feelings.
-146,8.8,"I used it for two nights and three days schedules with second -hand children.
+I am satisfied",6.0,0.8402
+10.0,"No soundproofing
+But the room condition and location were very good!",2.0,0.61
+9.6,Recommended terrace room!,2.0,0.2714
+9.2,"It's Jungmun, so it's convenient.The staff were kind to the neat accommodation, so I was satisfied for two days.",4.0,0.8583
+10.0,The location is so good and the accommodation is clean and fun.,9.0,0.8671
+9.2,Breakfast is a bit disappointing than other hotels,-2.0,-0.4939
+9.2,"Clean
+The pool is warm, so there were quite a few people used at night",3.0,0.5574
+8.8,Why is it an ambiguous position for 5 adults.The facility is simple and tidy.Luxury splendor Modern Instagram feelings.,2.0,0.6124
+8.8,"I used it for two nights and three days schedules with second -hand children.
 It was neat and I lended the umbrella on a rainy day and greeted each employee.
 There was nothing very uncomfortable because it was around the hostel.
 
-I used a terrace room on the first floor with a bunker bed, but I slept alternately."
-147,8.8,"It is true that it is old and dead when it comes to time.
-However, the location is close and the hot water grass will be satisfied with children to adults."
-148,9.2,"It is a place for our couple because it was a house that the child went back and forth when he was young.I still like it because it is cheaper, clean and friendly compared to the nearby hotels."
-149,8.4,"Bedding and toilets were especially clean
-It was a pity that the convenience facilities in the hotel were unfortunate."
-150,10.0,I want to go again
-151,8.0,"It's a hotel where my mom and daughter stayed for 2 days and 2 days.
+I used a terrace room on the first floor with a bunker bed, but I slept alternately.",-2.0,0.637
+8.8,"It is true that it is old and dead when it comes to time.
+However, the location is close and the hot water grass will be satisfied with children to adults.",1.0,0.0772
+9.2,"It is a place for our couple because it was a house that the child went back and forth when he was young.I still like it because it is cheaper, clean and friendly compared to the nearby hotels.",6.0,0.8126
+8.4,"Bedding and toilets were especially clean
+It was a pity that the convenience facilities in the hotel were unfortunate.",0.0,-0.2975
+10.0,I want to go again,1.0,0.0772
+8.0,"It's a hotel where my mom and daughter stayed for 2 days and 2 days.
 I think I made a good choice.Mom liked it so much.
 Employees are also kind and food that is made with room service
-I ate well.This is the next place I want to go again.^-^/"
-152,8.4,"The location is in the middle of the Jungmun complex, but it is an old building, so the room is remodeled and it's okay.Of course, you can use a good location at an affordable price."
-153,9.2,"All folded terrace and bunker bed on the second floor.Sweet hotel decided to look at the terrace breakfast room service setting.It was not so large and the facilities were concise and good.
+I ate well.This is the next place I want to go again.^-^/",8.0,0.8555
+8.4,"The location is in the middle of the Jungmun complex, but it is an old building, so the room is remodeled and it's okay.Of course, you can use a good location at an affordable price.",5.0,0.5927
+9.2,"All folded terrace and bunker bed on the second floor.Sweet hotel decided to look at the terrace breakfast room service setting.It was not so large and the facilities were concise and good.
 The employees are all kind and the hotel is good.
-The first floor with the children and the terrace, so it was easy and cozy to use the pool mini library."
-154,9.2,"There are 5 -star hotels in the surrounding area, so the comparison is a bit comparable, but I went too well in terms of price.
+The first floor with the children and the terrace, so it was easy and cozy to use the pool mini library.",11.0,0.9074
+9.2,"There are 5 -star hotels in the surrounding area, so the comparison is a bit comparable, but I went too well in terms of price.
 It's small with the pool, so it's good for children to play.
-The bedding was clean and good"
-155,7.2,"The location is good.
+The bedding was clean and good",8.0,0.9574
+7.2,"The location is good.
 But there is not enough facilities to go with children
 I went to Kidsbang, but I only have a book
 I think there is a slide swimming pool.
@@ -303,24 +303,24 @@ People are empty in the snack bar.
 When checking in, the person who checks in the desk was not so kind.
 It was good when I came out with Chak out to me.
 The cleaning state is a bug and a toothpick?There was the same thing ㅠ The bug was in the bathroom ...
-I don't think it's because it's the first floor"
-156,10.0,"The children liked it because it was a double floor
+I don't think it's because it's the first floor",5.0,-0.7172
+10.0,"The children liked it because it was a double floor
 The bed is spacious and comfortable
-It is also good to use the pool"
-157,10.0,This is a good value for money.
-158,10.0,Location price facilities were all good.
-159,6.4,"First of all, Private Pool was good.
+It is also good to use the pool",8.0,0.8402
+10.0,This is a good value for money.,3.0,0.6486
+10.0,Location price facilities were all good.,3.0,0.4404
+6.4,"First of all, Private Pool was good.
 
 The private pool is on the first floor, which is inconvenient due to the upstairs guests.
 And it is a problem because people who smoke throw the cigarette butts on the first floor.
 
 The room condition in the family room is not good.The smell of humid is so severe that you can't sleep.
 
-Breakfast room service is satisfactory, inexpensive and suitable."
-160,10.0,"I met seven years, but Jeju Island was the first time.:)"
-161,10.0,It was good to be able to take pictures beautifully in a private pool or a cute room in front of the room.
-162,10.0,Quiet and good atmosphere.
-163,7.6,"It's been a few hours since I entered, but it's still hot, so I contacted the front front and check if the balcony door was closed well ...
+Breakfast room service is satisfactory, inexpensive and suitable.",-3.0,-0.4707
+10.0,"I met seven years, but Jeju Island was the first time.:)",0.0,0.0
+10.0,It was good to be able to take pictures beautifully in a private pool or a cute room in front of the room.,8.0,0.8625
+10.0,Quiet and good atmosphere.,3.0,0.4404
+7.6,"It's been a few hours since I entered, but it's still hot, so I contacted the front front and check if the balcony door was closed well ...
 If the balcony door is open, the air conditioner doesn't work ???
 
 Every time it is hot, the balcony door is closed, so I opened the balcony door again and closed it.
@@ -331,43 +331,43 @@ It was hot when I had breakfast in the morning ..
 Is it because the facility is old ... ha ... it's not midsummer, but it's hot!
 
 The staff were kind.
-I don't think I will visit again."
-164,8.0,great place  easy to walk around the neighborhood  rooms are quite dark and humid. cleaning could be done better. staffs are very welcoming and kind.
-165,10.0,"I've been resting well.
-The pool is not big, but I sent it comfortably"
-166,8.0,It would be nice to take the pool or Kabana with the children.
-167,6.0,"I thought it was a good hotel in the past, so I went back to the past.However, the employees' services were kind.However, the facility was not undergoing.How about changing the curtain color ..."
-168,9.2,"The location is so good.There is also a promenade and parents
-You liked it so much.Breakfast is also diverse and good"
-169,10.0,"I went to three friends, but the bed was good.
-Room service price was so good ~!"
-170,10.0,"The best hotel for the price, especially the terrace"
-171,10.0,The warm response of the staff was good.
-172,2.4,"Sanitary condition is good.
+I don't think I will visit again.",8.0,0.9134
+8.0,great place  easy to walk around the neighborhood  rooms are quite dark and humid. cleaning could be done better. staffs are very welcoming and kind.,8.0,0.9498
+10.0,"I've been resting well.
+The pool is not big, but I sent it comfortably",3.0,0.6428
+8.0,It would be nice to take the pool or Kabana with the children.,3.0,0.4215
+6.0,"I thought it was a good hotel in the past, so I went back to the past.However, the employees' services were kind.However, the facility was not undergoing.How about changing the curtain color ...",5.0,0.4404
+9.2,"The location is so good.There is also a promenade and parents
+You liked it so much.Breakfast is also diverse and good",8.0,0.6908
+10.0,"I went to three friends, but the bed was good.
+Room service price was so good ~!",6.0,0.8762
+10.0,"The best hotel for the price, especially the terrace",3.0,0.6369
+10.0,The warm response of the staff was good.,4.0,0.5859
+2.4,"Sanitary condition is good.
 Breakfast was also delicious.
-I'm going to visit again when I travel."
-173,8.8,"I went to the terrace ha, but I didn't really regret it."
-174,6.8,"Four families (including youth) are too narrow.It's hot, so it's hard to use the terrace."
-175,10.0,Good cleanliness and location
-176,8.8,It was so hot and humid that it was not used.Look at the weather and make a reservation
-177,9.6,"It was smaller than Silla and Lotte, but it was good because it was cute and exotic."
-178,9.2,The employee's response is fast and friendly. I was assigned to the rooms that I asked before the accommodation and I asked one more room for the room.
-179,10.0,"It's good to use restaurants nearby, clean rooms and views are so good!"
-180,6.4,"Because I talked backwards if I should go to the front defense
+I'm going to visit again when I travel.",6.0,0.765
+8.8,"I went to the terrace ha, but I didn't really regret it.",0.0,0.6153
+6.8,"Four families (including youth) are too narrow.It's hot, so it's hard to use the terrace.",-1.0,-0.1725
+10.0,Good cleanliness and location,3.0,0.4404
+8.8,It was so hot and humid that it was not used.Look at the weather and make a reservation,0.0,0.0
+9.6,"It was smaller than Silla and Lotte, but it was good because it was cute and exotic.",5.0,0.8338
+9.2,The employee's response is fast and friendly. I was assigned to the rooms that I asked before the accommodation and I asked one more room for the room.,2.0,0.4939
+10.0,"It's good to use restaurants nearby, clean rooms and views are so good!",8.0,0.8313
+6.4,"Because I talked backwards if I should go to the front defense
 I went up and down ㅡ ㅡ
-The family is narrow and the room is narrow."
-181,6.0,"I don't think I'll go twice
-The staff's explanation is not too sincerity"
-182,8.8,"The facilities such as the pool gym are not priced.
+The family is narrow and the room is narrow.",0.0,0.128
+6.0,"I don't think I'll go twice
+The staff's explanation is not too sincerity",2.0,0.0
+8.8,"The facilities such as the pool gym are not priced.
 Nearly 4-5 pyeong of the gym?It is difficult to enjoy well because there are two kinds of running at the extent and the pool has a lot of babies.
 
 but!!!
 I must be a room with a terrace
-Because the terrace is pretty…🫰"
-183,9.2,"It was so good that it didn't cost for the pool and health.The breakfast is also clean, so it tasted.I think it was just the best for rest."
-184,6.0,"I knew it was an old facility, but it was a pity to clean up
-Bathroom drainage hair."
-185,7.2,"It is a good hotel among the Chinese luxury hotels
+Because the terrace is pretty…🫰",2.0,0.4168
+9.2,"It was so good that it didn't cost for the pool and health.The breakfast is also clean, so it tasted.I think it was just the best for rest.",8.0,0.892
+6.0,"I knew it was an old facility, but it was a pity to clean up
+Bathroom drainage hair.",0.0,0.1901
+7.2,"It is a good hotel among the Chinese luxury hotels
 Used in the past and was okay
 I decided to go to this trip
 Running to the level of running almost from above
@@ -378,139 +378,139 @@ I couldn't relax on my tired trip.
 In the early evening, I told the staff that there was noise between floors.
 The guests are at all
 I don't know if there was no courtesy
-I don't think I'm going to use it again because I am disappointed this time."
-186,8.4,"I was in a hurry with a family trip, but it's not bad."
-187,10.0,It is the best for families to use
-188,10.0,The rooms are also wider than the average hotels.
-189,6.4,"I came with a friend, but it wasn't as luxurious than I thought."
-190,9.2,It's clean and the atmosphere is so good compared to the year
-191,10.0,It is the best price -effective 5 -star hotel between Lotte and Shilla Hotel.Both swimming breakfast accommodation is satisfactory.
-192,8.0,The pool is a bit old
-193,10.0,The service is satisfied.Breakfast seems to be a taste difference!
-194,4.8,"I was really unpleasant in the attitude of instructions.
+I don't think I'm going to use it again because I am disappointed this time.",4.0,-0.8147
+8.4,"I was in a hurry with a family trip, but it's not bad.",-3.0,0.5824
+10.0,It is the best for families to use,3.0,0.6369
+10.0,The rooms are also wider than the average hotels.,0.0,0.0
+6.4,"I came with a friend, but it wasn't as luxurious than I thought.",1.0,0.2732
+9.2,It's clean and the atmosphere is so good compared to the year,5.0,0.7537
+10.0,It is the best price -effective 5 -star hotel between Lotte and Shilla Hotel.Both swimming breakfast accommodation is satisfactory.,5.0,0.8689
+8.0,The pool is a bit old,0.0,0.0
+10.0,The service is satisfied.Breakfast seems to be a taste difference!,2.0,0.0
+4.8,"I was really unpleasant in the attitude of instructions.
 Do I stay in this hotel?
 I had a kiosk, so I thought I was self -checking in and went forward.
 Why should I pay for it?
 The female employee was really kind.
 Men's staff (who are old) are the basic at the hotel.
 I've noticed a few times, but I think it's too bad.
-Giving money and noticing the staff .. ^^"
-195,9.2,dot
-196,9.2,"There was a bunker bed, so it was good to sleep
+Giving money and noticing the staff .. ^^",-4.0,-0.4696
+9.2,dot,0.0,0.0
+9.2,"There was a bunker bed, so it was good to sleep
 The terrace was really the advantage.
 It was a pity that I couldn't use the terrace on a rainy day
-I was very satisfied with the terrace reporting."
-197,8.0,"I am disappointed because it is too expected
+I was very satisfied with the terrace reporting.",4.0,0.7214
+8.0,"I am disappointed because it is too expected
 In fact, I didn't expect the Shilla Hotel class
 Restaurant restaurants, etc.
 Too too ...
-No re -examination."
-198,8.4,It's not bad overall
-199,2.0,"There are not one or two problems.I couldn't believe this was 5 stars.It's a room with my children, but I was surprised because there was a glass debris on the terrace.What if the kids stepped on?The stains were not managed at all, and the bedding was so damp that it was too damp.In spite of the front, the room moved.Besides, breakfast was more ridiculous.I told you that the herbs were fifty, and the chef said that it tastes good.The chef who says that or a staff who convey it…It was the worst.I think it's just a good job for foreigners.It's just a good value.Employees' attitudes are as good as a luxury hotel.It doesn't suit you."
-200,10.0,"The hygiene is clean, the staff are friendly, and it's good to go with the child !!"
-201,10.0,"Room condition location service interior is all satisfied.
-The hotel is small and pretty."
-202,8.0,"If you use the spring autumn terrace room, it seems like you're camping.
-But the facility is old"
-203,10.0,"I put Jeju as a new day, but the hotel is so good."
-204,8.0,"There is a water purifier, so you can understand that you don't have a refrigerator, but it's a bit like a water purifier that comes out with cold water.Other facilities were good, so there was no big inconvenience."
-205,4.0,"There was a smell of squeezing in the cafe, and the bathroom was the same."
-206,9.6,It's on the Jungmun side and right next to the Shilla Hotel!It is also good to walk and overall facilities are good.
-207,8.8,"It is a cheap hotel in Jungmun Complex.
-It's good to stay and walk around the Shilla Hotel Parnas.But the cleaning state is sad."
-208,7.2,"Duplex rooms were good to stay, and the child liked it because of the stairs.It was just because the floor was carpet and it wasn't a bit clean.I didn't use the facilities for only one night.The terrace scenery was pretty and the staff were kind."
-209,9.6,"It is a place where you can return to visit, but both locations and facilities are good."
-210,7.6,"The location was good and the room condition was good and the whole is satisfied
+No re -examination.",-3.0,-0.6486
+8.4,It's not bad overall,-3.0,0.431
+2.0,"There are not one or two problems.I couldn't believe this was 5 stars.It's a room with my children, but I was surprised because there was a glass debris on the terrace.What if the kids stepped on?The stains were not managed at all, and the bedding was so damp that it was too damp.In spite of the front, the room moved.Besides, breakfast was more ridiculous.I told you that the herbs were fifty, and the chef said that it tastes good.The chef who says that or a staff who convey it…It was the worst.I think it's just a good job for foreigners.It's just a good value.Employees' attitudes are as good as a luxury hotel.It doesn't suit you.",6.0,0.8519
+10.0,"The hygiene is clean, the staff are friendly, and it's good to go with the child !!",7.0,0.855
+10.0,"Room condition location service interior is all satisfied.
+The hotel is small and pretty.",3.0,0.7184
+8.0,"If you use the spring autumn terrace room, it seems like you're camping.
+But the facility is old",2.0,0.1901
+10.0,"I put Jeju as a new day, but the hotel is so good.",3.0,0.7279
+8.0,"There is a water purifier, so you can understand that you don't have a refrigerator, but it's a bit like a water purifier that comes out with cold water.Other facilities were good, so there was no big inconvenience.",3.0,0.1666
+4.0,"There was a smell of squeezing in the cafe, and the bathroom was the same.",0.0,0.0
+9.6,It's on the Jungmun side and right next to the Shilla Hotel!It is also good to walk and overall facilities are good.,6.0,0.7263
+8.8,"It is a cheap hotel in Jungmun Complex.
+It's good to stay and walk around the Shilla Hotel Parnas.But the cleaning state is sad.",1.0,-0.0516
+7.2,"Duplex rooms were good to stay, and the child liked it because of the stairs.It was just because the floor was carpet and it wasn't a bit clean.I didn't use the facilities for only one night.The terrace scenery was pretty and the staff were kind.",10.0,0.9062
+9.6,"It is a place where you can return to visit, but both locations and facilities are good.",3.0,0.5927
+7.6,"The location was good and the room condition was good and the whole is satisfied
 However, the staff unknowing when check -in.
-The staff were kind during check -out."
-211,10.0,The location is good and the inside of the hostel is clean and good
-212,9.2,"The hotel is clean and located and the use is so convenient.Next to the Shilla Hotel, you can use the Shilla Hotel meals, walk the garden, go to Jungmun Sea, and are satisfied in many ways."
-213,9.6,It was good to be quiet because the hotel was quiet and relaxed.
-214,9.6,It was so good ㅎㅎ There are various hotels nearby and the facility Du Good Good
-215,10.0,Terrace room is clean and satisfied
-216,9.6,It was comfortable and good because there were two large beds with the double floor.It was good to have one TV for each bed.
-217,8.4,"Depending on the room, the view can be seen and the pool is narrow.The location is okay in the Chinese gate"
-218,10.0,I rested really comfortably ^^
-219,10.0,great
-220,7.6,"The facilities for the price for the price were aging, especially the toilet toilet toilet/bathtub drainage, so I could not use it smoothly.I called the administrator in the middle, but the next day happened again.I think you should pay more attention to the facility."
-221,7.6,"The terrace is good, but it is a pity that there is a lack of facilities.The interior of the interior is also needed to suit the grade.I couldn't sleep comfortably with male guests who were not soundproofed, so I moved the room."
-222,10.0,"It is next to the Shilla Hotel, clean and reasonable."
-223,8.4,Great accommodation.Pretty bathtub.Spacious living room
-224,5.2,"I made a reservation after seeing the review ... I was a little disappointed.
+The staff were kind during check -out.",10.0,0.9001
+10.0,The location is good and the inside of the hostel is clean and good,8.0,0.8176
+9.2,"The hotel is clean and located and the use is so convenient.Next to the Shilla Hotel, you can use the Shilla Hotel meals, walk the garden, go to Jungmun Sea, and are satisfied in many ways.",4.0,0.6705
+9.6,It was good to be quiet because the hotel was quiet and relaxed.,5.0,0.7269
+9.6,It was so good ㅎㅎ There are various hotels nearby and the facility Du Good Good,9.0,0.8605
+10.0,Terrace room is clean and satisfied,4.0,0.6705
+9.6,It was comfortable and good because there were two large beds with the double floor.It was good to have one TV for each bed.,8.0,0.8442
+8.4,"Depending on the room, the view can be seen and the pool is narrow.The location is okay in the Chinese gate",0.0,0.2263
+10.0,I rested really comfortably ^^,2.0,0.4754
+10.0,great,3.0,0.6249
+7.6,"The facilities for the price for the price were aging, especially the toilet toilet toilet/bathtub drainage, so I could not use it smoothly.I called the administrator in the middle, but the next day happened again.I think you should pay more attention to the facility.",-1.0,-0.1531
+7.6,"The terrace is good, but it is a pity that there is a lack of facilities.The interior of the interior is also needed to suit the grade.I couldn't sleep comfortably with male guests who were not soundproofed, so I moved the room.",1.0,-0.7781
+10.0,"It is next to the Shilla Hotel, clean and reasonable.",2.0,0.4019
+8.4,Great accommodation.Pretty bathtub.Spacious living room,5.0,0.6249
+5.2,"I made a reservation after seeing the review ... I was a little disappointed.
 The interior frames were put on the shelf behind the bed ...
 The dust is piled up between the frames.
 If you don't think it's going to be managed, it's better to leave it away without such props.
 Really .... ㅠㅠ
-The places you see are neat places"
-225,8.4,great
-226,7.6,"Location is good.I stayed in a double -layered room, but I felt a little small, but there was no problem with an adult 3 child.It was a bit unfortunate that there was no indoor swimming pool, but I think it's a good hotel."
-227,10.0,"It is a neat place without a lot.
-I recommend it"
-228,8.4,It is good to use when the weather is good.
-229,10.0,The price is good and the room condition is good
-230,10.0,The room is spacious and clean
-231,10.0,"A place where you stayed because of the terrace !!There was a terrace on the side of the car, but it was a bit embarrassed, but it was so nice to buy it at the hostel and come to play !!"
-232,10.0,"After traveling at Robbian Pub, a glass of beer is tired
+The places you see are neat places",-1.0,0.4391
+8.4,great,3.0,0.6249
+7.6,"Location is good.I stayed in a double -layered room, but I felt a little small, but there was no problem with an adult 3 child.It was a bit unfortunate that there was no indoor swimming pool, but I think it's a good hotel.",2.0,-0.8519
+10.0,"It is a neat place without a lot.
+I recommend it",2.0,0.224
+8.4,It is good to use when the weather is good.,6.0,0.7003
+10.0,The price is good and the room condition is good,6.0,0.7003
+10.0,The room is spacious and clean,3.0,0.4019
+10.0,"A place where you stayed because of the terrace !!There was a terrace on the side of the car, but it was a bit embarrassed, but it was so nice to buy it at the hostel and come to play !!",1.0,0.7871
+10.0,"After traveling at Robbian Pub, a glass of beer is tired
 The breakfast was also delicious
-I loved the bedding so well."
-233,8.4,"Clean and good location .. It is small and old
-I rested comfortably"
-234,10.0,The bedding and cleaning staff were kind and everyone was satisfied.
-235,8.8,"Our couple living in Jeju Island sometimes stays in Jeju Hotels and stays in Jeju.Sweet Hotel Jeju Premier Sweet Room ~~ When check -in, the staff were very kind and the room was spacious and clean than expected. The bathroom had a bathtub and a shower booth and a large bathroom.For us who liked it, I couldn't sleep because it was a lot of honey, but the bedding was soft and clean.However, there was a lot of dust in the gap next to the refrigerator, which is not easy to reach.If you talk to the front just before 9 o'clock the day before, it helps to choose a breakfast at a discounted price next day.It was a pity that two pages of rudder and baked vegetables ate 60,000 won were a bit unfortunate ~~ And check -in event free drink coupons.I didn't receive it ~ In general, I liked the most was a large room."
-236,6.0,"I used a lot before Corona
-It is not good compared to the old days."
-237,9.6,"The staff are also kind, clean and quiet"
-238,10.0,The terrace room condition was the best and the atmosphere was good.
-239,10.0,"It's a great accommodation located between Shilla Hotel and Lotte Hotel.
+I loved the bedding so well.",4.0,0.8147
+8.4,"Clean and good location .. It is small and old
+I rested comfortably",7.0,0.8126
+10.0,The bedding and cleaning staff were kind and everyone was satisfied.,4.0,0.7351
+8.8,"Our couple living in Jeju Island sometimes stays in Jeju Hotels and stays in Jeju.Sweet Hotel Jeju Premier Sweet Room ~~ When check -in, the staff were very kind and the room was spacious and clean than expected. The bathroom had a bathtub and a shower booth and a large bathroom.For us who liked it, I couldn't sleep because it was a lot of honey, but the bedding was soft and clean.However, there was a lot of dust in the gap next to the refrigerator, which is not easy to reach.If you talk to the front just before 9 o'clock the day before, it helps to choose a breakfast at a discounted price next day.It was a pity that two pages of rudder and baked vegetables ate 60,000 won were a bit unfortunate ~~ And check -in event free drink coupons.I didn't receive it ~ In general, I liked the most was a large room.",20.0,0.9336
+6.0,"I used a lot before Corona
+It is not good compared to the old days.",-2.0,-0.3412
+9.6,"The staff are also kind, clean and quiet",4.0,0.7269
+10.0,The terrace room condition was the best and the atmosphere was good.,6.0,0.7964
+10.0,"It's a great accommodation located between Shilla Hotel and Lotte Hotel.
 Sit on the terrace and enjoy breakfast room service.
-This is recommended!"
-240,8.0,"Everything was fine, such as location, but the facilities are a bit unfortunate."
-241,8.4,"It's a location, so it's a Jungmun complex.
-If you don't like to be fluffy in a hard bed, Goryeo is Goryeo ^. ^"
-242,8.0,"The two -story bed and double beds were composed of a woman's net, and there was a terrace in front of you, so it was good to feel brunchy because it was a room service."
-243,7.6,"I stayed for three people, but I was very comfortable."
-244,8.8,"Good value for money and kindness
-It is convenient because it is located in Jungmun"
-245,10.0,Quiet and distant.I slept here.
-246,8.0,You can also enjoy the water play and the room service breakfast is fantasy on the first floor.
-247,10.0,It's a price -based hotel.The staff were also kind and breakfast was fine and so good
-248,6.4,The toilet shower room facility
-249,10.0,"There are a lot of terrace worms, but it's good to walk and bunker room good"
-250,10.0,"The location is good, so it's easy to move after staying before staying
+This is recommended!",7.0,0.8553
+8.0,"Everything was fine, such as location, but the facilities are a bit unfortunate.",2.0,-0.5574
+8.4,"It's a location, so it's a Jungmun complex.
+If you don't like to be fluffy in a hard bed, Goryeo is Goryeo ^. ^",1.0,-0.3632
+8.0,"The two -story bed and double beds were composed of a woman's net, and there was a terrace in front of you, so it was good to feel brunchy because it was a room service.",3.0,0.4877
+7.6,"I stayed for three people, but I was very comfortable.",2.0,0.7086
+8.8,"Good value for money and kindness
+It is convenient because it is located in Jungmun",5.0,0.8074
+10.0,Quiet and distant.I slept here.,0.0,0.0
+8.0,You can also enjoy the water play and the room service breakfast is fantasy on the first floor.,2.0,0.6808
+10.0,It's a price -based hotel.The staff were also kind and breakfast was fine and so good,7.0,0.8122
+6.4,The toilet shower room facility,0.0,0.0
+10.0,"There are a lot of terrace worms, but it's good to walk and bunker room good",6.0,0.8271
+10.0,"The location is good, so it's easy to move after staying before staying
 The price is fine
 The staff were so kind
-It's a pity that I just went to sleep because I checked in this time."
-251,10.0,"The staff's response was kind, the room was clean and the water purifier was provided.
-I applied for breakfast and ate it, but it has a lot of types and delicious taste."
-252,10.0,"The friendly staff was a nice terrace, a clean facility, and it was the best place to be really satisfied with it!The father and the baby's medicine envelope was insane, so I mistaken it in a hotel trash bin, and the male staff went through all the garbage bags in a situation where I was busy with my original work.I would like to express my deepest gratitude for the goodwill of the male staff who helped me.Thanks to this, I was able to finish my first family trip with my baby.thank you !!"
-253,10.0,"The convenience of the Premier Sweet Room was so great.Throughout the first visit, the best service and comfortable rooms have made me want to visit in the future.If you stay again in Jeju, you will book a sweet hotel and this room again."
-254,10.0,"One of the 5 -star hotels in Jungmun Complex.The feeling of European sensibility boutique hotel.One of the reasons why the first floor with the terrace should go to this hotel.It is the best of the water purifier and the bidet because the teacher group acquired.If you go to Jeju next time, you will definitely use it again."
-255,10.0,"From clean facilities to terrace views, I was also satisfied :) I was thrown into a hotel trash bin by mistake, but I was heartbroken because I couldn't find it again.However, the staff who knew this fact searched for all the trash can to find the baby and father's medicine bag.I would have been so busy enough for my original work, but I was really impressed with the good faith that the male staff gave me.Once again, I would like to express my deepest gratitude.thank you !"
-256,10.0,"The location was good because it was Jungmun and the staff were kind.
+It's a pity that I just went to sleep because I checked in this time.",6.0,0.8683
+10.0,"The staff's response was kind, the room was clean and the water purifier was provided.
+I applied for breakfast and ate it, but it has a lot of types and delicious taste.",7.0,0.8442
+10.0,"The friendly staff was a nice terrace, a clean facility, and it was the best place to be really satisfied with it!The father and the baby's medicine envelope was insane, so I mistaken it in a hotel trash bin, and the male staff went through all the garbage bags in a situation where I was busy with my original work.I would like to express my deepest gratitude for the goodwill of the male staff who helped me.Thanks to this, I was able to finish my first family trip with my baby.thank you !!",16.0,0.9585
+10.0,"The convenience of the Premier Sweet Room was so great.Throughout the first visit, the best service and comfortable rooms have made me want to visit in the future.If you stay again in Jeju, you will book a sweet hotel and this room again.",13.0,0.93
+10.0,"One of the 5 -star hotels in Jungmun Complex.The feeling of European sensibility boutique hotel.One of the reasons why the first floor with the terrace should go to this hotel.It is the best of the water purifier and the bidet because the teacher group acquired.If you go to Jeju next time, you will definitely use it again.",4.0,0.8126
+10.0,"From clean facilities to terrace views, I was also satisfied :) I was thrown into a hotel trash bin by mistake, but I was heartbroken because I couldn't find it again.However, the staff who knew this fact searched for all the trash can to find the baby and father's medicine bag.I would have been so busy enough for my original work, but I was really impressed with the good faith that the male staff gave me.Once again, I would like to express my deepest gratitude.thank you !",10.0,0.9406
+10.0,"The location was good because it was Jungmun and the staff were kind.
 It was a bed, but it was also good to be heated by the floor because it was floor.
 I didn't ask for a humidifier and filled it with a clean humidifier.
 It is a hotel because it is a place where you can use the microwave, but it was also good to heat baby food.
-+ I went to the Shilla Hotel Park View evening buffet ... It was so close."
-257,9.6,"Location is good and hotel condition is good
++ I went to the Shilla Hotel Park View evening buffet ... It was so close.",13.0,0.9371
+9.6,"Location is good and hotel condition is good
 However, convenience facilities are far enough to drive out, and there is no other convenience store.
 Breakfast is also a bit unfortunate for the price
-Others like the hotel quiet, the pool is pretty and the staff is kind."
-258,10.0,"There are many places to tour around, and there are many good places to walk and take a walk, so you can relax and sightseeing, and the items you really need are properly available."
-259,10.0,"Since I entered the first floor, I was kind to the women's staff, and when I entered the room, I felt that it was luxurious and luxurious.All were clean and the bed was so soft that I was very satisfied.At night, Silla Lotte Hotel was nearby, so it was fun to look around.If you go a little car in the tourist complex, there are many restaurants in Olive Young Mart, and even if you go out, there are restaurants that are known in Jungmun.200%will be used again next time."
-260,10.0,"The outdoor swimming pool is a picture, but it's close to Jungmun Beach!The nearby Olle trail is really good and the Cheonjiyeon Falls is also good."
-261,10.0,"It was good to be able to stay at a 5 -star hotel at a good price at the Jungmun Tourism Complex.There were plenty of towels and amenities and it was good to clean the room cleaning while working.However, breakfast was somewhat poor for 5 stars.I stayed in Jeju City, and the food type or quality was compared with the business hotel."
-262,10.0,"It was a corner concept room, which was suitable for four people.The location of the hostel was good, clean and the room service was excellent.I recommend it."
-263,10.0,"There are more rooms for 3-4 people, and check-in checkouts are also a machine, but it is not difficult.It is in the Jungmun Hotel Complex, so it is good to move to the car.The fragrance in the hotel is very good and it's small, but it's good to have everything.First of all, I am very satisfied in terms of price."
-264,10.0,"It's not like a hotel view, but it's clean and the staff are very friendly and soundproofing."
-265,10.0,"Halla Mountain View was so good. The hotel itself is atmosphere!
-In particular, the room condition is satisfactory, and when it was a lot of time, you can call you separately, so please prepare all the necessary parts."
-266,9.6,"I came to Jeju Island several times and made my first visit to Jungmun, but I went to the hotel for the first time."
-267,10.0,"I had a mother and three women stayed.
-It's a room content that can be satisfied with a neat mother, and the bedding was comfortable.The bed is more comfortable than the double bed, so if you go with your parents if you go with your parents.I don't know if I am allocating the room, but it was quiet and the terrace was quiet."
-268,10.0,"I use it again in summer
-The staff are all kind!"
-269,10.0,The staff were all kind and the room condition was good.
-270,9.6,"Location -It's just next to the Shilla Hotel, so it's quiet and there's no restaurant or other facilities that you can walk, but if you move with a rental car, it's quiet (open until 12 o'clock in the hotel).
+Others like the hotel quiet, the pool is pretty and the staff is kind.",10.0,0.8658
+10.0,"There are many places to tour around, and there are many good places to walk and take a walk, so you can relax and sightseeing, and the items you really need are properly available.",3.0,0.7239
+10.0,"Since I entered the first floor, I was kind to the women's staff, and when I entered the room, I felt that it was luxurious and luxurious.All were clean and the bed was so soft that I was very satisfied.At night, Silla Lotte Hotel was nearby, so it was fun to look around.If you go a little car in the tourist complex, there are many restaurants in Olive Young Mart, and even if you go out, there are restaurants that are known in Jungmun.200%will be used again next time.",10.0,0.8646
+10.0,"The outdoor swimming pool is a picture, but it's close to Jungmun Beach!The nearby Olle trail is really good and the Cheonjiyeon Falls is also good.",6.0,0.8711
+10.0,"It was good to be able to stay at a 5 -star hotel at a good price at the Jungmun Tourism Complex.There were plenty of towels and amenities and it was good to clean the room cleaning while working.However, breakfast was somewhat poor for 5 stars.I stayed in Jeju City, and the food type or quality was compared with the business hotel.",11.0,0.8221
+10.0,"It was a corner concept room, which was suitable for four people.The location of the hostel was good, clean and the room service was excellent.I recommend it.",12.0,0.7964
+10.0,"There are more rooms for 3-4 people, and check-in checkouts are also a machine, but it is not difficult.It is in the Jungmun Hotel Complex, so it is good to move to the car.The fragrance in the hotel is very good and it's small, but it's good to have everything.First of all, I am very satisfied in terms of price.",10.0,0.9576
+10.0,"It's not like a hotel view, but it's clean and the staff are very friendly and soundproofing.",6.0,0.8287
+10.0,"Halla Mountain View was so good. The hotel itself is atmosphere!
+In particular, the room condition is satisfactory, and when it was a lot of time, you can call you separately, so please prepare all the necessary parts.",4.0,0.8599
+9.6,"I came to Jeju Island several times and made my first visit to Jungmun, but I went to the hotel for the first time.",0.0,0.0
+10.0,"I had a mother and three women stayed.
+It's a room content that can be satisfied with a neat mother, and the bedding was comfortable.The bed is more comfortable than the double bed, so if you go with your parents if you go with your parents.I don't know if I am allocating the room, but it was quiet and the terrace was quiet.",6.0,0.6365
+10.0,"I use it again in summer
+The staff are all kind!",2.0,0.5707
+10.0,The staff were all kind and the room condition was good.,5.0,0.743
+9.6,"Location -It's just next to the Shilla Hotel, so it's quiet and there's no restaurant or other facilities that you can walk, but if you move with a rental car, it's quiet (open until 12 o'clock in the hotel).
 
 Room condition -It's a bit old, but it's very good to manage.There is a corridor or the next room noise, but it's not a problem here.
 
@@ -518,260 +518,260 @@ Breakfast -not excellent, but 26 400 won (20% discount on guests) is good for th
 
 Staff -cheerful kindness.
 
-Overall, it was a satisfactory stay."
-271,10.0,"There are no hotels with rooms that can sleep with 4 people
-It's the best to have a beer at night on the terrace."
-272,9.6,"The bunker room was unusual, so the child really liked it.
-I had a delivery food on the terrace and I had breakfast. There was a bus from the airport in front of the hotel."
-273,10.0,"When I asked for a large bed, I was able to get a good night's sleep in a big bed, and most of all, the bed is so comfortable.No noise around"
-274,10.0,Clean and friendly .... It was good .... I had a big heart and dinner.It's so delicious that I still want to eat again ...
-275,10.0,"The swimming pool is close and the 5 -star hotel can be done for 100,000 won."
-276,10.0,"I've been resting comfortably.
-The bunker room is so popular on the second floor, so if you think about how to decide on the second floor, you can go in."
-277,10.0,"It is located in Jungmun, so visiting tourist destinations as well as restaurants
-The best location to visit."
-278,10.0,"The staff were so kind and the breakfast was fine. But the inside of the hotel was a little narrow, there was no table. If you are a good business trip, it is a clean and good place to stay."
-279,9.6,"Lotte Hotel Shilla Hotel is located nearby, so it is accessible to Jungmun or Seogwipo.
-Unfortunately, the swimming pool is a bit small and it opens from 10 am. The small thing is inevitable, but the opening of the opening season, for example, from 7 am."
-280,10.0,"The staff are too friendly
+Overall, it was a satisfactory stay.",13.0,0.9774
+10.0,"There are no hotels with rooms that can sleep with 4 people
+It's the best to have a beer at night on the terrace.",2.0,0.4588
+9.6,"The bunker room was unusual, so the child really liked it.
+I had a delivery food on the terrace and I had breakfast. There was a bus from the airport in front of the hotel.",2.0,0.4754
+10.0,"When I asked for a large bed, I was able to get a good night's sleep in a big bed, and most of all, the bed is so comfortable.No noise around",5.0,0.4404
+10.0,Clean and friendly .... It was good .... I had a big heart and dinner.It's so delicious that I still want to eat again ...,12.0,0.9305
+10.0,"The swimming pool is close and the 5 -star hotel can be done for 100,000 won.",3.0,0.5719
+10.0,"I've been resting comfortably.
+The bunker room is so popular on the second floor, so if you think about how to decide on the second floor, you can go in.",5.0,0.7518
+10.0,"It is located in Jungmun, so visiting tourist destinations as well as restaurants
+The best location to visit.",3.0,0.743
+10.0,"The staff were so kind and the breakfast was fine. But the inside of the hotel was a little narrow, there was no table. If you are a good business trip, it is a clean and good place to stay.",11.0,0.9106
+9.6,"Lotte Hotel Shilla Hotel is located nearby, so it is accessible to Jungmun or Seogwipo.
+Unfortunately, the swimming pool is a bit small and it opens from 10 am. The small thing is inevitable, but the opening of the opening season, for example, from 7 am.",1.0,-0.1779
+10.0,"The staff are too friendly
 It's my second visit, but I'm going to go to Jeju again.
-It's so good haha"
-281,10.0,"This is the best location in Jungmun.
+It's so good haha",8.0,0.9123
+10.0,"This is the best location in Jungmun.
 The room is tidy and especially in purification vocation
 It was good to be able to use hygiene and water shortage when drinking ramen or coffee.
 I was able to enjoy the Shilla Hotel Garden after eating at the Silla Hotel right in front of me.
-The bus stop was close, so there was no inconvenience to use without rent."
-282,10.0,There was a grass and the double bed bed was very pleasant.Satisfied with that alone.Small and comfortable hotel
-283,10.0,"I made a reservation for my parents' birthday trip and accommodation, but the location was good and clean."
-284,10.0,"I saw a review that breakfast is delicious, but I think the kind of food type and quality for the real price is so good.
-If you have a chance to go next time, I think I'll choose because of breakfast ~ ^^"
-285,9.6,"In Jungmun, I went to breakfast while only Shilla Hotel!Overseas feelings ~ The room service was all delicious, but the pizza was not so good."
-286,10.0,"In fact, it's funny to be a 5 -star hotel, but it's so good and the best. I want to see the hotels around me."
-287,10.0,It was so fun.The hot water pool is also excellent and the location and value for money are good.
-288,10.0,"It was a good hotel for the family to stay.
-The price was reasonable and the location was in Jungmun."
-289,8.4,"Pool Villa was so good.
-I think I'll use it again next time."
-290,8.0,The location of the location was good.I like the bathroom.I want to visit again.
-291,10.0,"I'm so satisfied
-It was a cozy, kind and unfortunate day!I want to go again"
-292,10.0,The accommodation was very clean and not complicated.I also liked the breakfast at night.
-293,9.6,"I stayed in Jungmun with my parents and children, and it was really comfortable and enjoyable.However, the weather was so cold that I couldn't use the pool.The breakfast was satisfactory and the room hygiene was so clean and good.In particular, the children loved the bunker bed and were comfortable, so the couple+two children were satisfied!"
-294,10.0,"The bedding is really warm and nice
+The bus stop was close, so there was no inconvenience to use without rent.",2.0,0.483
+10.0,There was a grass and the double bed bed was very pleasant.Satisfied with that alone.Small and comfortable hotel,5.0,0.5106
+10.0,"I made a reservation for my parents' birthday trip and accommodation, but the location was good and clean.",5.0,0.8126
+10.0,"I saw a review that breakfast is delicious, but I think the kind of food type and quality for the real price is so good.
+If you have a chance to go next time, I think I'll choose because of breakfast ~ ^^",10.0,0.8739
+9.6,"In Jungmun, I went to breakfast while only Shilla Hotel!Overseas feelings ~ The room service was all delicious, but the pizza was not so good.",6.0,-0.4561
+10.0,"In fact, it's funny to be a 5 -star hotel, but it's so good and the best. I want to see the hotels around me.",11.0,0.9361
+10.0,It was so fun.The hot water pool is also excellent and the location and value for money are good.,10.0,0.8402
+10.0,"It was a good hotel for the family to stay.
+The price was reasonable and the location was in Jungmun.",3.0,0.4404
+8.4,"Pool Villa was so good.
+I think I'll use it again next time.",3.0,0.5777
+8.0,The location of the location was good.I like the bathroom.I want to visit again.,6.0,0.4215
+10.0,"I'm so satisfied
+It was a cozy, kind and unfortunate day!I want to go again",5.0,0.623
+10.0,The accommodation was very clean and not complicated.I also liked the breakfast at night.,4.0,0.1682
+9.6,"I stayed in Jungmun with my parents and children, and it was really comfortable and enjoyable.However, the weather was so cold that I couldn't use the pool.The breakfast was satisfactory and the room hygiene was so clean and good.In particular, the children loved the bunker bed and were comfortable, so the couple+two children were satisfied!",16.0,0.9646
+10.0,"The bedding is really warm and nice
 After all, it was a 5 -star hotel 👍🏻
 The view that I see when I open the window in the morning was wonderful
 The location was also Jungmun, so it was okay to go here and there.
 There was also a CU in front, so it was good to buy something.
 The hot water pool didn't take a swimsuit and just watched it.
 Even if you take a picture on the pool side, it's a photo zone.
-It is pretty recommended 👍🏻👍🏻"
-295,6.4,The kindness of the staff is felt from the front desk.I was welcoming with a bright smile .. I felt better with me.
-296,10.0,"4 family
+It is pretty recommended 👍🏻👍🏻",14.0,0.9537
+6.4,The kindness of the staff is felt from the front desk.I was welcoming with a bright smile .. I felt better with me.,7.0,0.9217
+10.0,"4 family
 Family Bunk Room
-This is the best accommodation in Jeju Island this week."
-297,8.0,Not bad for the price
-298,8.0,"I am comfortable with the cost of accommodation in the middle of 100,000 won.I like it because I have a staircase.
+This is the best accommodation in Jeju Island this week.",3.0,0.6369
+8.0,Not bad for the price,-3.0,0.431
+8.0,"I am comfortable with the cost of accommodation in the middle of 100,000 won.I like it because I have a staircase.
  In winter, I chose to enjoy outdoor water with warm hot water.
 
- Satisfaction"
-299,8.0,great
-300,10.0,"It's not far from the swimming pool, so you can move without much cold even though it was a winter trip.
+ Satisfaction",10.0,0.9153
+8.0,great,3.0,0.6249
+10.0,"It's not far from the swimming pool, so you can move without much cold even though it was a winter trip.
 Bunker beds and double beds were all comfortable
-The terrace is not good to say, so the second round on the terrace ^^"
-301,9.6,"It was a bad winter trip, but it was so good because there was a hot water pool.The staff are also kind and good!"
-302,10.0,Clean facility friendly guide facilities are also satisfied with the comfort and pleasant trip.
-303,10.0,"The location is next to Silla Lotte
+The terrace is not good to say, so the second round on the terrace ^^",0.0,0.2249
+9.6,"It was a bad winter trip, but it was so good because there was a hot water pool.The staff are also kind and good!",5.0,0.942
+10.0,Clean facility friendly guide facilities are also satisfied with the comfort and pleasant trip.,11.0,0.926
+10.0,"The location is next to Silla Lotte
 It was good in the middle of Jungmun.
 
 Thank you for the good service for the price for the price.
-Especially the second floor bed is the best."
-304,10.0,The staff were kind and the accommodation was clean!
-305,7.2,"It's between a good hotel, so if you look at the hotel alone, it was just like that.
-There is no merit compared to the price"
-306,10.0,"Good price
+Especially the second floor bed is the best.",11.0,0.91
+10.0,The staff were kind and the accommodation was clean!,4.0,0.75
+7.2,"It's between a good hotel, so if you look at the hotel alone, it was just like that.
+There is no merit compared to the price",2.0,0.6124
+10.0,"Good price
 Location good ..
 Warm outdoor swimming pool good ..
 Clean and comfortable rooms ..
-I've been resting well."
-307,10.0,I enjoy Jeju well with hot water pool.
-308,10.0,"The children loved the double bed so much and for breakfast
-The satisfaction was high.The pool hot water pool was also so fun.Even though it was cold, I couldn't feel the cold in the hot water pool.I want to use it next time."
-309,10.0,"Bedding was good and breakfast was satisfactory ~
-The location is also good, so I want to use it again next time !!"
-310,10.0,It's a good value for swimming in the middle of winter.The facilities are clean and good.I want breakfast to be cheaper.
-311,9.6,"In Jeju Island, there are many places that are already full, so I searched for the hotel.But 5 -star hotels were expensive and burdensome for 3 nights.I liked it because it was small but it was clean and had a swimming pool.The staff were also friendly!I think it's a place next time!"
-312,9.6,"I used a family bunker room
+I've been resting well.",14.0,0.9493
+10.0,I enjoy Jeju well with hot water pool.,2.0,0.6486
+10.0,"The children loved the double bed so much and for breakfast
+The satisfaction was high.The pool hot water pool was also so fun.Even though it was cold, I couldn't feel the cold in the hot water pool.I want to use it next time.",8.0,0.7964
+10.0,"Bedding was good and breakfast was satisfactory ~
+The location is also good, so I want to use it again next time !!",7.0,0.8633
+10.0,It's a good value for swimming in the middle of winter.The facilities are clean and good.I want breakfast to be cheaper.,9.0,0.8074
+9.6,"In Jeju Island, there are many places that are already full, so I searched for the hotel.But 5 -star hotels were expensive and burdensome for 3 nights.I liked it because it was small but it was clean and had a swimming pool.The staff were also friendly!I think it's a place next time!",6.0,0.629
+9.6,"I used a family bunker room
 The bunker bed was bigger than I thought, so it was so comfortable
 Above all, it was good to have a terrace, and the water purifier installed in the room was really useful.
 Bedding is also clean
 The hotel itself was a low floor, so even if it was a single brewing, it was very good to rest quietly.
 It's the first time to use the first floor room, but I have a lot of convenience.
 The hot water pool was also good and until free use of Kabana
-I really spent it."
-313,8.8,"Thank you for the good service
-I have spent a happy time with my family"
-314,7.6,"I stayed in the terrace room on the first floor.
+I really spent it.",16.0,0.9452
+8.8,"Thank you for the good service
+I have spent a happy time with my family",8.0,0.8442
+7.6,"I stayed in the terrace room on the first floor.
 It's right next to the Shilla Hotel, so it's easy to go to the hills of the trail and Shri.
 The location is so good and the price, but the hotel hygiene is unfortunate.
 Hair was left on the check -in room desk and the pades were buried.
 I changed my room, but this time I was surprised that there was a big pollution.
-In the end, he changed the curtain, but the cleanliness management was unfortunate as a whole, but the staff's attitude was great."
-315,10.0,"I really go to Jeju Island, but my family is going to Jeju Island."
-316,10.0,I was so happy that the breakfast was delicious and the facilities were so good
-317,10.0,"On a trip with Idul and the couple
+In the end, he changed the curtain, but the cleanliness management was unfortunate as a whole, but the staff's attitude was great.",6.0,0.5361
+10.0,"I really go to Jeju Island, but my family is going to Jeju Island.",0.0,0.0
+10.0,I was so happy that the breakfast was delicious and the facilities were so good,9.0,0.9088
+10.0,"On a trip with Idul and the couple
 Sweet accommodation makes beautiful memories
 I gave you the winter, even though it was so good, I played for a while.sweet
-It is completely recommended"
-318,10.0,"It was clean and staff
+It is completely recommended",12.0,0.9373
+10.0,"It was clean and staff
 You are all kind ~ Breakfast is over
 It was delicious ~
-I'm going to suite ♡ Recommended"
-319,10.0,"Make a pledge
-Return !!!"
-320,10.0,"This is the best background open terrace
+I'm going to suite ♡ Recommended",9.0,0.891
+10.0,"Make a pledge
+Return !!!",0.0,0.0
+10.0,"This is the best background open terrace
 At the terrace table while looking at the scenery
 Drinking coffee and stupid
 It's winter, but breakfast buffet for hot water pools
-It's very good ^^"
-321,9.6,"Four -person family is not enough to stay.On the day of the blizzard, the water play in the hot water is a wonderful memory."
-322,8.0,It was easy to attend and it was good to see the surroundings
-323,10.0,It was a comfortable accommodation for friendly employees
-324,10.0,I had a good time with the children and the mini hoc cass.
-325,9.6,"I have a cozy room and a terrace (1st floor) and I stayed well at a beautiful hotel with a garden view with palm trees :)
+It's very good ^^",4.0,0.6897
+9.6,"Four -person family is not enough to stay.On the day of the blizzard, the water play in the hot water is a wonderful memory.",4.0,0.7269
+8.0,It was easy to attend and it was good to see the surroundings,4.0,0.7003
+10.0,It was a comfortable accommodation for friendly employees,4.0,0.7579
+10.0,I had a good time with the children and the mini hoc cass.,3.0,0.4404
+9.6,"I have a cozy room and a terrace (1st floor) and I stayed well at a beautiful hotel with a garden view with palm trees :)
 The location is also located in Jungmun, and there is a convenience store next to it.
-I stayed well last year and returned this year.Recommended if you are looking for a pretty hotel!"
-326,10.0,The child is good to play
-327,8.8,"The price is really good and the restaurant is delicious
+I stayed well last year and returned this year.Recommended if you are looking for a pretty hotel!",6.0,0.9273
+10.0,The child is good to play,3.0,0.6486
+8.8,"The price is really good and the restaurant is delicious
 
 But when it rains, the terrace room cannot be used.
-It's a little unfortunate that I have to go to the Shilla Hotel because there is no electric car charging station."
-328,10.0,"The room is slightly small but full.There is a bathtub in the bathroom, so I washed it well.Even if the bathtub structure was made well, it was good to take a long time because the water was cold and the breakfast was delicious.And even though it was winter, I used a hot water pool.I didn't know that it was cold, but I didn't take a swimsuit, but others would take it ㅠㅠ Jeju Island was 15 degrees and it was hot and it was worth it at night.The breakfast price was about 30,000 won per name."
-329,10.0,Recommended as a child accommodation.
-330,8.8,"The hot water was warm, so it was good to swim in the evening.It was good to have a free coupon event for katoklin pediatric breakfast."
-331,10.0,It is a clean and facility hotel.All of the families were satisfied .... I am a doctor again.
-332,10.0,"I booked for 4 nights and was similar to the nearby hotel
+It's a little unfortunate that I have to go to the Shilla Hotel because there is no electric car charging station.",5.0,-0.443
+10.0,"The room is slightly small but full.There is a bathtub in the bathroom, so I washed it well.Even if the bathtub structure was made well, it was good to take a long time because the water was cold and the breakfast was delicious.And even though it was winter, I used a hot water pool.I didn't know that it was cold, but I didn't take a swimsuit, but others would take it ㅠㅠ Jeju Island was 15 degrees and it was hot and it was worth it at night.The breakfast price was about 30,000 won per name.",11.0,0.9313
+10.0,Recommended as a child accommodation.,2.0,0.2023
+8.8,"The hot water was warm, so it was good to swim in the evening.It was good to have a free coupon event for katoklin pediatric breakfast.",8.0,0.8892
+10.0,It is a clean and facility hotel.All of the families were satisfied .... I am a doctor again.,4.0,0.6705
+10.0,"I booked for 4 nights and was similar to the nearby hotel
 Everything is okay!Unfortunately, breakfast is worth breakfast
 There is no food and the amenity is SOSO?!
 There is no other than that.
-Except when you're busy, please move the carrier baggage"
-333,10.0,The staff were kind and the accommodation was good.
-334,8.0,"I went on a family trip.
-The water temperature was a bit cold because of the winter, but the water temperature was a bit cold."
-335,9.6,"I was worried that I could sleep in one shot, but it was good to have a room for a reasonable price.It was recommended if the hotel was old and the hygiene was a little bad, but if you don't care about it and want a reasonable price."
-336,10.0,It is a hotel that you want to give 1000 points out of 100 points out of 100 points.
-337,8.0,great
-338,9.2,"The location is good because it is Jungmun.The staff are also very friendly.The breakfast is worth eating, and it's a kind and comfortable atmosphere!Outdoor hot water grass is available and it was atmosphere and pretty in the evening!However, the bathroom is old and there are a lot of red water in many places, so the part is a lot."
-339,10.0,"Next time, I visited when it was warm
-I want to eat room service breakfast on the terrace"
-340,10.0,It was a pretty hotel and a good price.
-341,10.0,The hotel I used for the first time .. The location was good and the price was too merit.
-342,9.2,"I am a family hotel accompanied by a child.
+Except when you're busy, please move the carrier baggage",1.0,-0.1984
+10.0,The staff were kind and the accommodation was good.,5.0,0.743
+8.0,"I went on a family trip.
+The water temperature was a bit cold because of the winter, but the water temperature was a bit cold.",0.0,0.0
+9.6,"I was worried that I could sleep in one shot, but it was good to have a room for a reasonable price.It was recommended if the hotel was old and the hygiene was a little bad, but if you don't care about it and want a reasonable price.",2.0,-0.4315
+10.0,It is a hotel that you want to give 1000 points out of 100 points out of 100 points.,1.0,0.0772
+8.0,great,3.0,0.6249
+9.2,"The location is good because it is Jungmun.The staff are also very friendly.The breakfast is worth eating, and it's a kind and comfortable atmosphere!Outdoor hot water grass is available and it was atmosphere and pretty in the evening!However, the bathroom is old and there are a lot of red water in many places, so the part is a lot.",12.0,0.9358
+10.0,"Next time, I visited when it was warm
+I want to eat room service breakfast on the terrace",2.0,0.296
+10.0,It was a pretty hotel and a good price.,4.0,0.7269
+10.0,The hotel I used for the first time .. The location was good and the price was too merit.,3.0,0.6908
+9.2,"I am a family hotel accompanied by a child.
 It is a good hotel because it operates winter hot water and can use the unusual room structure and terrace called bunker room.
 In particular, the operation of the winter hot water was an important point in selecting the hotel, and the satisfaction was good.
-However, there was a complaint in breakfast hygiene."
-343,9.2,"I've been relaxing well
-It's the best price"
-344,7.2,"The bed was too low.The noise outside the door was severe.In general, the facility is underdeveloped"
-345,10.0,"The hygiene is good and the bed has been so far that it was the best.
-Next time, I want to come here again."
-346,10.0,"The location was good, clean and friendly.The breakfast was a bit expensive, but I ate it well and I left an air pot."
-347,10.0,"The employees who tried to immediately handle the inconvenience were always kind and the facilities were clean.Sometimes it was not soundproofed, but I could immediately move the room to spend the remaining schedule comfortably.There was also a beer/wine coupon that was provided free of charge to guests."
-348,8.4,"It's a cold season, but it's really good at water.
+However, there was a complaint in breakfast hygiene.",6.0,0.8074
+9.2,"I've been relaxing well
+It's the best price",3.0,0.8591
+7.2,"The bed was too low.The noise outside the door was severe.In general, the facility is underdeveloped",-2.0,0.0
+10.0,"The hygiene is good and the bed has been so far that it was the best.
+Next time, I want to come here again.",7.0,0.8126
+10.0,"The location was good, clean and friendly.The breakfast was a bit expensive, but I ate it well and I left an air pot.",7.0,0.6652
+10.0,"The employees who tried to immediately handle the inconvenience were always kind and the facilities were clean.Sometimes it was not soundproofed, but I could immediately move the room to spend the remaining schedule comfortably.There was also a beer/wine coupon that was provided free of charge to guests.",5.0,0.7096
+8.4,"It's a cold season, but it's really good at water.
 And female staff.I was unhappy because I didn't know the name, but I was impressed by the hard work of working hard for customers and working as a positive mind.
-I want to visit again next time"
-349,10.0,"It's clean, soft and hot water, and it's good to have water pressure."
-350,8.8,I have to stay afterwards.Employee response requires a new line
-351,10.0,Good
-352,10.0,"Winter trips to preliminary college students and parents are so happy to have a lot of memories in Jeju.
+I want to visit again next time",5.0,0.8717
+10.0,"It's clean, soft and hot water, and it's good to have water pressure.",4.0,0.5267
+8.8,I have to stay afterwards.Employee response requires a new line,0.0,0.0
+10.0,Good,3.0,0.4404
+10.0,"Winter trips to preliminary college students and parents are so happy to have a lot of memories in Jeju.
 It's so pretty when the surrounding trails will be sunk.Lighting is fantasy.
-It is a promenade with Lotte Hotel, so the night light is more beautiful."
-353,10.0,The kids were also satisfied with the accommodation ^^ I like it because it is clean
-354,5.2,"It has a strong scent that seems to hide the smell of something different, but it smells like a head."
-355,9.6,It was the best location for the price.
-356,7.2,"There was a long hair to open the body towel ... I had to wash my face and brush my teeth.There's something like a point in the bedding, so it's a moment?I did it, but it wasn't ;;;There was a fly flies in the bathroom bathtub.The atmosphere was good, but it was a bit unfortunate."
-357,7.6,I am generally satisfied.
-358,10.0,"It's a room condition, a price, and it's all very satisfied.It is God's Hansu to make a reservation with a family pool room.No matter how warm the water is, I was worried that the outdoor swimming would be difficult if the weather was cold.If you go to Jeju, the children will go to the same room again."
-359,10.0,"It was a variety of breakfast and I ate it as soon as I opened it, and I was able to see the chefs who were busy moving to greet customers.It was Jungmun, so it was so good to visit Seogwipo and the west.The swimming pool was operated as a lukewarm pool."
-360,9.2,"Separate from 4 families
+It is a promenade with Lotte Hotel, so the night light is more beautiful.",7.0,0.9331
+10.0,The kids were also satisfied with the accommodation ^^ I like it because it is clean,6.0,0.7906
+5.2,"It has a strong scent that seems to hide the smell of something different, but it smells like a head.",3.0,0.6187
+9.6,It was the best location for the price.,3.0,0.6369
+7.2,"There was a long hair to open the body towel ... I had to wash my face and brush my teeth.There's something like a point in the bedding, so it's a moment?I did it, but it wasn't ;;;There was a fly flies in the bathroom bathtub.The atmosphere was good, but it was a bit unfortunate.",5.0,0.1531
+7.6,I am generally satisfied.,2.0,0.4215
+10.0,"It's a room condition, a price, and it's all very satisfied.It is God's Hansu to make a reservation with a family pool room.No matter how warm the water is, I was worried that the outdoor swimming would be difficult if the weather was cold.If you go to Jeju, the children will go to the same room again.",0.0,-0.4019
+10.0,"It was a variety of breakfast and I ate it as soon as I opened it, and I was able to see the chefs who were busy moving to greet customers.It was Jungmun, so it was so good to visit Seogwipo and the west.The swimming pool was operated as a lukewarm pool.",4.0,0.722
+9.2,"Separate from 4 families
 But I made a reservation because I wanted to sleep in one shot.
 It was a smoking cessation, but it smelled a bit in the curtain.
 Perhaps it was a conscientious guest who used the room.
-Elbe is fast and there is a convenience store right in front of me, and the info staff was so kind.I slept in the double floor, but the soundproofing was not slightly.Still, there were many restaurants nearby and the cafes were close and good"
-361,10.0,"The location is so good.
-It also provided breakfast for price and tasted good."
-362,10.0,"Apply with Agoda and get a lot of discounts
-It's very comfortable and clean"
-363,8.4,"Masks in Jeju Island.Always stay in Jungmun.to do
+Elbe is fast and there is a convenience store right in front of me, and the info staff was so kind.I slept in the double floor, but the soundproofing was not slightly.Still, there were many restaurants nearby and the cafes were close and good",5.0,0.5927
+10.0,"The location is so good.
+It also provided breakfast for price and tasted good.",6.0,0.8168
+10.0,"Apply with Agoda and get a lot of discounts
+It's very comfortable and clean",4.0,0.762
+8.4,"Masks in Jeju Island.Always stay in Jungmun.to do
 Lotte.Silla.It's all.Expensive and room condition
 just.I did.
 first.location.price.I'm so satisfied.Room.situation.It's the best.Jungmun.Dinner and drink.Cold when I go out
 The bus terminal.Before.there is.very
 I was satisfied ~~
-Jungmun.Sweet ^^"
-364,9.6,"It was for two nights to be pleasant to welcome it with a fragrant scent.Thank you for reflecting your location and facilities quiet and 5 stars in Jungmun.Clean, clean and friendly.The breakfast was clean and fine.As a house wine event, a glass of wine in Lataberna on the first floor ~ The airport bus will be lowered in front of the hotel."
-365,6.8,"The most friendly employee was the guard.You handled it neatly and quickly.When I checked in, the staff gathered and talked.Well, but it was not good for the first impression of the hotel, and in the meantime, I couldn't find the room with the wrong guidance of the staff and returned to the front of the front.
-And it rained a lot at night, and the sound of the rain in the room was so big that I was so surprised that it was really bursting.It was really not good"
-366,8.4,"The location is so good, but the facilities are limited"
-367,10.0,"The staff are also friendly
-The inside of the hotel was not noisy"
-368,8.4,Generally satisfied
-369,10.0,Review of business trip
-370,10.0,I like the review of the review of the business trip
-371,10.0,Review of business trip
-372,8.0,You can play in the pool
-373,3.6,"Most of the employees were not aware of the baby goods rental service and were very passive and mechanical.
-The room condition was also located in Jungmun, so I didn't think of it."
-374,9.2,"I had a good fitness in the morning and I had a curtain in the morning, so I could feel that the view of overseas travel is really a trip.The swimming pool was romantic air at night.I am satisfied"
-375,9.6,"While I was living, the location of the hostel was all good, etc."
-376,8.0,stayed here for one night as a couple. located in the main hotel area near joongmun  meaning 1)great for transportation 2) convenient bc you can use the restaurants of other hotels 3) close to a beach. room was great  very clean and airy. it was rainy an cold when we went so we couldn't enjoy the view  but would come back in the summer
-377,8.0,I was grateful that guests came and caught in foreign countries.
-378,9.2,"It would have been better if the weather was good, but the breakfast on the terrace was the best.It is recommended to stay on the terrace for about one day in Jeju.The bathroom is old.I have a doctor of return."
-379,9.6,It was clean and uncomfortable.
-380,9.6,"I feel like Jeju Island, and the amount is good and I liked the location so much."
-381,2.0,The price for the price is not expensive
-382,10.0,The property is so good and I like the surrounding location.
-383,9.6,"However, I need to catch the smell of the toilet mold once
- In addition to the satisfaction"
-384,10.0,"It was small but there was a two -layer bed, so it was not inconvenient to use three people."
-385,8.8,It is good to stay in Jungmun and just stay without the use of additional facilities.
-386,8.0,"It was a shame that Taras Buya was rumored to have a slightly neglected manage.Still, the viewdo restaurant Taras Rasfish is also a restaurant"
-387,10.0,I was happy and happy !!
-388,8.8,"The price is excellent in the Jungmun location
+Jungmun.Sweet ^^",9.0,0.4215
+9.6,"It was for two nights to be pleasant to welcome it with a fragrant scent.Thank you for reflecting your location and facilities quiet and 5 stars in Jungmun.Clean, clean and friendly.The breakfast was clean and fine.As a house wine event, a glass of wine in Lataberna on the first floor ~ The airport bus will be lowered in front of the hotel.",17.0,0.8807
+6.8,"The most friendly employee was the guard.You handled it neatly and quickly.When I checked in, the staff gathered and talked.Well, but it was not good for the first impression of the hotel, and in the meantime, I couldn't find the room with the wrong guidance of the staff and returned to the front of the front.
+And it rained a lot at night, and the sound of the rain in the room was so big that I was so surprised that it was really bursting.It was really not good",-3.0,-0.4281
+8.4,"The location is so good, but the facilities are limited",2.0,0.0053
+10.0,"The staff are also friendly
+The inside of the hotel was not noisy",1.0,0.5744
+8.4,Generally satisfied,2.0,0.4215
+10.0,Review of business trip,0.0,0.0
+10.0,I like the review of the review of the business trip,2.0,0.3612
+10.0,Review of business trip,0.0,0.0
+8.0,You can play in the pool,0.0,0.34
+3.6,"Most of the employees were not aware of the baby goods rental service and were very passive and mechanical.
+The room condition was also located in Jungmun, so I didn't think of it.",-1.0,0.2716
+9.2,"I had a good fitness in the morning and I had a curtain in the morning, so I could feel that the view of overseas travel is really a trip.The swimming pool was romantic air at night.I am satisfied",6.0,0.8591
+9.6,"While I was living, the location of the hostel was all good, etc.",3.0,0.4404
+8.0,stayed here for one night as a couple. located in the main hotel area near joongmun  meaning 1)great for transportation 2) convenient bc you can use the restaurants of other hotels 3) close to a beach. room was great  very clean and airy. it was rainy an cold when we went so we couldn't enjoy the view  but would come back in the summer,9.0,0.3508
+8.0,I was grateful that guests came and caught in foreign countries.,3.0,0.4588
+9.2,"It would have been better if the weather was good, but the breakfast on the terrace was the best.It is recommended to stay on the terrace for about one day in Jeju.The bathroom is old.I have a doctor of return.",10.0,0.6249
+9.6,It was clean and uncomfortable.,0.0,0.0258
+9.6,"I feel like Jeju Island, and the amount is good and I liked the location so much.",7.0,0.802
+2.0,The price for the price is not expensive,0.0,0.0
+10.0,The property is so good and I like the surrounding location.,5.0,0.7583
+9.6,"However, I need to catch the smell of the toilet mold once
+ In addition to the satisfaction",0.0,0.4404
+10.0,"It was small but there was a two -layer bed, so it was not inconvenient to use three people.",-2.0,0.3724
+8.8,It is good to stay in Jungmun and just stay without the use of additional facilities.,3.0,0.4404
+8.0,"It was a shame that Taras Buya was rumored to have a slightly neglected manage.Still, the viewdo restaurant Taras Rasfish is also a restaurant",-4.0,-0.7357
+10.0,I was happy and happy !!,6.0,0.8395
+8.8,"The price is excellent in the Jungmun location
 Inner hotel facility users are unfavorable (internal facilities are vulnerable compared to other Jungmun hotels-so the price is good)
 Employees are kind
-I am satisfied"
-389,10.0,"No soundproofing
-But the room condition and location were very good!"
-390,9.6,Recommended terrace room!
-391,9.2,"It's Jungmun, so it's convenient.The staff were kind to the neat accommodation, so I was satisfied for two days."
-392,10.0,The location is so good and the accommodation is clean and fun.
-393,9.2,Breakfast is a bit disappointing than other hotels
-394,9.2,"Clean
-The pool is warm, so there were quite a few people used at night"
-395,8.8,Why is it an ambiguous position for 5 adults.The facility is simple and tidy.Luxury splendor Modern Instagram feelings.
-396,8.8,"I used it for two nights and three days schedules with second -hand children.
+I am satisfied",6.0,0.8402
+10.0,"No soundproofing
+But the room condition and location were very good!",2.0,0.61
+9.6,Recommended terrace room!,2.0,0.2714
+9.2,"It's Jungmun, so it's convenient.The staff were kind to the neat accommodation, so I was satisfied for two days.",4.0,0.8583
+10.0,The location is so good and the accommodation is clean and fun.,9.0,0.8671
+9.2,Breakfast is a bit disappointing than other hotels,-2.0,-0.4939
+9.2,"Clean
+The pool is warm, so there were quite a few people used at night",3.0,0.5574
+8.8,Why is it an ambiguous position for 5 adults.The facility is simple and tidy.Luxury splendor Modern Instagram feelings.,2.0,0.6124
+8.8,"I used it for two nights and three days schedules with second -hand children.
 It was neat and I lended the umbrella on a rainy day and greeted each employee.
 There was nothing very uncomfortable because it was around the hostel.
 
-I used a terrace room on the first floor with a bunker bed, but I slept alternately."
-397,8.8,"It is true that it is old and dead when it comes to time.
-However, the location is close and the hot water grass will be satisfied with children to adults."
-398,9.2,"It is a place for our couple because it was a house that the child went back and forth when he was young.I still like it because it is cheaper, clean and friendly compared to the nearby hotels."
-399,8.4,"Bedding and toilets were especially clean
-It was a pity that the convenience facilities in the hotel were unfortunate."
-400,10.0,I want to go again
-401,8.0,"It's a hotel where my mom and daughter stayed for 2 days and 2 days.
+I used a terrace room on the first floor with a bunker bed, but I slept alternately.",-2.0,0.637
+8.8,"It is true that it is old and dead when it comes to time.
+However, the location is close and the hot water grass will be satisfied with children to adults.",1.0,0.0772
+9.2,"It is a place for our couple because it was a house that the child went back and forth when he was young.I still like it because it is cheaper, clean and friendly compared to the nearby hotels.",6.0,0.8126
+8.4,"Bedding and toilets were especially clean
+It was a pity that the convenience facilities in the hotel were unfortunate.",0.0,-0.2975
+10.0,I want to go again,1.0,0.0772
+8.0,"It's a hotel where my mom and daughter stayed for 2 days and 2 days.
 I think I made a good choice.Mom liked it so much.
 Employees are also kind and food that is made with room service
-I ate well.This is the next place I want to go again.^-^/"
-402,8.4,"The location is in the middle of the Jungmun complex, but it is an old building, so the room is remodeled and it's okay.Of course, you can use a good location at an affordable price."
-403,9.2,"All folded terrace and bunker bed on the second floor.Sweet hotel decided to look at the terrace breakfast room service setting.It was not so large and the facilities were concise and good.
+I ate well.This is the next place I want to go again.^-^/",8.0,0.8555
+8.4,"The location is in the middle of the Jungmun complex, but it is an old building, so the room is remodeled and it's okay.Of course, you can use a good location at an affordable price.",5.0,0.5927
+9.2,"All folded terrace and bunker bed on the second floor.Sweet hotel decided to look at the terrace breakfast room service setting.It was not so large and the facilities were concise and good.
 The employees are all kind and the hotel is good.
-The first floor with the children and the terrace, so it was easy and cozy to use the pool mini library."
-404,9.2,"There are 5 -star hotels in the surrounding area, so the comparison is a bit comparable, but I went too well in terms of price.
+The first floor with the children and the terrace, so it was easy and cozy to use the pool mini library.",11.0,0.9074
+9.2,"There are 5 -star hotels in the surrounding area, so the comparison is a bit comparable, but I went too well in terms of price.
 It's small with the pool, so it's good for children to play.
-The bedding was clean and good"
-405,7.2,"The location is good.
+The bedding was clean and good",8.0,0.9574
+7.2,"The location is good.
 But there is not enough facilities to go with children
 I went to Kidsbang, but I only have a book
 I think there is a slide swimming pool.
@@ -780,24 +780,24 @@ People are empty in the snack bar.
 When checking in, the person who checks in the desk was not so kind.
 It was good when I came out with Chak out to me.
 The cleaning state is a bug and a toothpick?There was the same thing ㅠ The bug was in the bathroom ...
-I don't think it's because it's the first floor"
-406,10.0,"The children liked it because it was a double floor
+I don't think it's because it's the first floor",5.0,-0.7172
+10.0,"The children liked it because it was a double floor
 The bed is spacious and comfortable
-It is also good to use the pool"
-407,10.0,This is a good value for money.
-408,10.0,Location price facilities were all good.
-409,6.4,"First of all, Private Pool was good.
+It is also good to use the pool",8.0,0.8402
+10.0,This is a good value for money.,3.0,0.6486
+10.0,Location price facilities were all good.,3.0,0.4404
+6.4,"First of all, Private Pool was good.
 
 The private pool is on the first floor, which is inconvenient due to the upstairs guests.
 And it is a problem because people who smoke throw the cigarette butts on the first floor.
 
 The room condition in the family room is not good.The smell of humid is so severe that you can't sleep.
 
-Breakfast room service is satisfactory, inexpensive and suitable."
-410,10.0,"I met seven years, but Jeju Island was the first time.:)"
-411,10.0,It was good to be able to take pictures beautifully in a private pool or a cute room in front of the room.
-412,10.0,Quiet and good atmosphere.
-413,7.6,"It's been a few hours since I entered, but it's still hot, so I contacted the front front and check if the balcony door was closed well ...
+Breakfast room service is satisfactory, inexpensive and suitable.",-3.0,-0.4707
+10.0,"I met seven years, but Jeju Island was the first time.:)",0.0,0.0
+10.0,It was good to be able to take pictures beautifully in a private pool or a cute room in front of the room.,8.0,0.8625
+10.0,Quiet and good atmosphere.,3.0,0.4404
+7.6,"It's been a few hours since I entered, but it's still hot, so I contacted the front front and check if the balcony door was closed well ...
 If the balcony door is open, the air conditioner doesn't work ???
 
 Every time it is hot, the balcony door is closed, so I opened the balcony door again and closed it.
@@ -808,43 +808,43 @@ It was hot when I had breakfast in the morning ..
 Is it because the facility is old ... ha ... it's not midsummer, but it's hot!
 
 The staff were kind.
-I don't think I will visit again."
-414,8.0,great place  easy to walk around the neighborhood  rooms are quite dark and humid. cleaning could be done better. staffs are very welcoming and kind.
-415,10.0,"I've been resting well.
-The pool is not big, but I sent it comfortably"
-416,8.0,It would be nice to take the pool or Kabana with the children.
-417,6.0,"I thought it was a good hotel in the past, so I went back to the past.However, the employees' services were kind.However, the facility was not undergoing.How about changing the curtain color ..."
-418,9.2,"The location is so good.There is also a promenade and parents
-You liked it so much.Breakfast is also diverse and good"
-419,10.0,"I went to three friends, but the bed was good.
-Room service price was so good ~!"
-420,10.0,"The best hotel for the price, especially the terrace"
-421,10.0,The warm response of the staff was good.
-422,2.4,"Sanitary condition is good.
+I don't think I will visit again.",8.0,0.9134
+8.0,great place  easy to walk around the neighborhood  rooms are quite dark and humid. cleaning could be done better. staffs are very welcoming and kind.,8.0,0.9498
+10.0,"I've been resting well.
+The pool is not big, but I sent it comfortably",3.0,0.6428
+8.0,It would be nice to take the pool or Kabana with the children.,3.0,0.4215
+6.0,"I thought it was a good hotel in the past, so I went back to the past.However, the employees' services were kind.However, the facility was not undergoing.How about changing the curtain color ...",5.0,0.4404
+9.2,"The location is so good.There is also a promenade and parents
+You liked it so much.Breakfast is also diverse and good",8.0,0.6908
+10.0,"I went to three friends, but the bed was good.
+Room service price was so good ~!",6.0,0.8762
+10.0,"The best hotel for the price, especially the terrace",3.0,0.6369
+10.0,The warm response of the staff was good.,4.0,0.5859
+2.4,"Sanitary condition is good.
 Breakfast was also delicious.
-I'm going to visit again when I travel."
-423,8.8,"I went to the terrace ha, but I didn't really regret it."
-424,6.8,"Four families (including youth) are too narrow.It's hot, so it's hard to use the terrace."
-425,10.0,Good cleanliness and location
-426,8.8,It was so hot and humid that it was not used.Look at the weather and make a reservation
-427,9.6,"It was smaller than Silla and Lotte, but it was good because it was cute and exotic."
-428,9.2,The employee's response is fast and friendly. I was assigned to the rooms that I asked before the accommodation and I asked one more room for the room.
-429,10.0,"It's good to use restaurants nearby, clean rooms and views are so good!"
-430,6.4,"Because I talked backwards if I should go to the front defense
+I'm going to visit again when I travel.",6.0,0.765
+8.8,"I went to the terrace ha, but I didn't really regret it.",0.0,0.6153
+6.8,"Four families (including youth) are too narrow.It's hot, so it's hard to use the terrace.",-1.0,-0.1725
+10.0,Good cleanliness and location,3.0,0.4404
+8.8,It was so hot and humid that it was not used.Look at the weather and make a reservation,0.0,0.0
+9.6,"It was smaller than Silla and Lotte, but it was good because it was cute and exotic.",5.0,0.8338
+9.2,The employee's response is fast and friendly. I was assigned to the rooms that I asked before the accommodation and I asked one more room for the room.,2.0,0.4939
+10.0,"It's good to use restaurants nearby, clean rooms and views are so good!",8.0,0.8313
+6.4,"Because I talked backwards if I should go to the front defense
 I went up and down ㅡ ㅡ
-The family is narrow and the room is narrow."
-431,6.0,"I don't think I'll go twice
-The staff's explanation is not too sincerity"
-432,8.8,"The facilities such as the pool gym are not priced.
+The family is narrow and the room is narrow.",0.0,0.128
+6.0,"I don't think I'll go twice
+The staff's explanation is not too sincerity",2.0,0.0
+8.8,"The facilities such as the pool gym are not priced.
 Nearly 4-5 pyeong of the gym?It is difficult to enjoy well because there are two kinds of running at the extent and the pool has a lot of babies.
 
 but!!!
 I must be a room with a terrace
-Because the terrace is pretty…🫰"
-433,9.2,"It was so good that it didn't cost for the pool and health.The breakfast is also clean, so it tasted.I think it was just the best for rest."
-434,6.0,"I knew it was an old facility, but it was a pity to clean up
-Bathroom drainage hair."
-435,7.2,"It is a good hotel among the Chinese luxury hotels
+Because the terrace is pretty…🫰",2.0,0.4168
+9.2,"It was so good that it didn't cost for the pool and health.The breakfast is also clean, so it tasted.I think it was just the best for rest.",8.0,0.892
+6.0,"I knew it was an old facility, but it was a pity to clean up
+Bathroom drainage hair.",0.0,0.1901
+7.2,"It is a good hotel among the Chinese luxury hotels
 Used in the past and was okay
 I decided to go to this trip
 Running to the level of running almost from above
@@ -855,101 +855,101 @@ I couldn't relax on my tired trip.
 In the early evening, I told the staff that there was noise between floors.
 The guests are at all
 I don't know if there was no courtesy
-I don't think I'm going to use it again because I am disappointed this time."
-436,8.4,"I was in a hurry with a family trip, but it's not bad."
-437,10.0,It is the best for families to use
-438,10.0,The rooms are also wider than the average hotels.
-439,6.4,"I came with a friend, but it wasn't as luxurious than I thought."
-440,9.2,It's clean and the atmosphere is so good compared to the year
-441,10.0,It is the best price -effective 5 -star hotel between Lotte and Shilla Hotel.Both swimming breakfast accommodation is satisfactory.
-442,8.0,The pool is a bit old
-443,10.0,The service is satisfied.Breakfast seems to be a taste difference!
-444,4.8,"I was really unpleasant in the attitude of instructions.
+I don't think I'm going to use it again because I am disappointed this time.",4.0,-0.8147
+8.4,"I was in a hurry with a family trip, but it's not bad.",-3.0,0.5824
+10.0,It is the best for families to use,3.0,0.6369
+10.0,The rooms are also wider than the average hotels.,0.0,0.0
+6.4,"I came with a friend, but it wasn't as luxurious than I thought.",1.0,0.2732
+9.2,It's clean and the atmosphere is so good compared to the year,5.0,0.7537
+10.0,It is the best price -effective 5 -star hotel between Lotte and Shilla Hotel.Both swimming breakfast accommodation is satisfactory.,5.0,0.8689
+8.0,The pool is a bit old,0.0,0.0
+10.0,The service is satisfied.Breakfast seems to be a taste difference!,2.0,0.0
+4.8,"I was really unpleasant in the attitude of instructions.
 Do I stay in this hotel?
 I had a kiosk, so I thought I was self -checking in and went forward.
 Why should I pay for it?
 The female employee was really kind.
 Men's staff (who are old) are the basic at the hotel.
 I've noticed a few times, but I think it's too bad.
-Giving money and noticing the staff .. ^^"
-445,9.2,dot
-446,9.2,"There was a bunker bed, so it was good to sleep
+Giving money and noticing the staff .. ^^",-4.0,-0.4696
+9.2,dot,0.0,0.0
+9.2,"There was a bunker bed, so it was good to sleep
 The terrace was really the advantage.
 It was a pity that I couldn't use the terrace on a rainy day
-I was very satisfied with the terrace reporting."
-447,8.0,"I am disappointed because it is too expected
+I was very satisfied with the terrace reporting.",4.0,0.7214
+8.0,"I am disappointed because it is too expected
 In fact, I didn't expect the Shilla Hotel class
 Restaurant restaurants, etc.
 Too too ...
-No re -examination."
-448,8.4,It's not bad overall
-449,2.0,"There are not one or two problems.I couldn't believe this was 5 stars.It's a room with my children, but I was surprised because there was a glass debris on the terrace.What if the kids stepped on?The stains were not managed at all, and the bedding was so damp that it was too damp.In spite of the front, the room moved.Besides, breakfast was more ridiculous.I told you that the herbs were fifty, and the chef said that it tastes good.The chef who says that or a staff who convey it…It was the worst.I think it's just a good job for foreigners.It's just a good value.Employees' attitudes are as good as a luxury hotel.It doesn't suit you."
-450,10.0,"The hygiene is clean, the staff are friendly, and it's good to go with the child !!"
-451,10.0,"Room condition location service interior is all satisfied.
-The hotel is small and pretty."
-452,8.0,"If you use the spring autumn terrace room, it seems like you're camping.
-But the facility is old"
-453,10.0,"I put Jeju as a new day, but the hotel is so good."
-454,8.0,"There is a water purifier, so you can understand that you don't have a refrigerator, but it's a bit like a water purifier that comes out with cold water.Other facilities were good, so there was no big inconvenience."
-455,4.0,"There was a smell of squeezing in the cafe, and the bathroom was the same."
-456,9.6,It's on the Jungmun side and right next to the Shilla Hotel!It is also good to walk and overall facilities are good.
-457,8.8,"It is a cheap hotel in Jungmun Complex.
-It's good to stay and walk around the Shilla Hotel Parnas.But the cleaning state is sad."
-458,7.2,"Duplex rooms were good to stay, and the child liked it because of the stairs.It was just because the floor was carpet and it wasn't a bit clean.I didn't use the facilities for only one night.The terrace scenery was pretty and the staff were kind."
-459,9.6,"It is a place where you can return to visit, but both locations and facilities are good."
-460,7.6,"The location was good and the room condition was good and the whole is satisfied
+No re -examination.",-3.0,-0.6486
+8.4,It's not bad overall,-3.0,0.431
+2.0,"There are not one or two problems.I couldn't believe this was 5 stars.It's a room with my children, but I was surprised because there was a glass debris on the terrace.What if the kids stepped on?The stains were not managed at all, and the bedding was so damp that it was too damp.In spite of the front, the room moved.Besides, breakfast was more ridiculous.I told you that the herbs were fifty, and the chef said that it tastes good.The chef who says that or a staff who convey it…It was the worst.I think it's just a good job for foreigners.It's just a good value.Employees' attitudes are as good as a luxury hotel.It doesn't suit you.",6.0,0.8519
+10.0,"The hygiene is clean, the staff are friendly, and it's good to go with the child !!",7.0,0.855
+10.0,"Room condition location service interior is all satisfied.
+The hotel is small and pretty.",3.0,0.7184
+8.0,"If you use the spring autumn terrace room, it seems like you're camping.
+But the facility is old",2.0,0.1901
+10.0,"I put Jeju as a new day, but the hotel is so good.",3.0,0.7279
+8.0,"There is a water purifier, so you can understand that you don't have a refrigerator, but it's a bit like a water purifier that comes out with cold water.Other facilities were good, so there was no big inconvenience.",3.0,0.1666
+4.0,"There was a smell of squeezing in the cafe, and the bathroom was the same.",0.0,0.0
+9.6,It's on the Jungmun side and right next to the Shilla Hotel!It is also good to walk and overall facilities are good.,6.0,0.7263
+8.8,"It is a cheap hotel in Jungmun Complex.
+It's good to stay and walk around the Shilla Hotel Parnas.But the cleaning state is sad.",1.0,-0.0516
+7.2,"Duplex rooms were good to stay, and the child liked it because of the stairs.It was just because the floor was carpet and it wasn't a bit clean.I didn't use the facilities for only one night.The terrace scenery was pretty and the staff were kind.",10.0,0.9062
+9.6,"It is a place where you can return to visit, but both locations and facilities are good.",3.0,0.5927
+7.6,"The location was good and the room condition was good and the whole is satisfied
 However, the staff unknowing when check -in.
-The staff were kind during check -out."
-461,10.0,The location is good and the inside of the hostel is clean and good
-462,9.2,"The hotel is clean and located and the use is so convenient.Next to the Shilla Hotel, you can use the Shilla Hotel meals, walk the garden, go to Jungmun Sea, and are satisfied in many ways."
-463,9.6,It was good to be quiet because the hotel was quiet and relaxed.
-464,9.6,It was so good ㅎㅎ There are various hotels nearby and the facility Du Good Good
-465,10.0,Terrace room is clean and satisfied
-466,9.6,It was comfortable and good because there were two large beds with the double floor.It was good to have one TV for each bed.
-467,8.4,"Depending on the room, the view can be seen and the pool is narrow.The location is okay in the Chinese gate"
-468,10.0,I rested really comfortably ^^
-469,10.0,great
-470,7.6,"The facilities for the price for the price were aging, especially the toilet toilet toilet/bathtub drainage, so I could not use it smoothly.I called the administrator in the middle, but the next day happened again.I think you should pay more attention to the facility."
-471,7.6,"The terrace is good, but it is a pity that there is a lack of facilities.The interior of the interior is also needed to suit the grade.I couldn't sleep comfortably with male guests who were not soundproofed, so I moved the room."
-472,10.0,"It is next to the Shilla Hotel, clean and reasonable."
-473,8.4,Great accommodation.Pretty bathtub.Spacious living room
-474,5.2,"I made a reservation after seeing the review ... I was a little disappointed.
+The staff were kind during check -out.",10.0,0.9001
+10.0,The location is good and the inside of the hostel is clean and good,8.0,0.8176
+9.2,"The hotel is clean and located and the use is so convenient.Next to the Shilla Hotel, you can use the Shilla Hotel meals, walk the garden, go to Jungmun Sea, and are satisfied in many ways.",4.0,0.6705
+9.6,It was good to be quiet because the hotel was quiet and relaxed.,5.0,0.7269
+9.6,It was so good ㅎㅎ There are various hotels nearby and the facility Du Good Good,9.0,0.8605
+10.0,Terrace room is clean and satisfied,4.0,0.6705
+9.6,It was comfortable and good because there were two large beds with the double floor.It was good to have one TV for each bed.,8.0,0.8442
+8.4,"Depending on the room, the view can be seen and the pool is narrow.The location is okay in the Chinese gate",0.0,0.2263
+10.0,I rested really comfortably ^^,2.0,0.4754
+10.0,great,3.0,0.6249
+7.6,"The facilities for the price for the price were aging, especially the toilet toilet toilet/bathtub drainage, so I could not use it smoothly.I called the administrator in the middle, but the next day happened again.I think you should pay more attention to the facility.",-1.0,-0.1531
+7.6,"The terrace is good, but it is a pity that there is a lack of facilities.The interior of the interior is also needed to suit the grade.I couldn't sleep comfortably with male guests who were not soundproofed, so I moved the room.",1.0,-0.7781
+10.0,"It is next to the Shilla Hotel, clean and reasonable.",2.0,0.4019
+8.4,Great accommodation.Pretty bathtub.Spacious living room,5.0,0.6249
+5.2,"I made a reservation after seeing the review ... I was a little disappointed.
 The interior frames were put on the shelf behind the bed ...
 The dust is piled up between the frames.
 If you don't think it's going to be managed, it's better to leave it away without such props.
 Really .... ㅠㅠ
-The places you see are neat places"
-475,8.4,great
-476,7.6,"Location is good.I stayed in a double -layered room, but I felt a little small, but there was no problem with an adult 3 child.It was a bit unfortunate that there was no indoor swimming pool, but I think it's a good hotel."
-477,10.0,"It is a neat place without a lot.
-I recommend it"
-478,8.4,It is good to use when the weather is good.
-479,10.0,The price is good and the room condition is good
-480,10.0,The room is spacious and clean
-481,10.0,"A place where you stayed because of the terrace !!There was a terrace on the side of the car, but it was a bit embarrassed, but it was so nice to buy it at the hostel and come to play !!"
-482,10.0,"After traveling at Robbian Pub, a glass of beer is tired
+The places you see are neat places",-1.0,0.4391
+8.4,great,3.0,0.6249
+7.6,"Location is good.I stayed in a double -layered room, but I felt a little small, but there was no problem with an adult 3 child.It was a bit unfortunate that there was no indoor swimming pool, but I think it's a good hotel.",2.0,-0.8519
+10.0,"It is a neat place without a lot.
+I recommend it",2.0,0.224
+8.4,It is good to use when the weather is good.,6.0,0.7003
+10.0,The price is good and the room condition is good,6.0,0.7003
+10.0,The room is spacious and clean,3.0,0.4019
+10.0,"A place where you stayed because of the terrace !!There was a terrace on the side of the car, but it was a bit embarrassed, but it was so nice to buy it at the hostel and come to play !!",1.0,0.7871
+10.0,"After traveling at Robbian Pub, a glass of beer is tired
 The breakfast was also delicious
-I loved the bedding so well."
-483,8.4,"Clean and good location .. It is small and old
-I rested comfortably"
-484,10.0,The bedding and cleaning staff were kind and everyone was satisfied.
-485,8.8,"Our couple living in Jeju Island sometimes stays in Jeju Hotels and stays in Jeju.Sweet Hotel Jeju Premier Sweet Room ~~ When check -in, the staff were very kind and the room was spacious and clean than expected. The bathroom had a bathtub and a shower booth and a large bathroom.For us who liked it, I couldn't sleep because it was a lot of honey, but the bedding was soft and clean.However, there was a lot of dust in the gap next to the refrigerator, which is not easy to reach.If you talk to the front just before 9 o'clock the day before, it helps to choose a breakfast at a discounted price next day.It was a pity that two pages of rudder and baked vegetables ate 60,000 won were a bit unfortunate ~~ And check -in event free drink coupons.I didn't receive it ~ In general, I liked the most was a large room."
-486,6.0,"I used a lot before Corona
-It is not good compared to the old days."
-487,9.6,"The staff are also kind, clean and quiet"
-488,10.0,The terrace room condition was the best and the atmosphere was good.
-489,10.0,"It's a great accommodation located between Shilla Hotel and Lotte Hotel.
+I loved the bedding so well.",4.0,0.8147
+8.4,"Clean and good location .. It is small and old
+I rested comfortably",7.0,0.8126
+10.0,The bedding and cleaning staff were kind and everyone was satisfied.,4.0,0.7351
+8.8,"Our couple living in Jeju Island sometimes stays in Jeju Hotels and stays in Jeju.Sweet Hotel Jeju Premier Sweet Room ~~ When check -in, the staff were very kind and the room was spacious and clean than expected. The bathroom had a bathtub and a shower booth and a large bathroom.For us who liked it, I couldn't sleep because it was a lot of honey, but the bedding was soft and clean.However, there was a lot of dust in the gap next to the refrigerator, which is not easy to reach.If you talk to the front just before 9 o'clock the day before, it helps to choose a breakfast at a discounted price next day.It was a pity that two pages of rudder and baked vegetables ate 60,000 won were a bit unfortunate ~~ And check -in event free drink coupons.I didn't receive it ~ In general, I liked the most was a large room.",20.0,0.9336
+6.0,"I used a lot before Corona
+It is not good compared to the old days.",-2.0,-0.3412
+9.6,"The staff are also kind, clean and quiet",4.0,0.7269
+10.0,The terrace room condition was the best and the atmosphere was good.,6.0,0.7964
+10.0,"It's a great accommodation located between Shilla Hotel and Lotte Hotel.
 Sit on the terrace and enjoy breakfast room service.
-This is recommended!"
-490,8.0,"Everything was fine, such as location, but the facilities are a bit unfortunate."
-491,8.4,"It's a location, so it's a Jungmun complex.
-If you don't like to be fluffy in a hard bed, Goryeo is Goryeo ^. ^"
-492,8.0,"The two -story bed and double beds were composed of a woman's net, and there was a terrace in front of you, so it was good to feel brunchy because it was a room service."
-493,7.6,"I stayed for three people, but I was very comfortable."
-494,8.8,"Good value for money and kindness
-It is convenient because it is located in Jungmun"
-495,10.0,Quiet and distant.I slept here.
-496,8.0,You can also enjoy the water play and the room service breakfast is fantasy on the first floor.
-497,10.0,It's a price -based hotel.The staff were also kind and breakfast was fine and so good
-498,6.4,The toilet shower room facility
-499,10.0,"There are a lot of terrace worms, but it's good to walk and bunker room good"
+This is recommended!",7.0,0.8553
+8.0,"Everything was fine, such as location, but the facilities are a bit unfortunate.",2.0,-0.5574
+8.4,"It's a location, so it's a Jungmun complex.
+If you don't like to be fluffy in a hard bed, Goryeo is Goryeo ^. ^",1.0,-0.3632
+8.0,"The two -story bed and double beds were composed of a woman's net, and there was a terrace in front of you, so it was good to feel brunchy because it was a room service.",3.0,0.4877
+7.6,"I stayed for three people, but I was very comfortable.",2.0,0.7086
+8.8,"Good value for money and kindness
+It is convenient because it is located in Jungmun",5.0,0.8074
+10.0,Quiet and distant.I slept here.,0.0,0.0
+8.0,You can also enjoy the water play and the room service breakfast is fantasy on the first floor.,2.0,0.6808
+10.0,It's a price -based hotel.The staff were also kind and breakfast was fine and so good,7.0,0.8122
+6.4,The toilet shower room facility,0.0,0.0
+10.0,"There are a lot of terrace worms, but it's good to walk and bunker room good",6.0,0.8271

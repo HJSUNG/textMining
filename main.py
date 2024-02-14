@@ -1,5 +1,5 @@
 """
-version of Python : 3.12
+version of Python : 3.12.1
 
 list of Packages
 - requirements.txt

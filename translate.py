@@ -17,7 +17,7 @@ def translate_single_file(file_path):
     for index, row in df_hotel.iterrows():
         df_hotel.at[index, 'comment'] = translator.translate(row['comment'], 'en').text
 
-    df_hotel.to_csv('hotelData_en/' + file_path.split('/')[-1].split('.')[0] + '_en.csv')
+    df_hotel.to_csv('hotelData_en/' + file_path.split('/')[-1].split('.')[0] + '_en.csv', index=False)
 
 
 def translate_all_files():
