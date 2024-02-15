@@ -9,6 +9,10 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from matplotlib import font_manager, rc
 
+import nltk
+nltk.download('stopwords')
+from nltk.corpus import stopwords
+
 font_path = 'C:/Windows/Fonts/HMFMMUEX.TTC'
 font = font_manager.FontProperties(fname=font_path).get_name()
 rc('font', family=font)
@@ -16,6 +20,7 @@ rc('font', family=font)
 # 긍정적 리뷰, 부정적 리뷰 기준 점수
 positive_criteria = 9  # 점 이상
 negative_criteria = 5  # 점 미만
+
 
 
 def analyze_dataframe(df_hotel):
@@ -60,7 +65,61 @@ def analyze_dataframe(df_hotel):
     return [comment_word_list, comment_word_list_positive, comment_word_list_negative]
 
 
-def draw_frequency_graph(word_list, title='전체'):
+def analyze_dataframe_en(df_hotel):
+    stop_words = set(stopwords.words('english'))
+
+    # comment에서 줄바꿈 문자 제거
+    for index, row in df_hotel.iterrows():
+        df_hotel.at[index, 'comment'] = row['comment'].replace('\n', ' ')
+
+    # 9점 이상 : 호텔의 장점 or 강점 / 7점 미만 : 호텔의 단점 or 불만사항
+    df_hotel_positive = df_hotel[df_hotel['score'] >= positive_criteria]
+    df_hotel_negative = df_hotel[df_hotel['score'] < negative_criteria]
+
+    # 각 DataFrame을 list로 변경
+    list_hotel = df_hotel.to_dict('records')
+    list_hotel_positive = df_hotel_positive.to_dict("records")
+    list_hotel_negative = df_hotel_negative.to_dict("records")
+
+    # comment를 하나의 string으로 join
+    comment_string = ' '.join(row['comment'] for row in list_hotel)
+    comment_string_positive = ' '.join(row['comment'] for row in list_hotel_positive)
+    comment_string_negative = ' '.join(row['comment'] for row in list_hotel_negative)
+
+    # 영문자를 제외하고 전체 제거
+    comment_string = re.sub('[^a-zA-Z]', ' ', comment_string)
+    comment_string_positive = re.sub('[^a-zA-Z]', ' ', comment_string_positive)
+    comment_string_negative = re.sub('[^a-zA-Z]', ' ', comment_string_negative)
+
+    # 소문자로 변환
+    comment_string = comment_string.lower()
+    comment_string_positive = comment_string_positive.lower()
+    comment_string_negative = comment_string_negative.lower()
+
+    # 단어 단위 list로 split
+    comment_word_list = comment_string.split(' ')
+    comment_word_list_positive = comment_string_positive.split(' ')
+    comment_word_list_negative = comment_string_negative.split(' ')
+
+    # stopwords 제거
+    comment_word_list = [w for w in comment_word_list if not w in stop_words]
+    comment_word_list_positive = [w for w in comment_word_list_positive if not w in stop_words]
+    comment_word_list_negative = [w for w in comment_word_list_negative if not w in stop_words]
+
+    # 빈칸 제거
+    comment_word_list = [w for w in comment_word_list if w != '']
+    comment_word_list_positive = [w for w in comment_word_list_positive if w != '']
+    comment_word_list_negative = [w for w in comment_word_list_negative if w != '']
+
+    # 2글자 이상 단어만 추출
+    comment_word_list = [word for word in comment_word_list if len(word) >= 2]
+    comment_word_list_positive = [word for word in comment_word_list_positive if len(word) >= 2]
+    comment_word_list_negative = [word for word in comment_word_list_negative if len(word) >= 2]
+
+    return [comment_word_list, comment_word_list_positive, comment_word_list_negative]
+
+
+def draw_frequency_graph(word_list, title='Total'):
     """
     word_list를 받아서, pyplot 빈도 그래프 생성
     :param word_list: word_list
@@ -70,16 +129,16 @@ def draw_frequency_graph(word_list, title='전체'):
     for word, count in Counter(word_list).most_common(20):
         x.append(word)
         y.append(count)
-
+    print(x)
+    print(y)
     colors = sns.color_palette("pastel", len(x))
 
     plt.figure(figsize=(10, 10))
     plt.title(title)
     ax = sns.barplot(x=y, y=x, palette=colors)
-    ax.set(xlabel='빈도', ylabel='단어')
+    ax.set(xlabel='Frequency', ylabel='Word')
 
     plt.show()
-
 
 def draw_word_cloud(word_list, title=''):
     """
@@ -87,7 +146,7 @@ def draw_word_cloud(word_list, title=''):
     :param word_list: word_list
     :param title: plt.title 명
     """
-    wordcloud = WordCloud(font_path=font_path).generate(' '.join(word_list))
+    wordcloud = WordCloud().generate(' '.join(word_list)) # font_path=font_path
     plt.title(title)
     plt.axis("off")
     plt.imshow(wordcloud, interpolation='bilinear')  # 이미지를 출력
@@ -103,12 +162,27 @@ def analyze_single_hotel(file_path):
     df_hotel = pd.read_csv(file_path)
     analysis_result = analyze_dataframe(df_hotel)
 
-    draw_frequency_graph(analysis_result[0], '전체 comment')
-    draw_frequency_graph(analysis_result[1], '긍정 comment')
-    draw_frequency_graph(analysis_result[2], '부정 comment')
-    draw_word_cloud(analysis_result[0], '전체 comment')
-    draw_word_cloud(analysis_result[1], '긍정 comment')
-    draw_word_cloud(analysis_result[2], '부정 comment')
+    draw_frequency_graph(analysis_result[0], 'Total comment')
+    draw_frequency_graph(analysis_result[1], 'Positivie comment')
+    draw_frequency_graph(analysis_result[2], 'Negative comment')
+    draw_word_cloud(analysis_result[0], 'Total comment')
+    draw_word_cloud(analysis_result[1], 'Positivie comment')
+    draw_word_cloud(analysis_result[2], 'Negative comment')
+
+def analyze_single_hotel_en(file_path):
+    """
+    호텔 1개 영문 comment에 대한 빈도분석
+    :param file_path: hotel csv file path
+    """
+    df_hotel = pd.read_csv(file_path)
+    analysis_result = analyze_dataframe_en(df_hotel)
+
+    draw_frequency_graph(analysis_result[0], 'Total comment')
+    draw_frequency_graph(analysis_result[1], 'Positivie comment')
+    draw_frequency_graph(analysis_result[2], 'Negative comment')
+    draw_word_cloud(analysis_result[0], 'Total comment')
+    draw_word_cloud(analysis_result[1], 'Positivie comment')
+    draw_word_cloud(analysis_result[2], 'Negative comment')
 
 
 def analyze_total_hotel():
@@ -126,14 +200,15 @@ def analyze_total_hotel():
 
     analysis_result = analyze_dataframe(df_hotel)
 
-    draw_frequency_graph(analysis_result[0], '전체 comment')
-    draw_frequency_graph(analysis_result[1], '긍정 comment')
-    draw_frequency_graph(analysis_result[2], '부정 comment')
-    draw_word_cloud(analysis_result[0], '전체 comment')
-    draw_word_cloud(analysis_result[1], '긍정 comment')
-    draw_word_cloud(analysis_result[2], '부정 comment')
+    draw_frequency_graph(analysis_result[0], 'Total comment')
+    draw_frequency_graph(analysis_result[1], 'Positivie comment')
+    draw_frequency_graph(analysis_result[2], 'Negative comment')
+    draw_word_cloud(analysis_result[0], 'Total comment')
+    draw_word_cloud(analysis_result[1], 'Positivie comment')
+    draw_word_cloud(analysis_result[2], 'Negative comment')
 
 
 if __name__ == '__main__':
-    analyze_single_hotel('hotelData/hotel1.csv')
+    # analyze_single_hotel('hotelData/hotel1.csv')
+    analyze_single_hotel_en('hotelData_en/hotel1_en.csv')
     # analyze_total_hotel()
