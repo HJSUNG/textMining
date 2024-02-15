@@ -1,6 +1,6 @@
-score,comment,afinn_score,vader_score
-10.0,"The boss is so kind. He also provided toast and bread for free in the morning. You can eat it and start the next day, and the sea is visible and the islands such as the island are also seen.And I opened the curtains in the morning, but it was so cute that two cats were baking bread in our yard.",5.0,0.8788
-10.0,"My mother and I are from the United States and enjoyed the accommodation at this pension!The view was beautiful, the breakfast was very nice, and the friendly woman gave a great recommendation!The surrounding area was so good to take a walk.The thin walls and hard beds are common here.I strongly recommend and want to stay longer.",19.0,0.9821
+score,comment,afinn_score,vader_score,k10
+10.0,"The boss is so kind. He also provided toast and bread for free in the morning. You can eat it and start the next day, and the sea is visible and the islands such as the island are also seen.And I opened the curtains in the morning, but it was so cute that two cats were baking bread in our yard.",5.0,0.8788,4
+10.0,"My mother and I are from the United States and enjoyed the accommodation at this pension!The view was beautiful, the breakfast was very nice, and the friendly woman gave a great recommendation!The surrounding area was so good to take a walk.The thin walls and hard beds are common here.I strongly recommend and want to stay longer.",19.0,0.9821,5
 10.0,"1. Period of accommodation: 2/13 ~ 15 days (2 nights)
 2. Personnel: 4 people (couple middle and high school son 2)
 3. Latest Responsibility: The 2nd floor multi -floors'Daes in the Drawer '
@@ -43,17 +43,17 @@ score,comment,afinn_score,vader_score
    -The price is also high
    -The most memorable point on this trip
      ?★?★??,33.0,0.9903
-3,3,10.0,The boss is so kind and the view is completely amazing !!!Please take care of the breakfast ?ㅠ??If it is unfortunate",42.0,0.9948
-10.0,"I grabbed the sea urchin and grabbed the crab at the beach.The view was good and the boss staff was so kind that it was comfortable.The parking was not a big problem in the low season, but it might be a bit difficult if it was a peak season.I want to visit again because the location is so good.The simple breakfast you provided is Berry Good.",12.0,0.6968
-10.0,"The sea view from the two -storey bed was really nice.However, if the children are young, the multi -layered staircase may be dangerous, but if you are 5 years old or older, you liked it very much.The facilities around me were also good, so it was easy to be with my children.The surrounding promenade was connected to the Olle -gil, and the haenyeo's house was right in front of you, so you can see the work of the haenyeo.It was also a tourist destination, but it was better to see the daily life of Jeju by coexisting in all over the alleys.I was more satisfied thanks to the kind boss's service!It was more rich in our trips because you can also tell you a restaurant and tourist tips that you only know local and have a delicious tangerine on the surrounding tangerine farms.Thank you so much ~ ^^!",22.0,0.9915
+3,3,10.0,The boss is so kind and the view is completely amazing !!!Please take care of the breakfast ?ㅠ??If it is unfortunate",42.0,0.9948,5
+10.0,"I grabbed the sea urchin and grabbed the crab at the beach.The view was good and the boss staff was so kind that it was comfortable.The parking was not a big problem in the low season, but it might be a bit difficult if it was a peak season.I want to visit again because the location is so good.The simple breakfast you provided is Berry Good.",12.0,0.6968,8
+10.0,"The sea view from the two -storey bed was really nice.However, if the children are young, the multi -layered staircase may be dangerous, but if you are 5 years old or older, you liked it very much.The facilities around me were also good, so it was easy to be with my children.The surrounding promenade was connected to the Olle -gil, and the haenyeo's house was right in front of you, so you can see the work of the haenyeo.It was also a tourist destination, but it was better to see the daily life of Jeju by coexisting in all over the alleys.I was more satisfied thanks to the kind boss's service!It was more rich in our trips because you can also tell you a restaurant and tourist tips that you only know local and have a delicious tangerine on the surrounding tangerine farms.Thank you so much ~ ^^!",22.0,0.9915,6
 10.0,"First of all, the boss's service was so satisfying !!
 You are kind and recommend you to go to the mart or where you go.
 The beach is in front of the pension bar, and the view is finished and the pension is clean.
-And I'm informing people around me a lot.",6.0,0.9194
+And I'm informing people around me a lot.",6.0,0.9194,8
 10.0,"The location is good and it looks right in front of the sea.
 I couldn't see it because it was covered by the clouds, but the sea view was so pretty in the morning.
 The room is small, but I was well done without lack of staying ..
-Morning toast & coffee was so good.",5.0,0.9483
+Morning toast & coffee was so good.",5.0,0.9483,3
 10.0,"I like Jeju so much that I often go, but it was my first time to stay at the pension.
 It was so neat and pretty, so I was happy all the time
 The view was so pretty and I had a very precious experience while I was staying.
@@ -73,12 +73,12 @@ When I couldn't take care of me, the water was wrapped up.
 I felt that I was very sincere in the pension management.
 Thanks to this, it was a comfortable and pleasant schedule.
 I have something to go again, so I don't have a room today.
-The boss will see you next ~~~",30.0,0.9974
+The boss will see you next ~~~",30.0,0.9974,7
 9.6,"I visited Jeju 5 times in the last two years, and I didn't have any places and stayed a day.The location was so good and the accommodation hygiene facilities were good.When I went anywhere, I had little dust and clean to clean the floor with a wet tissue.I used the abdominal room, but the view was so pretty and the interior was pretty like a frame.If I knew a little more detailed, I would have been snorkeling in front of the accommodation bar, but it would be too bad .. If I went to Jeju, I will be going to go to the breakfast.The daughter who didn't eat was also crisp.
 It's a secret to go to receive more ..
 It was very helpful and thankful for the recommendation of a visit place considering the boss's friendly ages!
-Please always be healthy and see you again next time ^^",20.0,0.9894
-10.0,The boss is so kind. The scenery is so good.,5.0,0.8445
+Please always be healthy and see you again next time ^^",20.0,0.9894,5
+10.0,The boss is so kind. The scenery is so good.,5.0,0.8445,8
 10.0,"I just came down the wedding commemorative without planning, so I thought it was okay on the day.
 
 Because I was deceived by the world
@@ -110,7 +110,7 @@ I live in Seoul, but
 The acquaintance is in Marado.
 I see you every time ^^
 
-Good location right in front of the sea of price.",17.0,0.9886
+Good location right in front of the sea of price.",17.0,0.9886,7
 10.0,"The scenery is so good.If you wake up in the morning and open the curtains, you can see Bumseom and the sea at a glance.The view is better than the picture.You can really go to the coastal road just one minute and decorate the front garden.
 
  The boss is so kind and you take care of it.I made some happenings, and I was so grateful that the boss was kindly solved.It was too impressive to meet all the people who checked out.
@@ -119,35 +119,35 @@ Good location right in front of the sea of price.",17.0,0.9886
 
 It's a bit unfortunate that there was a lot of pictures when I booked.It's better than the picture, so I don't want others to worry much.
 
-We used four friends and were all satisfied, and if you travel around, I will make a reservation here without worrying.",21.0,0.9658
+We used four friends and were all satisfied, and if you travel around, I will make a reservation here without worrying.",21.0,0.9658,8
 10.0,"First of all, the inside of the hostel is so clean and please be kind when you check in!
 The pension garden is so pretty and the scenery is the best!
 It was good for walking to the beach from the pension, so it was so good to walk in the morning.
 Prepare breakfast and have coffee and juice in many kinds of bread!
-I went with my parents and grandmothers, but I liked it so much.",17.0,0.9506
-10.0,"I visited with my family, but I had a good stay and was quiet.And the boss is so kind that he is really resting !!I want to visit again next time.",6.0,0.9236
-10.0,"Wow .. I found it by chance, but if you are a view, the convenience of the restaurant around the view is good and there aren't many good people. I wanted to visit.",12.0,0.891
-10.0,"First of all, I admire the surrounding landscape.I was looking for a comfortable accommodation because I had a good trip to my parents, so I chose it because I liked the reviews.The view that you can see is finally the view.It was good for the boss's stern response.",13.0,0.9325
-10.0,"I came well.Also, if you go to Jeju Island, you will be kind and finish the view.",2.0,0.5267
-10.0,"The boss is so kind that he ties it pleasantly.The open sea view was so good and I ate the sea and coffee.The Haenyeo experience center was in front of you, so I could see the haenyeo experience, listen to the waves at night and have a cup of rice wine.There is a good condition for accommodation, a cafe on the first floor, and a convenience store close to it.I want to come again next time !!",9.0,0.9291
+I went with my parents and grandmothers, but I liked it so much.",17.0,0.9506,8
+10.0,"I visited with my family, but I had a good stay and was quiet.And the boss is so kind that he is really resting !!I want to visit again next time.",6.0,0.9236,1
+10.0,"Wow .. I found it by chance, but if you are a view, the convenience of the restaurant around the view is good and there aren't many good people. I wanted to visit.",12.0,0.891,5
+10.0,"First of all, I admire the surrounding landscape.I was looking for a comfortable accommodation because I had a good trip to my parents, so I chose it because I liked the reviews.The view that you can see is finally the view.It was good for the boss's stern response.",13.0,0.9325,5
+10.0,"I came well.Also, if you go to Jeju Island, you will be kind and finish the view.",2.0,0.5267,1
+10.0,"The boss is so kind that he ties it pleasantly.The open sea view was so good and I ate the sea and coffee.The Haenyeo experience center was in front of you, so I could see the haenyeo experience, listen to the waves at night and have a cup of rice wine.There is a good condition for accommodation, a cafe on the first floor, and a convenience store close to it.I want to come again next time !!",9.0,0.9291,7
 10.0,"The lodging hygiene was really good and most of all, the boss was very kind.Please also tell me a lot of restaurant sightseeing spot information
 I was impressed when I took the ice water because it was hot.
 The lodgings were just next to the car, so I was a little embarrassed at first, but I didn't have a lot of cars.
 The bed was comfortable in the double floor and the living room sofa bed was good.
-I have been doing well for 3 nights and four days.",12.0,0.93
-10.0,I'm going back again !!!! The boss is so kind and the property is so good !!!Breakfast is also good to eat and take a walk after eating !!!,8.0,0.9327
+I have been doing well for 3 nights and four days.",12.0,0.93,1
+10.0,I'm going back again !!!! The boss is so kind and the property is so good !!!Breakfast is also good to eat and take a walk after eating !!!,8.0,0.9327,8
 10.0,"It is a good view of the garden in front of the sea.
 Especially the view I saw on the second floor was so pretty.
 
 It was easy to walk in the morning because it touched the Olle 7 course.I didn't know if there was breakfast, but after a walk, the boss gave me coffee and toast for breakfast.I ate it on the garden bench, so I think it came out of the picnic and it was nice ^^
 
-Babies are also good to play in the garden, and it is a good accommodation even if you go to a couple or me.The boss was kind and recommended and recommended the travel course.I hope you can see dolphins then.",22.0,0.9859
-10.0,"The accommodation was clean and the flowers were placed on the bed, so I felt kind consideration for guests.The dawn sea view was very satisfactory, and when I was walking around Olle trails in the morning, I was satisfied with my mind and body.It is also a good accommodation with a sincere guide to the nearby facilities.",11.0,0.9483
+Babies are also good to play in the garden, and it is a good accommodation even if you go to a couple or me.The boss was kind and recommended and recommended the travel course.I hope you can see dolphins then.",22.0,0.9859,5
+10.0,"The accommodation was clean and the flowers were placed on the bed, so I felt kind consideration for guests.The dawn sea view was very satisfactory, and when I was walking around Olle trails in the morning, I was satisfied with my mind and body.It is also a good accommodation with a sincere guide to the nearby facilities.",11.0,0.9483,5
 10.0,"During the month of life, I live near the pen line by visiting a friend.Forced
-The photos of the heating and hygiene status with the double -story structure are also friendly.",2.0,0.4939
+The photos of the heating and hygiene status with the double -story structure are also friendly.",2.0,0.4939,2
 10.0,"On the last day of the trip, I chose Solasido, but the boss recommends a good place to go to the next schedule as a course and I feel good breakfast.
 The sea was right in front of me, so I could see the sunrise
-It was the cleanest and best of the pensions I've been to the room.",11.0,0.9505
+It was the cleanest and best of the pensions I've been to the room.",11.0,0.9505,9
 10.0,"It wasn't until I lived in Jeju Island with Idul, but I just traveled.
 I traveled around here and there, spent one day or two, and it was the pension that showed the best view on this trip.
 Originally, I made a reservation in a regular room, and the mayor has upgraded to the multi -layer, saying that the kids would like the multi -layer.
@@ -156,7 +156,7 @@ If I couldn't go to the duplex, I couldn't see it with the true nature of this p
 It was a very nice view because the weather was good
 The bread that I gives in the morning has made it so good with many kinds of bread.
 And I thought Sola Sido was just Mipasola City, but it was Solar See Do.
-I have been having a really nice day ~~~ Thank you",23.0,0.9893
+I have been having a really nice day ~~~ Thank you",23.0,0.9893,9
 10.0,"I used only hotels during my trip to Jeju many times so far
 For the first time, I chose Jeju Pension, but this place
 I was really satisfied with my child here too
@@ -165,12 +165,12 @@ The boss also asks which way to travel
 We also recommended and recommended the children and ours
 All families were satisfied
 If you have a chance next time, I will definitely visit again.
-Healthy boss",12.0,0.9693
-10.0,"Jeju was too expensive, and it was honestly burdensome because it was a trip to the peak season.But more important than the amount is that attentiveness and warmth to consider travelers.It was a pleasant night such as toast and coffee that could be thought of as recommended for various travel areas and situations and companions.I think it should have been a rare night.I personally want to come back.The typhoon has come, but I think it's a recommended pension.",12.0,0.7612
-10.0,"It was a pity that it rained, but the kids liked it because it was a multi -storey hostel.Take good care of breakfast and be kind and the best",10.0,0.974
-10.0,"Solari, who accidentally visited a few years ago. I vowed to come again.At that time, it was a perfect trip, including the accommodation view and clean cleaning.Even though it rained, I couldn't take a walk to the sea in front of the hostel, but it was so beautiful.I think I had a deep sleep after a long time thanks to the sound of the waves that resonated in a quiet room.My body and mind were really comfortable.Next time, I want to visit with my family.",11.0,0.8018
+Healthy boss",12.0,0.9693,1
+10.0,"Jeju was too expensive, and it was honestly burdensome because it was a trip to the peak season.But more important than the amount is that attentiveness and warmth to consider travelers.It was a pleasant night such as toast and coffee that could be thought of as recommended for various travel areas and situations and companions.I think it should have been a rare night.I personally want to come back.The typhoon has come, but I think it's a recommended pension.",12.0,0.7612,7
+10.0,"It was a pity that it rained, but the kids liked it because it was a multi -storey hostel.Take good care of breakfast and be kind and the best",10.0,0.974,9
+10.0,"Solari, who accidentally visited a few years ago. I vowed to come again.At that time, it was a perfect trip, including the accommodation view and clean cleaning.Even though it rained, I couldn't take a walk to the sea in front of the hostel, but it was so beautiful.I think I had a deep sleep after a long time thanks to the sound of the waves that resonated in a quiet room.My body and mind were really comfortable.Next time, I want to visit with my family.",11.0,0.8018,7
 10.0,"It is a fantastic Sea View accommodation that is so sad that it is too bad to stay for a day.I had a short but pleasant time thanks to my neat accommodation, as well as the boss who wants to take care of one more thing.
-Next time, I want to come to play with more time.",7.0,0.9696
+Next time, I want to come to play with more time.",7.0,0.9696,5
 10.0,"An 8 -year -old daughter went to the pension for the first time in her life.
 It's a peak season, but it's 150,000 won.
 To the world .... I am worried about where I will meet more pensions in the future because I have increased my expectations for our eye pension.
@@ -179,13 +179,13 @@ I was really grateful to write the heart of the boss for explaining the likes an
 Thanks to this, I went to the local natural streams and went to the bunker of light ^^
 The boss who gave me sincerely to the traveler.
 To the toast and customized coffee baked with plenty of sincerity
-Thank you very much for the full morning",20.0,0.9863
-10.0,The boss was kind and the accommodation was good.The bread that I packed in the morning was also pretty in the basket and gave me a drink.My parents said that the accommodation was also good.,9.0,0.8591
+Thank you very much for the full morning",20.0,0.9863,4
+10.0,The boss was kind and the accommodation was good.The bread that I packed in the morning was also pretty in the basket and gave me a drink.My parents said that the accommodation was also good.,9.0,0.8591,5
 10.0,"The scenery is so good.
 I stayed in the double floor, but the second floor on the first floor is well seen.
 It's good for walking in the morning, and it's healed just by watching the scenery while eating breakfast in the garden :) We also watched dolphins from afar.
 If you manage the pension, you are very friendly and have a good room!I was surprised that the bedding was so good and the cleansing supplies in the bathroom were not cheap, but they were all good.
-This is the accommodation that was satisfied as a whole",19.0,0.9921
+This is the accommodation that was satisfied as a whole",19.0,0.9921,8
 10.0,"I think the reviews are really important in the accommodation ...
 I went on a trip to Jeju Island with my son's daughter.
 You can see the amazing Bumseom morning sunrise in the room ..
@@ -194,35 +194,35 @@ It was located in Jungmun, so the accessibility was good ...
 The boss's breakfast service was also Berrygood ...
 I don't write these reviews for all ... I was so good
 I don't regret whether it's a family or a friend or a couple ...
-The family was very satisfied ...",16.0,0.9776
+The family was very satisfied ...",16.0,0.9776,5
 10.0,"The boss is kind!
 Please call me and let me know where to go on the way to the hostel.
-Thanks to you, I went to the end of the day! Songaksan was a real view.",5.0,0.8475
-10.0,"I went to last month, but the view was so pretty and I was right next to the Olle road, so I walked around while looking at the sea.It's a place I want to hear every time I come to Jeju Island.",2.0,0.7978
-10.0,"It is well equipped with facilities around you, and you can lie in bed to see the very close sea and palm trees.If you open the glass window, you can eat meals or tea in the yard.As soon as I came in, I had a good fragrance and clean.There was a little mistake on the first day of the room, but it wasn't inconvenient to respond kindly ~ I want to visit next time.The boss is really kind.",4.0,0.9359
-10.0,"When you enter the room, you have a view that you can stay quiet and stay quiet.In addition, the boss was very kind and so sources that it was very comfortable to recommend this kind of tourist destination!It's a complete recommendation ~ I want to stay again next time.",7.0,0.9364
+Thanks to you, I went to the end of the day! Songaksan was a real view.",5.0,0.8475,8
+10.0,"I went to last month, but the view was so pretty and I was right next to the Olle road, so I walked around while looking at the sea.It's a place I want to hear every time I come to Jeju Island.",2.0,0.7978,7
+10.0,"It is well equipped with facilities around you, and you can lie in bed to see the very close sea and palm trees.If you open the glass window, you can eat meals or tea in the yard.As soon as I came in, I had a good fragrance and clean.There was a little mistake on the first day of the room, but it wasn't inconvenient to respond kindly ~ I want to visit next time.The boss is really kind.",4.0,0.9359,1
+10.0,"When you enter the room, you have a view that you can stay quiet and stay quiet.In addition, the boss was very kind and so sources that it was very comfortable to recommend this kind of tourist destination!It's a complete recommendation ~ I want to stay again next time.",7.0,0.9364,2
 10.0,"-The neat accommodation
 -The wonderful sea view
 -The friendly employee
 -The delicious breakfast (bread coffee
 -Washy toiletries with warm water
-- Cute cat",12.0,0.9552
+- Cute cat",12.0,0.9552,2
 10.0,"It was better than expected
 I made a reservation for the newly married buchar room, but the double floor room was empty, so I gave it a special room.The sea is a frame of it. I like the view.
 I slept with the blanket on the first floor, but it was also a memory and fun. Oh and it would be different in every room, but I was a moonlight 2 gram double -storey room.
-Overall, it was better than expected ^^ If you only change the sofa, I want to stay again ~~",10.0,0.9493
-10.0,"Accommodation Parking Accommodation Sanitation Status and the boss is really kind.It is the best in Jeju Island.The next time I go to Seogwipo, I will visit again!",5.0,0.6696
+Overall, it was better than expected ^^ If you only change the sofa, I want to stay again ~~",10.0,0.9493,2
+10.0,"Accommodation Parking Accommodation Sanitation Status and the boss is really kind.It is the best in Jeju Island.The next time I go to Seogwipo, I will visit again!",5.0,0.6696,5
 10.0,"There are some parts of the expert's photos, but the accommodation satisfaction was the best.
 The steps to see the sunrise were enough to see only 30.
 Thank you again for introducing breakfast and nearby restaurant sightseeing spots with your boss's love.
-Thanks to this, I stayed comfortably.",12.0,0.9822
-10.0,The boss is so kind.,2.0,0.656
-10.0,"The sea view was the best in Jeju with my family. The boss was kind and clean. I had breakfast in the morning, but it was delicious.",10.0,0.8934
-10.0,"The facilities and locations, especially the ocean view, are excellent.The boss is kind and the double -story structure is comfortable.I want to use it again next time.",8.0,0.5719
-10.0,The seaside pension is all about restaurants and the sea can be seen in the hostel.,0.0,0.0
+Thanks to this, I stayed comfortably.",12.0,0.9822,5
+10.0,The boss is so kind.,2.0,0.656,8
+10.0,"The sea view was the best in Jeju with my family. The boss was kind and clean. I had breakfast in the morning, but it was delicious.",10.0,0.8934,9
+10.0,"The facilities and locations, especially the ocean view, are excellent.The boss is kind and the double -story structure is comfortable.I want to use it again next time.",8.0,0.5719,8
+10.0,The seaside pension is all about restaurants and the sea can be seen in the hostel.,0.0,0.0,7
 10.0,"I entered it late, but as soon as I entered the hostel, the room was so pretty and clean ..?? The leak is also good and well decorated.And in the morning, I wake up in the morning, I can see the beautiful Jeju sea right away.
-I woke up late and couldn't have breakfast, but I had a breakfast separately.I'll visit you again next time I come to Jeju !!!!!!!!!!",8.0,0.9716
-10.0,"The sea landscape and promenade in front of the hostel were too healed, and I also liked the surrounding food and gifts.I take a rest in a good place in a long time",5.0,0.6908
+I woke up late and couldn't have breakfast, but I had a breakfast separately.I'll visit you again next time I come to Jeju !!!!!!!!!!",8.0,0.9716,7
+10.0,"The sea landscape and promenade in front of the hostel were too healed, and I also liked the surrounding food and gifts.I take a rest in a good place in a long time",5.0,0.6908,7
 10.0,"I visited four people with my friends!It was all good, but I want to explain one by one.
 
 Accommodation: In fact, it might be a little smaller to stay with 4 people!There is a two -person bed on the second floor and one sofa bad is slept with a blanket.It didn't matter because I knew it, but if it was uncomfortable, it would be hard.We liked to play on the first floor and to sleep.
@@ -238,288 +238,288 @@ There are a lot of things that have been taken care of, but all of them are too 
 
 It remains so good, so if you go to Jeju Island next time, you will be doing this place!
 
-ps.I didn't use it, but I can wash it!The breakfast is a little early and it is recommended to eat while watching the landscape ?",36.0,0.9949
-10.0,"I feel so satisfied with the details of the accommodation.The next time I travel to Seogwipo, I'll come again.",2.0,0.4754
+ps.I didn't use it, but I can wash it!The breakfast is a little early and it is recommended to eat while watching the landscape ?",36.0,0.9949,5
+10.0,"I feel so satisfied with the details of the accommodation.The next time I travel to Seogwipo, I'll come again.",2.0,0.4754,5
 10.0,"The view is so good and the boss is so kind
-I like breakfast too much",7.0,0.8976
-10.0,"Next to the sea road, there is a circumference.Light walks are possible, there are foods around, and hygiene is clean.The representative was kind and the breakfast was simple and good.(I can see it separately.)",7.0,0.5267
-10.0,"The facilities were cleaner than Shijin, the sea view was good, and the amenity was so kind and the breakfast toast was delicious.",10.0,0.913
+I like breakfast too much",7.0,0.8976,8
+10.0,"Next to the sea road, there is a circumference.Light walks are possible, there are foods around, and hygiene is clean.The representative was kind and the breakfast was simple and good.(I can see it separately.)",7.0,0.5267,8
+10.0,"The facilities were cleaner than Shijin, the sea view was good, and the amenity was so kind and the breakfast toast was delicious.",10.0,0.913,8
 10.0,"It was a lodging that was not a flawful boss and the landscape around the clean lodging.
 The sunrise in the room is a bonus ~ ^^
-There is also a Haenyeo village on the beach promenade.",2.0,0.7351
-10.0,It was so clean and so good,5.0,0.7707
-10.0,"The boss is kind to your favorite neighborhood, so clean room",6.0,0.8553
+There is also a Haenyeo village on the beach promenade.",2.0,0.7351,7
+10.0,It was so clean and so good,5.0,0.7707,8
+10.0,"The boss is kind to your favorite neighborhood, so clean room",6.0,0.8553,8
 10.0,"I traveled with my daughter, but the neighborhood is so pretty and the pension location is so good.The view is awesome, it's good to take a walk in the morning and evening, and you are very friendly.Please also recommend sightseeing spots around you.
 I want to recommend it to an acquaintance and I want to stop by the next trip.
-You can also see the sunrise ~~",19.0,0.9737
-9.6,It is a accommodation with all kinds of kindness.The view is good.You can see the sunrise and go to the beach to see pretty sunset.It's a good place to find a quiet place.,9.0,0.7269
-10.0,I also like breakfast.,2.0,0.3612
+You can also see the sunrise ~~",19.0,0.9737,3
+9.6,It is a accommodation with all kinds of kindness.The view is good.You can see the sunrise and go to the beach to see pretty sunset.It's a good place to find a quiet place.,9.0,0.7269,5
+10.0,I also like breakfast.,2.0,0.3612,6
 10.0,"really
-I was kind",2.0,0.5688
-9.6,"Friendly, located, good price, and all satisfied.I recommend it.",9.0,0.8225
+I was kind",2.0,0.5688,1
+9.6,"Friendly, located, good price, and all satisfied.I recommend it.",9.0,0.8225,3
 9.2,"All the best except for the inside of the inside
 The hostel is very cute and clean ..
 The boss was very kind and the bread that came out for breakfast was also delicious ...
-I want to use it again in the wall",13.0,0.9593
+I want to use it again in the wall",13.0,0.9593,9
 9.6,"The view is good and clean and the boss offers breakfast.
 It was a good trip.
-I'll go again next time",8.0,0.8176
-10.0,"The boss is good, the scenery is good, and all of our family will come back",6.0,0.7003
+I'll go again next time",8.0,0.8176,8
+10.0,"The boss is good, the scenery is good, and all of our family will come back",6.0,0.7003,8
 8.4,"It's quiet and hazy for the coast.
-The boss is kind and breakfast is also delicious",5.0,0.7964
+The boss is kind and breakfast is also delicious",5.0,0.7964,8
 9.6,"The boss was very kind and you introduced me in detail the nearby tourist attractions and restaurants.
 The view was so pretty and the family had a good time
-Recommended as a good hostel",13.0,0.9532
-8.0,The best in the morning waves,3.0,0.6369
-10.0,"I recommend it.It's on the beach, but the scenery is awesome.",6.0,0.8126
-8.8,Detailed explanations for the surrounding restaurants or visit destinations are good,3.0,0.4404
-10.0,"It was a shame that the weather was cloudy and it rained, so I couldn't eat the toast that the boss made carefully in the garden, but it was a satisfactory accommodation in every way.I want to have a garden.",1.0,0.4404
-10.0,Everything is satisfactory and the view is so cool.,1.0,0.6696
-9.6,One of the Olle Trail 7 -course fantasy accommodation.It was a choice not to regret.,-2.0,0.3252
+Recommended as a good hostel",13.0,0.9532,8
+8.0,The best in the morning waves,3.0,0.6369,9
+10.0,"I recommend it.It's on the beach, but the scenery is awesome.",6.0,0.8126,3
+8.8,Detailed explanations for the surrounding restaurants or visit destinations are good,3.0,0.4404,2
+10.0,"It was a shame that the weather was cloudy and it rained, so I couldn't eat the toast that the boss made carefully in the garden, but it was a satisfactory accommodation in every way.I want to have a garden.",1.0,0.4404,5
+10.0,Everything is satisfactory and the view is so cool.,1.0,0.6696,6
+9.6,One of the Olle Trail 7 -course fantasy accommodation.It was a choice not to regret.,-2.0,0.3252,5
 10.0,"The view is good
 The boss is over ~~ You are kind
-Everything is satisfied with the accommodation ^^",7.0,0.8442
+Everything is satisfied with the accommodation ^^",7.0,0.8442,5
 8.8,"Lodges for family trips
 The boss and the staff are friendly
 Every morning, I had a warm toast and coffee juice, so I ate well and rested well.
 The two -story double -story structure is also visible and in a quiet place
-Good night",6.0,0.8947
-8.8,#The daughters and the two of them left because they needed healing.,0.0,0.0
-8.4,"It was a shame that I couldn't see a fantastic view because of the cloudy days.The barbecue is available until 9 o'clock and is 25 000 won for 2 Myeonggi.Charcoal Full tongs are provided like this.The children liked it because it was a multi -storey floor, but there is no mosquito net because the windows have to be pushed.please refer to this.",9.0,-0.2052
+Good night",6.0,0.8947,7
+8.8,#The daughters and the two of them left because they needed healing.,0.0,0.0,5
+8.4,"It was a shame that I couldn't see a fantastic view because of the cloudy days.The barbecue is available until 9 o'clock and is 25 000 won for 2 Myeonggi.Charcoal Full tongs are provided like this.The children liked it because it was a multi -storey floor, but there is no mosquito net because the windows have to be pushed.please refer to this.",9.0,-0.2052,6
 8.8,"I've been traveling to my wife and making good memories.
-I liked the boss's kindness.",7.0,0.8271
+I liked the boss's kindness.",7.0,0.8271,8
 10.0,"The view is so good and especially satisfied with the cleanliness
-The owner is also kind and recommended",9.0,0.9008
-10.0,"The surrounding scenery was clean management.If you go back to Jeju, I want to go back",3.0,0.4588
-10.0,Berrynai,0.0,0.0
+The owner is also kind and recommended",9.0,0.9008,8
+10.0,"The surrounding scenery was clean management.If you go back to Jeju, I want to go back",3.0,0.4588,8
+10.0,Berrynai,0.0,0.0,5
 9.2,"I spent it with the children.I liked it so much
 There is a sea right in front of you
 Take care of your delicious breakfast ...
-I want to stay again next time",8.0,0.875
+I want to stay again next time",8.0,0.875,6
 10.0,"It is kind and clean, and the location is also art.
 I want to have the next trip here
-Thank you so much",7.0,0.836
-9.2,"When you wake up in the morning, the view ends",0.0,0.0
-9.2,"I couldn't go anywhere because of the snow, but the view of the beach from the hostel is fantastic ^^ The boss is kind and well.",6.0,0.9209
-10.0,"The boss is kind and kindly knows around, please be happy to know the trip.",6.0,0.9118
-8.8,"You are so kind in the morning.Three men in their 20s were broken bread, and the boss ride the bus terminal.And the view is art.The vast ocean view is art and the sunset is good.If you look at the sea and eat it with a barbecue, it's over.Of course, the disadvantage is that the rest of the bed should be sleeped on the floor, but it is not considered a disadvantage at all.",0.0,-0.6081
+Thank you so much",7.0,0.836,9
+9.2,"When you wake up in the morning, the view ends",0.0,0.0,3
+9.2,"I couldn't go anywhere because of the snow, but the view of the beach from the hostel is fantastic ^^ The boss is kind and well.",6.0,0.9209,8
+10.0,"The boss is kind and kindly knows around, please be happy to know the trip.",6.0,0.9118,8
+8.8,"You are so kind in the morning.Three men in their 20s were broken bread, and the boss ride the bus terminal.And the view is art.The vast ocean view is art and the sunset is good.If you look at the sea and eat it with a barbecue, it's over.Of course, the disadvantage is that the rest of the bed should be sleeped on the floor, but it is not considered a disadvantage at all.",0.0,-0.6081,8
 9.6,"Bumseom overlooks right in front of
 It is a beautiful accommodation with Olle trail 7.
 The boss is also kind
 Morning breakfast bread and coffee are great.
 If you're lucky in the morning and evening
-You can also see dolphins",11.0,0.9349
-10.0,"When I woke up, the ocean view that I could see at a glance was so good that the window was south -facing.This year's trip to Jeju Island was healing, but I was satisfied with it.",5.0,0.7245
+You can also see dolphins",11.0,0.9349,5
+10.0,"When I woke up, the ocean view that I could see at a glance was so good that the window was south -facing.This year's trip to Jeju Island was healing, but I was satisfied with it.",5.0,0.7245,9
 8.8,"The morning sunrise and the sea view of Beomseom
 It's so cool.
 The staff are kind and good to use two people.
-More than three people have a rather narrow sense.",6.0,0.8516
-10.0,My parents were also very satisfied,2.0,0.4754
-10.0,"The cleanest, the really cleansing, like my house",2.0,0.4173
+More than three people have a rather narrow sense.",6.0,0.8516,8
+10.0,My parents were also very satisfied,2.0,0.4754,5
+10.0,"The cleanest, the really cleansing, like my house",2.0,0.4173,1
 8.8,"Ocean view was very best for four -family lodgings, and it was especially good to sit on the bed on the bed and enjoy a cup of tea while watching the sea and island.
-And it's also good to play in the seawater right in front of you.",11.0,0.9475
-8.8,I am so satisfied with the wonderful view and kind boss.The view that looks like a lodging window is really like a picture.,12.0,0.9348
+And it's also good to play in the seawater right in front of you.",11.0,0.9475,9
+8.8,I am so satisfied with the wonderful view and kind boss.The view that looks like a lodging window is really like a picture.,12.0,0.9348,1
 10.0,"It is the best trip.
-Location scenery is the best.",6.0,0.8555
-10.0,The cleanliness of the best view was really good ~~ ^^,6.0,0.8122
-10.0,The scenery is good and the owner took care of it so I went comfortably.,7.0,0.8473
-9.6,You are so kind.The view is great and the view is best for Seogwipo sightseeing.I have been clean and well rested indoors.,10.0,0.9201
+Location scenery is the best.",6.0,0.8555,9
+10.0,The cleanliness of the best view was really good ~~ ^^,6.0,0.8122,1
+10.0,The scenery is good and the owner took care of it so I went comfortably.,7.0,0.8473,8
+9.6,You are so kind.The view is great and the view is best for Seogwipo sightseeing.I have been clean and well rested indoors.,10.0,0.9201,9
 9.6,"The sea view was so good and the pension was so pretty.The boss is also very kind and breathe in the morning and puts breakfast in a box because he won't eat breakfast.
 In the real review, the boss was kind, but it was the first time he liked it.
-I have been conveying the heart ^^ The pension view is wonderful and our groom is that I can't even come to Solasido Pension or Jeju. ^^ Thank you very much ^^",19.0,0.9588
+I have been conveying the heart ^^ The pension view is wonderful and our groom is that I can't even come to Solasido Pension or Jeju. ^^ Thank you very much ^^",19.0,0.9588,8
 10.0,"Above all, the view is awesome and the pension is also kind
-It was good to have a bakery breakfast in the morning.",9.0,0.886
+It was good to have a bakery breakfast in the morning.",9.0,0.886,8
 10.0,"Everything was so good
 It is close to the convenience store and the chicken restaurant is also nearby.
-Good to walk around",6.0,0.7678
-10.0,"The view was awesome, so I visited and went back again.In addition, I was grateful for free breakfast.",8.0,0.886
+Good to walk around",6.0,0.7678,7
+10.0,"The view was awesome, so I visited and went back again.In addition, I was grateful for free breakfast.",8.0,0.886,3
 10.0,"Too clean and friendly employees
 All supplies hotel class in the hostel
 Breakfast. It was so delicious
-It was a happy trip",10.0,0.9365
-10.0,I made a reservation for the ocean view and I chose well.The person who responded to the boss was very kind and the room was clean and good ~,7.0,0.8516
+It was a happy trip",10.0,0.9365,9
+10.0,I made a reservation for the ocean view and I chose well.The person who responded to the boss was very kind and the room was clean and good ~,7.0,0.8516,8
 10.0,"Leave it for the first time later
 There was a beach right in front of me, so I could see the pretty sunrise.
 And there was a secluded promenade, so I was able to walk a refreshing morning while looking at the sea.
 Bread and coffee or Citrus juice brunch came out as a service.
 The boss's fun service starts a pleasant morning.
-Highly recommended",9.0,0.8932
-10.0,I like cleanliness.The boss is very kind.The view is really good.Sublime,7.0,0.3612
-10.0,Recommended view is so good.,5.0,0.6748
-10.0,"The location was good, quiet and quiet.The boss and the staff are so kind ~",5.0,0.8056
+Highly recommended",9.0,0.8932,3
+10.0,I like cleanliness.The boss is very kind.The view is really good.Sublime,7.0,0.3612,1
+10.0,Recommended view is so good.,5.0,0.6748,5
+10.0,"The location was good, quiet and quiet.The boss and the staff are so kind ~",5.0,0.8056,8
 10.0,"As a result of Jeju Island, I stayed while staying in Jeju Island.
 The boss is really kind
 The beach scenery I saw in the room was really good
 It seems to be lucky to be a memorable accommodation
-Always thrive",9.0,0.8653
-10.0,"The accommodation was very neat first.The owner's aunt was so kind and recommended by Bio.I have a good breakfast and I like my parents, so I think it's a good place to come with my family ~~~",12.0,0.9518
-9.6,I upgraded the accommodation and traveled comfortably.The view in front is fantastic.There are also promenades and rich foods,8.0,0.5574
-10.0,"I stayed on the first floor.Lying in bed and looking out the window, it felt like I'm lying on the beach.The garden in front of the window is well decorated, but it was summer, so it was very hot.In the morning, the boss is very delicious to give toast and coffee.There was no bug and the accommodation was clean.",6.0,0.8095
-10.0,"It's a cloudy day, but it's easy, but it's good to hit the terrace. I'm quiet and comfortable.",6.0,0.9209
-9.2,Eating simple breakfast in the morning .. Happy chatter with friends in the yard.,3.0,0.7783
-10.0,"The 4 -person adult family stayed for two days, but the view was pretty, the owner was kind and the breakfast bread was delicious.",6.0,0.9428
+Always thrive",9.0,0.8653,1
+10.0,"The accommodation was very neat first.The owner's aunt was so kind and recommended by Bio.I have a good breakfast and I like my parents, so I think it's a good place to come with my family ~~~",12.0,0.9518,5
+9.6,I upgraded the accommodation and traveled comfortably.The view in front is fantastic.There are also promenades and rich foods,8.0,0.5574,5
+10.0,"I stayed on the first floor.Lying in bed and looking out the window, it felt like I'm lying on the beach.The garden in front of the window is well decorated, but it was summer, so it was very hot.In the morning, the boss is very delicious to give toast and coffee.There was no bug and the accommodation was clean.",6.0,0.8095,5
+10.0,"It's a cloudy day, but it's easy, but it's good to hit the terrace. I'm quiet and comfortable.",6.0,0.9209,3
+9.2,Eating simple breakfast in the morning .. Happy chatter with friends in the yard.,3.0,0.7783,4
+10.0,"The 4 -person adult family stayed for two days, but the view was pretty, the owner was kind and the breakfast bread was delicious.",6.0,0.9428,1
 10.0,"All rooms are sea view.
 Friendly boss's welcome photo service
 Neat bread
 A fun time with your child in the garden on the first floor
 Convenience store and a nice atmosphere pub nearby
-Jeju Stone Road, which is good to walk in Haenyeo experience",14.0,0.9531
+Jeju Stone Road, which is good to walk in Haenyeo experience",14.0,0.9531,7
 9.6,"This is 7 nights of Jeju Island, but the boss was kind and hygiene was fine.There is a sea right in front of you and convenience facilities such as convenience stores.
-I rest well.",4.0,0.8047
-10.0,There are many places to walk around and you can see the sea as soon as you open the window.I walked and called Olle Trail 7 Course and came to pick it up ?ㅎ???️ Thank you so much!,2.0,0.5792
+I rest well.",4.0,0.8047,7
+10.0,There are many places to walk around and you can see the sea as soon as you open the window.I walked and called Olle Trail 7 Course and came to pick it up ?ㅎ???️ Thank you so much!,2.0,0.5792,7
 10.0,"I was bored only in the hotel for a honeymoon, so I booked it as a pension for a day, but I was personally more satisfied than a 5 -star hotel !!
 I've been comfortable with the Ocean View right in bed and so kind to the boss.
 In the morning, breakfast to eat while watching the sea is also tasted honey.
-If you go to Jeju next time, I will definitely visit again!",4.0,0.9662
-10.0,The boss was so kind and the breakfast was delicious.,5.0,0.8429
+If you go to Jeju next time, I will definitely visit again!",4.0,0.9662,8
+10.0,The boss was so kind and the breakfast was delicious.,5.0,0.8429,8
 9.6,"It's in front of the sea, so it's good to see, and there is a simple breakfast (bread coffee).
 
 The location is near Seogwipo, so the market is not far away.
 
 It is convenient
 
-Above all, the boss is very kind ~ ^^",5.0,0.7828
-8.8,"The dead cockroach came out, but it seems like a hostel who was able to feel rest after traveling for 4 days.",-1.0,0.1531
-10.0,The sunrise I saw in the morning was really beautiful.The managed people were kind and the facilities were very clean.I will visit again.^^,7.0,0.5267
+Above all, the boss is very kind ~ ^^",5.0,0.7828,8
+8.8,"The dead cockroach came out, but it seems like a hostel who was able to feel rest after traveling for 4 days.",-1.0,0.1531,6
+10.0,The sunrise I saw in the morning was really beautiful.The managed people were kind and the facilities were very clean.I will visit again.^^,7.0,0.5267,1
 8.4,"The sea scenery is good and the boss is kind and so good.
 
-One thing to note is the bathroom.The window is right next to the shower booth, but there is a risk of seeing the silhouette on the coastal promenade, so please check the top of the blinds before the shower.",9.0,0.8242
-10.0,"I went to the next day, but I taught me that it was hard to transfer the bus and took the road to the city.Recommended 50000000%",1.0,-0.1531
+One thing to note is the bathroom.The window is right next to the shower booth, but there is a risk of seeing the silhouette on the coastal promenade, so please check the top of the blinds before the shower.",9.0,0.8242,8
+10.0,"I went to the next day, but I taught me that it was hard to transfer the bus and took the road to the city.Recommended 50000000%",1.0,-0.1531,5
 10.0,"This is a view restaurant
 The location was so good and there were many places to eat around
 The boss is kind
-I also had breakfast breakfast too well ^^",5.0,0.8497
-10.0,"The location is the best, so you can go anywhere !!The staff are also friendly and good !!",8.0,0.9094
-8.8,It is a good accommodation.,3.0,0.4404
-8.0,Good view,3.0,0.4404
+I also had breakfast breakfast too well ^^",5.0,0.8497,8
+10.0,"The location is the best, so you can go anywhere !!The staff are also friendly and good !!",8.0,0.9094,9
+8.8,It is a good accommodation.,3.0,0.4404,5
+8.0,Good view,3.0,0.4404,8
 10.0,"The boss is so kind, clean and good ~
 The day was cloudy, but the morning sea was also pretty
 My mom is so satisfied that you will come again next time haha
-Next time, I will find it again!",13.0,0.9645
+Next time, I will find it again!",13.0,0.9645,8
 10.0,"Ocean view so pretty ~ Too clean accommodation ~
-The boss is so kind ~ I will leave a pleasant memories^.^*",7.0,0.9358
+The boss is so kind ~ I will leave a pleasant memories^.^*",7.0,0.9358,5
 8.4,"Overall, it was okay, but I left it with a little bit of regret.
-It was the second floor, but I was going to change the convenience store at night, but it was a bit dangerous because there was no fire to reveal the stairs.",-7.0,-0.917
-9.2,I was kind and received a good tourism guide.,5.0,0.743
+It was the second floor, but I was going to change the convenience store at night, but it was a bit dangerous because there was no fire to reveal the stairs.",-7.0,-0.917,7
+9.2,I was kind and received a good tourism guide.,5.0,0.743,8
 10.0,"The boss is also kind and the surrounding landscape is good ~
-I ate breakfast breakfast so much ~ ^^",5.0,0.743
-10.0,The boss was ?and it was clean and good,5.0,0.6808
-10.0,"The location was also very good in Jungmun and the room view was the best.The boss was so kind.I have a breakfast separately, but I can't eat it early in the morning.",8.0,0.2724
+I ate breakfast breakfast so much ~ ^^",5.0,0.743,8
+10.0,The boss was ?and it was clean and good,5.0,0.6808,8
+10.0,"The location was also very good in Jungmun and the room view was the best.The boss was so kind.I have a breakfast separately, but I can't eat it early in the morning.",8.0,0.2724,9
 10.0,"The view is so good.
-I like the beach walking department with children.",5.0,0.7593
-10.0,"Two days at a pension with two floors.The wide sea view from the second floor of the wide sea view from the first floor is excellent.The boss gives a breakfast with butter jam in a croquose toast in a few coffee breads in the morning.The day I went to the day was the day when the typhoon Barbie came up, but outside the dangerous typhoon rain and waves were driven outside, and the feeling was so safe inside ?ㅎ",3.0,0.2238
+I like the beach walking department with children.",5.0,0.7593,6
+10.0,"Two days at a pension with two floors.The wide sea view from the second floor of the wide sea view from the first floor is excellent.The boss gives a breakfast with butter jam in a croquose toast in a few coffee breads in the morning.The day I went to the day was the day when the typhoon Barbie came up, but outside the dangerous typhoon rain and waves were driven outside, and the feeling was so safe inside ?ㅎ",3.0,0.2238,7
 10.0,"You can see Beomseom right in front of you
 Toast and coffee is so delicious in the morning
 The recommended destination of the friendly boss
 I decided to go alone with my friends and the kids next time.
 It was a bit unfortunate because of the dark seaweed
-It was so good ^^",8.0,0.9115
-9.2,The boss was kind and the view was so good and clean and it was so good ~~,10.0,0.9306
-10.0,"The boss is very kind and the view from ROM is beautiful.It's an Olle 7 course right in front of you, so you can get up early.",5.0,0.5709
+It was so good ^^",8.0,0.9115,7
+9.2,The boss was kind and the view was so good and clean and it was so good ~~,10.0,0.9306,8
+10.0,"The boss is very kind and the view from ROM is beautiful.It's an Olle 7 course right in front of you, so you can get up early.",5.0,0.5709,8
 9.6,"I went with my family, but I was so kind to contact me when I was coming late.
 It was good to have bread, coffee, and breakfast, and it was good for the convenience store and it was right in front of the sea ~
 However, it was 2 nights (cleaning was not so good ~) I didn't give a new towel because I didn't give a new garbage cleanup and towel.
  It was spacious and good because it was comfortable and duplex ~
 I have a doctor again next time ^^
 
-There is a convenience store nearby, so it was good ?",19.0,0.9858
-10.0,"I stayed on the first floor, but the landscape was so beautiful that I was looking out the window.",3.0,0.8396
+There is a convenience store nearby, so it was good ?",19.0,0.9858,7
+10.0,"I stayed on the first floor, but the landscape was so beautiful that I was looking out the window.",3.0,0.8396,4
 10.0,"I used the studio on the first floor where the sea was seen in front of me, but the view was the best than any other accommodation ~ It was so good to be a barbecue, and the girl who was a girl was better to play the piano in a rainy evening!
 I gave you a simple breakfast in the morning ~ ^^
-It was a more memorable pension than the Chinese 5 -star hotel.",8.0,0.9623
-8.8,All of the owners were so kind that they were so friendly.,4.0,0.8585
-2.0,-,0.0,0.0
+It was a more memorable pension than the Chinese 5 -star hotel.",8.0,0.9623,5
+8.8,All of the owners were so kind that they were so friendly.,4.0,0.8585,1
+2.0,-,0.0,0.0,3
 7.6,"It was right in front of the Haenyeo experience hall and there was a place to eat around.I had a baby guest, so I changed the room to the double floor room.The stairs were too steep and climbed, hitting the corner of the bed, so both bridegrooms and both bridges were hurt.
-It was good to give toast and coffee for breakfast.",1.0,-0.128
+It was good to give toast and coffee for breakfast.",1.0,-0.128,7
 10.0,"I really liked it because there was a sea in front of the house, and I was happy because I had a lot of taste.
-Thank you so much for taking care of the morning and coffee.",9.0,0.9099
-10.0,"It was so good that I felt the feeling of Jeju Island, and I wanted to have one more day here.",4.0,0.6418
+Thank you so much for taking care of the morning and coffee.",9.0,0.9099,1
+10.0,"It was so good that I felt the feeling of Jeju Island, and I wanted to have one more day here.",4.0,0.6418,5
 8.4,"It's a pension located in Seogwipo Sea.
-I made a reservation to travel with my mom, but the view was so good that I was satisfied.I see the sea at a glance in the room !!I think it's good to take pictures on the grass in front of the room and come with your family!I was able to cook, so I bought seafood from the market and cooked it.But the unfortunate thing was that the blanket was a little stuck when I was sleeping.",6.0,0.7929
-9.6,Kind and location is overwhelming! Ocean view right in front of you,2.0,0.5707
+I made a reservation to travel with my mom, but the view was so good that I was satisfied.I see the sea at a glance in the room !!I think it's good to take pictures on the grass in front of the room and come with your family!I was able to cook, so I bought seafood from the market and cooked it.But the unfortunate thing was that the blanket was a little stuck when I was sleeping.",6.0,0.7929,2
+9.6,Kind and location is overwhelming! Ocean view right in front of you,2.0,0.5707,8
 10.0,"Wow, the sea view was not a joke.I went to Jeju a lot, but one scenery is the best.
  Take care of toast coffee in the morning
-(I didn't know if there was a free breakfast.) .. It's not a luxury hotel, but it's the best price for price.",17.0,0.977
+(I didn't know if there was a free breakfast.) .. It's not a luxury hotel, but it's the best price for price.",17.0,0.977,9
 9.6,"The scenery looks so good than I thought.
  It is the best of Saeum Munseom Sae Yeon Bridge.
-It was good to organize it, and most of all, the bedding was clean.Simple toast and coffee, but the taste of eating while watching the sea is excellent.When I go to Seogwipo, I will try it again.I miss Jeju again.",12.0,0.6642
-4.4,"It was hard to breathe when I showered with a smell of a toilet like a septic tank.I woke up and was bitten by ticks for a week.The location was good, but I tried to buy a sashimi and pointed out that I shouldn't eat food indoors!It's ridiculous that you shouldn't eat at the pension !!",1.0,-0.3871
+It was good to organize it, and most of all, the bedding was clean.Simple toast and coffee, but the taste of eating while watching the sea is excellent.When I go to Seogwipo, I will try it again.I miss Jeju again.",12.0,0.6642,9
+4.4,"It was hard to breathe when I showered with a smell of a toilet like a septic tank.I woke up and was bitten by ticks for a week.The location was good, but I tried to buy a sashimi and pointed out that I shouldn't eat food indoors!It's ridiculous that you shouldn't eat at the pension !!",1.0,-0.3871,6
 10.0,"You can see the island in the room right in front of the sea and you can see the sunrise in the morning.
 It is a place where you can feel Jeju!
 In the morning, I gave you coffee in the toast and recommended the tourist destination around you so well.
-I am willing to go again",2.0,0.5904
-10.0,Kind and room condition is so good ??,5.0,0.8177
-10.0,The interior was clean and the blanket was soft and good ~~ The owner of the owner was very friendly and delicious ^^,10.0,0.9195
-10.0,"The boss was kind and as soon as I got up, it was a very beautiful house with the sea.",5.0,0.8221
-9.2,"I stayed with two friends and women.The sea scenery right in front of me was so beautiful.But the toilet looked a bit old, and it was a little scared because it was a visit to the roadside.I want to go back with my son and husband in the wall.",2.0,0.2006
-2.8,"The view is similar to the picture.However, the room was more old and was messy whether it was not cleaning the floor.The bedding is more than seeing.And in front of you, the yard is just a pension front yard and people are baked and sitting on an outdoor table in front of our room.It was difficult to enjoy the view because I was embarrassed.Please note that it is not a private front yard.",0.0,-0.2023
+I am willing to go again",2.0,0.5904,7
+10.0,Kind and room condition is so good ??,5.0,0.8177,8
+10.0,The interior was clean and the blanket was soft and good ~~ The owner of the owner was very friendly and delicious ^^,10.0,0.9195,5
+10.0,"The boss was kind and as soon as I got up, it was a very beautiful house with the sea.",5.0,0.8221,8
+9.2,"I stayed with two friends and women.The sea scenery right in front of me was so beautiful.But the toilet looked a bit old, and it was a little scared because it was a visit to the roadside.I want to go back with my son and husband in the wall.",2.0,0.2006,7
+2.8,"The view is similar to the picture.However, the room was more old and was messy whether it was not cleaning the floor.The bedding is more than seeing.And in front of you, the yard is just a pension front yard and people are baked and sitting on an outdoor table in front of our room.It was difficult to enjoy the view because I was embarrassed.Please note that it is not a private front yard.",0.0,-0.2023,4
 10.0,"The owner is kind and the facilities are clean ~
 Venue is good for convenience, good walks and views.
-The room size is a bit small, so please note it ~",11.0,0.9312
-3.2,"Bugs on the pillow, as well as the mold in the smell of the fungus of the cumcum ... The best thing is that the best thing is that I wanted to sleep in the bathroom.I feel like it's frustrating and good .. ^^ ... I don't have a gel in my trip until this time.",9.0,0.9186
-9.6,"When you open the window, you can see the sea!I chose the landscape, but it was the same picture and the accommodation was so good !!",3.0,0.7898
+The room size is a bit small, so please note it ~",11.0,0.9312,8
+3.2,"Bugs on the pillow, as well as the mold in the smell of the fungus of the cumcum ... The best thing is that the best thing is that I wanted to sleep in the bathroom.I feel like it's frustrating and good .. ^^ ... I don't have a gel in my trip until this time.",9.0,0.9186,9
+9.6,"When you open the window, you can see the sea!I chose the landscape, but it was the same picture and the accommodation was so good !!",3.0,0.7898,5
 8.4,"I stayed on the first floor, but the view is really the best.
 And I was able to see the dolphins that came to play in the morning!
-Sometimes I'm coming to play :)",3.0,0.9566
+Sometimes I'm coming to play :)",3.0,0.9566,1
 3.2,"Nothing except the view
 At the same time, it is a waste of price
 Sanitary cleanliness messed up
-The bridegroom is thin and I have an eye.Dust in the pillow.I feel like I don't replace bedding",-1.0,-0.4019
-8.4,There is no restaurant nearby ...,-1.0,-0.296
-9.6,"It was a sensitive to the smell, and I was more concerned about hygiene, and I was close to the Olle Market and I was able to see the stick when I climbed Halla Mountain for two days.",-2.0,0.0
-8.8,"It was cold because the boiler didn't come in quickly, but it was so pretty !!",1.0,0.8052
+The bridegroom is thin and I have an eye.Dust in the pillow.I feel like I don't replace bedding",-1.0,-0.4019,6
+8.4,There is no restaurant nearby ...,-1.0,-0.296,3
+9.6,"It was a sensitive to the smell, and I was more concerned about hygiene, and I was close to the Olle Market and I was able to see the stick when I climbed Halla Mountain for two days.",-2.0,0.0,7
+8.8,"It was cold because the boiler didn't come in quickly, but it was so pretty !!",1.0,0.8052,2
 10.0,"It wasn't a new building, but the old feel was inevitable but clean.
 The towel is like a hotel towel.
-Above all, the view is so good ??",7.0,0.9227
-8.8,"My parents went, but there was a toilet on the first floor, so I was a little scared to go up and down at night, but I was so good.",1.0,0.3195
+Above all, the view is so good ??",7.0,0.9227,0
+8.8,"My parents went, but there was a toilet on the first floor, so I was a little scared to go up and down at night, but I was so good.",1.0,0.3195,7
 9.6,"It was already the second visit, but it seems to be better than last time ~
-There is also a cafe, so it would be nice to use it.",5.0,0.8201
+There is also a cafe, so it would be nice to use it.",5.0,0.8201,2
 10.0,"BBQ facilities are also good
-The coast view was so pretty and good",7.0,0.8725
-9.2,"It was so nice to see the octes of the lodgings immediately and open the window.I was very good at seeing the sea in a pleasant accommodation.In addition, after checking out, the person who rides to the nearby bus stop was a pleasant trip thanks to the boss.I want to go back!",14.0,0.9403
-8.4,"First recommended!I had to cancel my accommodation because the schedule was suddenly changed, but the boss changed for free.It was a double floor room on the second floor, but the view I sat in bed in the morning was really pretty!It was great to wash and walk in front of the pension.But it was a little old in bedding and chassis.There was a Japanese home restaurant nearby, but it was really delicious !!",9.0,0.9349
+The coast view was so pretty and good",7.0,0.8725,5
+9.2,"It was so nice to see the octes of the lodgings immediately and open the window.I was very good at seeing the sea in a pleasant accommodation.In addition, after checking out, the person who rides to the nearby bus stop was a pleasant trip thanks to the boss.I want to go back!",14.0,0.9403,5
+8.4,"First recommended!I had to cancel my accommodation because the schedule was suddenly changed, but the boss changed for free.It was a double floor room on the second floor, but the view I sat in bed in the morning was really pretty!It was great to wash and walk in front of the pension.But it was a little old in bedding and chassis.There was a Japanese home restaurant nearby, but it was really delicious !!",9.0,0.9349,1
 5.6,"If you only consider Oni View, it is recommended.The pension is the 7th Olle -gil Kosos view.It is so good that the garden is connected directly to the balcony.
 However, it is light for those who are neat.You must have cleaned it clean, but it's too old than the picture in the room and the overall pension facility is too old.I was also sick of bedding.
-Recommended for those who only consider views.",7.0,-0.0076
-8.0,It's really good,3.0,0.4927
+Recommended for those who only consider views.",7.0,-0.0076,4
+8.0,It's really good,3.0,0.4927,1
 7.6,"We went there without expectation.
 I'm going to sleep and come out ~~ ^^
 But there was a completely anti -war
 There was a picture in the picture that I didn't expect
 When I opened my eyes at dawn, the red sun rising from the east was so cool.
-I vowed to go back to the wall, and I diligently came out because of the next schedule.",-2.0,-0.7327
+I vowed to go back to the wall, and I diligently came out because of the next schedule.",-2.0,-0.7327,4
 9.6,"The view I saw in the room was so pretty.
 I went to when it was really cold in the middle of winter, but ?ㅠ
 I still can't forget it !!!
 Recommended for couple family trips !!!! ^^
 The day was not so good, so I couldn't use the facilities.
-The boss is so kind ~",7.0,0.873
+The boss is so kind ~",7.0,0.873,1
 10.0,"I was really very friendly and kind, clean and completely satisfied ~~
-The view I get up in the morning in the bedroom on the second floor is so fantastic.Next time I want to go to the hostel here ~ There is also a full kimbap near the accommodation, but it was so good to eat while watching the pretty sea in the stone table and chair in front of the pension ~ ?ㅎ",17.0,0.9539
+The view I get up in the morning in the bedroom on the second floor is so fantastic.Next time I want to go to the hostel here ~ There is also a full kimbap near the accommodation, but it was so good to eat while watching the pretty sea in the stone table and chair in front of the pension ~ ?ㅎ",17.0,0.9539,1
 9.6,"The weather is cloudy and it's raining, but it's a shame, but I came to rest comfortably.
 The room was bigger than I thought, and it was good to take care of it.
 It was a pity that it smelled a bit in the bathroom.
-Still, the other parts are good to be satisfactory.",6.0,0.9186
-10.0,"There is a beach right in front of you, close to Sinseo Gwipo, and the Jungmun complex is close to family travelers.My mother was so satisfied.It was recommended for those who come to Seogwipo!",4.0,0.3304
-8.0,I liked the ocean view and it was nice to be neat!,5.0,0.8356
-6.4,"The sea view from the room is good.However, I don't think cleaning is very good",6.0,0.4927
+Still, the other parts are good to be satisfactory.",6.0,0.9186,5
+10.0,"There is a beach right in front of you, close to Sinseo Gwipo, and the Jungmun complex is close to family travelers.My mother was so satisfied.It was recommended for those who come to Seogwipo!",4.0,0.3304,7
+8.0,I liked the ocean view and it was nice to be neat!,5.0,0.8356,2
+6.4,"The sea view from the room is good.However, I don't think cleaning is very good",6.0,0.4927,5
 6.4,"It's quite far from the airport, but it's good to come out cheaply.
 The picture is the same in the past. It's clean and the view family is really the best!
-If you have a chance to go next time, I want to go back.",11.0,0.9575
-6.0,I don't think it's bad for a couple to stay.,-3.0,0.431
-8.8,"It's a pity that it smells a little in the bathroom.It's a bit unfortunate that the owner is not always waiting, but the view is a great place to go to Olle trail.",1.0,0.6187
-9.6,Real Jobs here are going to know me again,0.0,0.0
+If you have a chance to go next time, I want to go back.",11.0,0.9575,1
+6.0,I don't think it's bad for a couple to stay.,-3.0,0.431,2
+8.8,"It's a pity that it smells a little in the bathroom.It's a bit unfortunate that the owner is not always waiting, but the view is a great place to go to Olle trail.",1.0,0.6187,0
+9.6,Real Jobs here are going to know me again,0.0,0.0,5
 10.0,"I canceled my reservation early and then caught it again.
 So I was a little nervous about how many times I was confused, but it was really nice to see you.
 The landscape was good and the room was clean and pretty.
 I caught three lodgings to move, and it was the best of them.
-This is the only place I want to use again next time.",9.0,0.9716
+This is the only place I want to use again next time.",9.0,0.9716,1
 9.2,"I've been to a rainy day and it's really good.
-But it smells too much on the air conditioner.It was perfect except that ~ The view is the best.",8.0,0.93
-10.0,The view is good and the garden is finished in front of the balcony.The staff are so kind and strong,7.0,0.8963
-8.8,"I stayed in a double -layered room.On the first floor, there was a living room kitchen toilet and a bedroom in the attic.There is a simple cooking instrument in the kitchen, so it was easy to disinfect.The child could not sleep in the attic because of his childhood.Instead, the living room was spacious, so I could sleep with my child in the living room.The rooms are clean and comfortable.A little far away is visible on the window and there is a small garden in front.It is good to stroll around the beach and Olle trails near the hotel.There are a few restaurants on the dock streets near the hotel, and it is expensive and ordered for more than two people.It's a good idea to search for a place to eat.",12.0,0.8925
-6.0,I like it in front of the beach,2.0,0.3612
-4.0,"Employees evade wrong when something wrong happens.In the end, I was upset and slept elsewhere.",-6.0,-0.8316
+But it smells too much on the air conditioner.It was perfect except that ~ The view is the best.",8.0,0.93,1
+10.0,The view is good and the garden is finished in front of the balcony.The staff are so kind and strong,7.0,0.8963,8
+8.8,"I stayed in a double -layered room.On the first floor, there was a living room kitchen toilet and a bedroom in the attic.There is a simple cooking instrument in the kitchen, so it was easy to disinfect.The child could not sleep in the attic because of his childhood.Instead, the living room was spacious, so I could sleep with my child in the living room.The rooms are clean and comfortable.A little far away is visible on the window and there is a small garden in front.It is good to stroll around the beach and Olle trails near the hotel.There are a few restaurants on the dock streets near the hotel, and it is expensive and ordered for more than two people.It's a good idea to search for a place to eat.",12.0,0.8925,3
+6.0,I like it in front of the beach,2.0,0.3612,6
+4.0,"Employees evade wrong when something wrong happens.In the end, I was upset and slept elsewhere.",-6.0,-0.8316,5
 10.0,"There is a beautiful road where you can walk quietly while thinking with your family or alone in front of your pension.
 
   It was also good to be able to quietly view the dawn of the red sun that comes to mind at dawn and at dawn.
@@ -531,7 +531,7 @@ Joys seem to be unable to change anything
  I would recommend you to walk as much as it is a happiness course.
 
  Solar Sido Pension that made a good time ...
-Thank you, be rich.",11.0,0.9661
+Thank you, be rich.",11.0,0.9661,6
 9.2,"I went with 3 friends
 It was a double -storey room, but it was so good ~
 It's clean and the view is so good ~
@@ -540,13 +540,13 @@ My friend was suddenly sick and had to go to the emergency room.
 Even if I go home, please contact me and boil it.
 Thank you for being so good ~
 When I woke up in the double floor, it was so fantastic because the sea was seen outside the window.
-It's enough to go back ah ^^",17.0,0.9909
-8.8,All were satisfactory.Friendly boss and open view!I rode a seesaw and a drink and walked right in front of the beach.I like any scenery in the morning and evening :) I recommend it.,6.0,0.807
+It's enough to go back ah ^^",17.0,0.9909,8
+8.8,All were satisfactory.Friendly boss and open view!I rode a seesaw and a drink and walked right in front of the beach.I like any scenery in the morning and evening :) I recommend it.,6.0,0.807,6
 10.0,"It was a hostel who looked at the conditions of the observatory location, but it was quiet and quiet and very satisfied.The first floor living room view is also good, but the bedroom view of the multi -floor is very excellent.
 The cleaning state in the facility is very good and the product (to the hand tax purification and cleansing foam) will be particularly satisfactory for women.
 There is also an outdoor table with barbecue, especially comfort and swings.
 The owner was also very friendly, and I talked to the party that I wanted to stay at the hostel next time.
-(The only thing that's a little unfortunate is that the refrigerator was a little small)",15.0,0.9856
+(The only thing that's a little unfortunate is that the refrigerator was a little small)",15.0,0.9856,4
 8.0,"In Jeju Island, Seogwipo has a lot of nice and good hotels.While looking for, I was looking for the introduction of the acquaintances.
 
 The advantage is
@@ -574,36 +574,36 @@ Lastly, it wasn't unpleasant in the blanket, but it smelled.
 When you don't know, I think you can misunderstand when you wash the blanket.
 
 Here's really good.
-The scenery was beautiful and all the surrounding landscapes were able to feel Jeju Island, not tourist destinations.It was warm and warm.",32.0,0.9896
-10.0,"When I first entered, I had no smell, clean, and most of all the scenery was so good. I was going to walk to the bus stop on the day I left.want to do!",4.0,0.516
+The scenery was beautiful and all the surrounding landscapes were able to feel Jeju Island, not tourist destinations.It was warm and warm.",32.0,0.9896,1
+10.0,"When I first entered, I had no smell, clean, and most of all the scenery was so good. I was going to walk to the bus stop on the day I left.want to do!",4.0,0.516,8
 9.6,"The biggest advantage is that the sea is seen outside the window ~
 There are all the default pensions ~
 There is no dining table, but there is a sofa table ~
 Careful details with foam cleansing and toothpaste ~
-I want to go again next time ... If it's more expensive ... I can't go ... ?ㅠ",4.0,0.3071
-8.4,"First of all, the sea view was good and the facilities were all clean.",5.0,0.6808
+I want to go again next time ... If it's more expensive ... I can't go ... ?ㅠ",4.0,0.3071,4
+8.4,"First of all, the sea view was good and the facilities were all clean.",5.0,0.6808,8
 4.4,"I went to 4 people with my friends.
 Location view is very good.
 The cafe red bean shaved ice on the first floor is good and the staff is warm.
 However, it smells like a strange curry smell in the accommodation.
 Even if I sprayed the fragrance given by the staff, all my head hurts because of the strange smell until the next day.
-And the toilet window was broken, so the mosquito came in and bitten mosquito overnight.",4.0,0.6232
+And the toilet window was broken, so the mosquito came in and bitten mosquito overnight.",4.0,0.6232,5
 10.0,"The owner is very kind
-All home appliances are new and the facilities are so good.",5.0,0.8143
+All home appliances are new and the facilities are so good.",5.0,0.8143,8
 10.0,"The room was small but all that was small and comfortable.
 There was a yard, so the ocean view with barbecue and Beomseom was very nice.
-There's an Olle trail 7 course in front of you, so it's best to walk in the morning!It's great for the price, so I have a willingness to visit later.",13.0,0.9795
+There's an Olle trail 7 course in front of you, so it's best to walk in the morning!It's great for the price, so I have a willingness to visit later.",13.0,0.9795,4
 8.4,"Everything was good.
-We haven't checked out yet, but I opened the door twice ... Everything was perfect and good except for this.",9.0,0.8968
-8.8,"It was a beautiful accommodation with Beomseom.When I opened my eyes in the morning, the beautiful sea scenery made me happy.There were many atmospheric cafes and delicious restaurants around, and the Olle 7 course was right in front of you.The pension wife was so kind and the accommodation was prepared!One thing that's unfortunate is that it would be nice if there was no carpet at all!",17.0,0.9437
+We haven't checked out yet, but I opened the door twice ... Everything was perfect and good except for this.",9.0,0.8968,5
+8.8,"It was a beautiful accommodation with Beomseom.When I opened my eyes in the morning, the beautiful sea scenery made me happy.There were many atmospheric cafes and delicious restaurants around, and the Olle 7 course was right in front of you.The pension wife was so kind and the accommodation was prepared!One thing that's unfortunate is that it would be nice if there was no carpet at all!",17.0,0.9437,5
 10.0,"Even though it was late because there was no restaurant that missed dinner during sightseeing, I asked for it.
 Thank you so much for preparing.
 The room was so clean and the view was so pretty.
 I reserved only one night, so I was so sad with my boyfriend, I wanted to look around and make a reservation again, but it was a pity.
-The view of the very kind boss like the picture clean after the pension will be here. ^^",4.0,0.9234
+The view of the very kind boss like the picture clean after the pension will be here. ^^",4.0,0.9234,4
 6.8,"The view is the best.Needless to say.
-But the interior was a hot summer, so I smelled like a smell as soon as I went in, and the paintings on the walls have a mold.Feeling good and not managed well.But that price was not bad.Oh, if the curtains are double the sky, I don't see it outside.I'm sitting on the bed, but I see a person walking outside.",6.0,0.8185
-6.8,"The boss is kind, but during the accommodation, he does not take care of cleaning and towels.",4.0,-0.3054
+But the interior was a hot summer, so I smelled like a smell as soon as I went in, and the paintings on the walls have a mold.Feeling good and not managed well.But that price was not bad.Oh, if the curtains are double the sky, I don't see it outside.I'm sitting on the bed, but I see a person walking outside.",6.0,0.8185,6
+6.8,"The boss is kind, but during the accommodation, he does not take care of cleaning and towels.",4.0,-0.3054,5
 10.0,"The photos on the app or the Internet are different from the actual appearance, so I often disappointed when I went to the scene, but this time it was better than the picture.
 My first trip to Jeju Island with my mom was the first day of stay, so I chose it when I made a reservation.
 The inside of the property, the tenderly tidy cleansing tools, the shower that comes out, the lawns with the smell of Jeju Island, and the sea that surrounds the landscape over it.
@@ -614,61 +614,61 @@ He also recommended a restaurant for dinner nearby and guided me in detail where
 Solar Sido Pension is a place to stay again if you have to go to Jeju Island later.
 I want to recommend it to acquaintances!
 
-If you are thinking about booking this pension now, please make a reservation immediately.I won't regret it.",9.0,0.979
-9.2,I want to go one more next time,1.0,0.0772
-10.0,I like it so much. The boss is kind and the view is good.,7.0,0.8316
+If you are thinking about booking this pension now, please make a reservation immediately.I won't regret it.",9.0,0.979,9
+9.2,I want to go one more next time,1.0,0.0772,7
+10.0,I like it so much. The boss is kind and the view is good.,7.0,0.8316,8
 8.4,"It was close to the beach, so it was good to walk with children and enjoy nature.The owner was kind and did not inconvenience.
-There is a little regret that it was well cleaned even in the invisible place.",3.0,0.8877
+There is a little regret that it was well cleaned even in the invisible place.",3.0,0.8877,6
 8.0,"Just in front of the beach visible.
-The double -story stairs are overwhelmed, so it can be dangerous with the child.",-2.0,-0.4404
-7.3,"The neighborhood was quiet and right in front of the sea.It's quiet because there aren't many rooms, but I can hear the upper room.^^ Clean cleaning and bedding and towels are good.",5.0,0.8126
+The double -story stairs are overwhelmed, so it can be dangerous with the child.",-2.0,-0.4404,6
+7.3,"The neighborhood was quiet and right in front of the sea.It's quiet because there aren't many rooms, but I can hear the upper room.^^ Clean cleaning and bedding and towels are good.",5.0,0.8126,4
 9.6,"Beautiful location by the rocky shore. We had the ground floor room that overlooks into the sea. Practically able to start hiking from the front step along the shore for miles if you want. Restaurants and cute cafes are peppered around the vicinity so honestly you don?t need to leave the area if desired. 
 Room is very clean. Comes with a decent basic kitchen. Bed is firm and comfy. 
 Hosts are incredibly friendly. Always asks if we are alright and has a notebook in English in which she has notes in English to recommend restaurants within walking or driving. Even has a massive map of Jeju in English to try recommend what suits us for that day (weather dependent). Their dedication and enthusiasm is charming!! 
 Parking is free in front. 
 Wifi is good. 
-Simple breakfast of various breads  coffee and fresh orange juice is provided.",25.0,0.9907
+Simple breakfast of various breads  coffee and fresh orange juice is provided.",25.0,0.9907,0
 9.6,"The ladies are super helpful and lovely! They will try to help in any way they can with your request. 
 
 The room is clean  well maintained and the view if just heavenly. There are lots of shops albeit local shops  around the property. There is a walking trail just in front  by the waters that is awesome for an early morning or evening walk. There?s a haenyo place right in front of the pension too. You can get fresh raw fish (hoe ??) from them in their little restaurant. 
 
-Location is down south  it?s Jeju?s ?original??first village apparently. But you would need a car or taxi to get around to the other places of interests on this island.",22.0,0.9549
-10.0,My family of 4 stayed here for 2 nights and it was one of our best experience. The 2 lady staff were very hospitable and kind and really made our stay feel like home.  The pension is well located . Very near to the sea  we had best views of sunrise from our unit. Breakfast is very nice. Restaurants and convenience store within walking distance . This is a very pretty pension and I highly recommend it !,16.0,0.9784
-10.0,Great view  great host who recommended nice scenic famous destinations around jeju to us! Love this cozy place with a great view :),19.0,0.9761
-10.0,The views are remarkable  rooms are clean. The lady in charge was super helpful! Beautiful  beautiful sunrise and sunset. You wont regret it.,13.0,0.9733
-10.0,The pension staff were friendly and kind. They provided a list of places to visit and eat  helping us plan our itinerary for the day. They helped to call in and check if certain tourist attractions were open too.,9.0,0.9136
+Location is down south  it?s Jeju?s ?original??first village apparently. But you would need a car or taxi to get around to the other places of interests on this island.",22.0,0.9549,3
+10.0,My family of 4 stayed here for 2 nights and it was one of our best experience. The 2 lady staff were very hospitable and kind and really made our stay feel like home.  The pension is well located . Very near to the sea  we had best views of sunrise from our unit. Breakfast is very nice. Restaurants and convenience store within walking distance . This is a very pretty pension and I highly recommend it !,16.0,0.9784,9
+10.0,Great view  great host who recommended nice scenic famous destinations around jeju to us! Love this cozy place with a great view :),19.0,0.9761,2
+10.0,The views are remarkable  rooms are clean. The lady in charge was super helpful! Beautiful  beautiful sunrise and sunset. You wont regret it.,13.0,0.9733,3
+10.0,The pension staff were friendly and kind. They provided a list of places to visit and eat  helping us plan our itinerary for the day. They helped to call in and check if certain tourist attractions were open too.,9.0,0.9136,2
 9.6,"Had a relaxing time during our stay at this place. We booked 1 single studio and duplex studio. So we managed to see the outside view from the G floor and 1st floor. The view is beautiful  especially when the sun is shining down.
 
 The staffs are also very kind and polite. Recommended places for us to visit and also provided breakfast daily for us to fill our tummies before we started our daily trips.
 
 There are also some nice restaurants within 10 minutes walk. The fried chickens restaurant nearby is nice as well
 
-Overall  very happy with this place and would definitely stay here again during our next visit.",18.0,0.9776
+Overall  very happy with this place and would definitely stay here again during our next visit.",18.0,0.9776,2
 10.0,"I visited jeju 9 years ago alone and came back with my husband and twin 7 year old
-Children. They fell in love with jeju more than I did my first time and it was because of this pension  the location  the atmosphere. It has been a perfect getaway from mainland Korea. We?re coming back in a few weeks!",4.0,0.8016
-10.0,Nice room  friendly staff  wonderful stay  will come back again when i visit.,9.0,0.8658
+Children. They fell in love with jeju more than I did my first time and it was because of this pension  the location  the atmosphere. It has been a perfect getaway from mainland Korea. We?re coming back in a few weeks!",4.0,0.8016,6
+10.0,Nice room  friendly staff  wonderful stay  will come back again when i visit.,9.0,0.8658,2
 10.0,"The foothold of friendly and enjoyable travel
-Please tell me the tourist attractions around you. Thank you",9.0,0.9136
-9.6,The house was clean  tidy and fully equipped kitchen. The view of the sea is great and guest will get breakfast in the garden with sea breeze.,5.0,0.7783
-10.0,Great view from the bedroom. Friendly host. She suggested places of interest for us to visit. Highly recommended.,8.0,0.908
-9.6,Pension was warm and comfortable for our family of 4. Located near many food options and central to numerous attractions. Owner lady was super helpful and caring  and provided a simple breakfast every morning. Highly recommended.,14.0,0.9583
-10.0,The host is very helpful and friendly.. she helped us mapped out places of interest! Will definitely go back to again.,5.0,0.8436
+Please tell me the tourist attractions around you. Thank you",9.0,0.9136,2
+9.6,The house was clean  tidy and fully equipped kitchen. The view of the sea is great and guest will get breakfast in the garden with sea breeze.,5.0,0.7783,3
+10.0,Great view from the bedroom. Friendly host. She suggested places of interest for us to visit. Highly recommended.,8.0,0.908,2
+9.6,Pension was warm and comfortable for our family of 4. Located near many food options and central to numerous attractions. Owner lady was super helpful and caring  and provided a simple breakfast every morning. Highly recommended.,14.0,0.9583,3
+10.0,The host is very helpful and friendly.. she helped us mapped out places of interest! Will definitely go back to again.,5.0,0.8436,2
 8.8,"It?s not a luxurious accommodation but it?s not a crash pad either. 
 Pros  located next to the ocean  very quiet  walking trails on the coast  coffee and food minutes in either direction  hostess super nice  complimentary pastries with fresh juice or iced coffee in the morning. Simple and clean with beds for 3 adults. You have the optional floor mat for a fourth. 
 I consider this a neat little hide away with fresh air. 
 Cons; it takes over an hour to get here by car from the airport. Very slow  drive to the opposite side of the island  no indulgences  not a lot of counter space for toiletries  towels   anything really and headroom in upstairs loft is low making it necessary for a 5??0??man to have to duck. 
 
-I would stay again but I?m really curious to see what the other pensions and hotels look like to compare.",9.0,0.9867
-9.2,Beautiful view from room. Staff very friendly and provided us free breakfast. Rooms sparkling clean and cosy. Plenty of shops and some eateries nearby. However is best to rent a car and travel there.,14.0,0.9628
-10.0,Location is good. Room is clean. Nice scenery.,8.0,0.8126
-8.8,You get to wake up beside the ocean! Breakfast of simple pastries and coffee prepared by the cheerful and friendly host! Can dine by the stone table and stools st the outdoor area. The location is beside a port with almost no activity during my visit in early Jun. Pls note pension at 2nd floor has no lift  so prepare to carry luggage up and no shelter. This is common in Jeju. I would recommend this place for its price and helpful host who even shared with us itinerary for 4 days to cover the 4 areas in Jeju  for my family.,7.0,0.9093
-9.6,Just like in my previous review ;) (27-28 Apr),2.0,0.5267
-10.0,Great ocean view and breakfast!,3.0,0.6588
-8.8,The place was pretty and the lady there was very friendly!! We checked in late and she was waiting for us. The next day after our hike  as we missed breakfast  she even prepared a takeaway for us. How lovely!! Thank you  enjoyed my stay  only if I could stay abit longer!,9.0,0.9528
-9.2,Beautiful views  clean facilities  and friendly owner,7.0,0.8689
-7.6,Amazing breakfast by the sea!,4.0,0.6239
-9.2,Really nice pension. Got the feeling of a beach house. Very kind owner. However  not really suitable for small kids due to very steep stairs to the master bed. Overall it was good.,11.0,0.8803
-8.8,Pension has great view and very relaxing.  Area was quiet during the night.  Lady host every morning prepared breakfast(western bread crossiant cake  coffee) and recommend itinerary for the day. The Pension is at Seogwipo area access to most tourist attractions are nearer.  The night end early during winter season the room was comfortable to stay in.  Convience stores (GS5) nearby too. Few good restaurants was walking distant.  Will definitely stay again in this Pension when choosing staying at Seogwipo area.,13.0,0.9718
+I would stay again but I?m really curious to see what the other pensions and hotels look like to compare.",9.0,0.9867,1
+9.2,Beautiful view from room. Staff very friendly and provided us free breakfast. Rooms sparkling clean and cosy. Plenty of shops and some eateries nearby. However is best to rent a car and travel there.,14.0,0.9628,2
+10.0,Location is good. Room is clean. Nice scenery.,8.0,0.8126,8
+8.8,You get to wake up beside the ocean! Breakfast of simple pastries and coffee prepared by the cheerful and friendly host! Can dine by the stone table and stools st the outdoor area. The location is beside a port with almost no activity during my visit in early Jun. Pls note pension at 2nd floor has no lift  so prepare to carry luggage up and no shelter. This is common in Jeju. I would recommend this place for its price and helpful host who even shared with us itinerary for 4 days to cover the 4 areas in Jeju  for my family.,7.0,0.9093,4
+9.6,Just like in my previous review ;) (27-28 Apr),2.0,0.5267,6
+10.0,Great ocean view and breakfast!,3.0,0.6588,3
+8.8,The place was pretty and the lady there was very friendly!! We checked in late and she was waiting for us. The next day after our hike  as we missed breakfast  she even prepared a takeaway for us. How lovely!! Thank you  enjoyed my stay  only if I could stay abit longer!,9.0,0.9528,2
+9.2,Beautiful views  clean facilities  and friendly owner,7.0,0.8689,2
+7.6,Amazing breakfast by the sea!,4.0,0.6239,3
+9.2,Really nice pension. Got the feeling of a beach house. Very kind owner. However  not really suitable for small kids due to very steep stairs to the master bed. Overall it was good.,11.0,0.8803,1
+8.8,Pension has great view and very relaxing.  Area was quiet during the night.  Lady host every morning prepared breakfast(western bread crossiant cake  coffee) and recommend itinerary for the day. The Pension is at Seogwipo area access to most tourist attractions are nearer.  The night end early during winter season the room was comfortable to stay in.  Convience stores (GS5) nearby too. Few good restaurants was walking distant.  Will definitely stay again in this Pension when choosing staying at Seogwipo area.,13.0,0.9718,2
 10.0,"We recently had the pleasure of staying at Solarseado Pension during our family trip to Jeju  and it exceeded all our expectations. From the moment we stepped into our accommodation  we were struck by the pristine cleanliness and inviting atmosphere. The rooms were not only clean but also incredibly comfy  providing a relaxing haven after our days of exploration.
 
 One of the standout features of our stay was the amazing views we enjoyed from the balcony. It was the perfect spot to unwind  with picturesque scenery that added an extra layer of magic to our Jeju experience. The complete kitchen was a fantastic convenience  allowing us to prepare meals and enjoy family time together.
@@ -677,110 +677,110 @@ The amenities provided at Solarseado Pension were top-notch  catering to our eve
 
 Breakfast served was simple yet delightful. A spread of coffee  juice and toast awaited us each morning  setting a positive tone for the day ahead. It was a thoughtful touch that added to the overall charm of our experience.
 
-Having stayed in four different accommodation places during our visit to Jeju  we can confidently say that Solarseado Pension is the best  hands down! The combination of cleanliness  comfort  breathtaking views  well-equipped kitchen  thoughtful amenities  and the warmth of Mi Young and Jennifer made our stay truly memorable. We highly recommend Solarseado Pension for a perfect family getaway on the beautiful island of Jeju.",65.0,0.999
-9.6,The staff are really friendly and warming. The view is wonderful and the breakfast is various baked bread. The neighborhood is the quiet sea side without any noise. A little far from town center  but perfect for vocation.,9.0,0.8773
-7.2,A quaint ?inn??with a scenic view near the beach. Very friendly lady that manages the place who took initiative to recommend sight seeing locations. Simple but nice breakfast prepared every morning.,8.0,0.862
-9.6,This is our second time here and we still love it. Great views of the ocean. Quiet surroundings. Friendly owners. We find the duplex more spacious for 3 people. You'll need a car to get around through. Not very convenient with public transport.,9.0,0.91
+Having stayed in four different accommodation places during our visit to Jeju  we can confidently say that Solarseado Pension is the best  hands down! The combination of cleanliness  comfort  breathtaking views  well-equipped kitchen  thoughtful amenities  and the warmth of Mi Young and Jennifer made our stay truly memorable. We highly recommend Solarseado Pension for a perfect family getaway on the beautiful island of Jeju.",65.0,0.999,2
+9.6,The staff are really friendly and warming. The view is wonderful and the breakfast is various baked bread. The neighborhood is the quiet sea side without any noise. A little far from town center  but perfect for vocation.,9.0,0.8773,2
+7.2,A quaint ?inn??with a scenic view near the beach. Very friendly lady that manages the place who took initiative to recommend sight seeing locations. Simple but nice breakfast prepared every morning.,8.0,0.862,3
+9.6,This is our second time here and we still love it. Great views of the ocean. Quiet surroundings. Friendly owners. We find the duplex more spacious for 3 people. You'll need a car to get around through. Not very convenient with public transport.,9.0,0.91,0
 9.6,"It is such a refreshing experience!
-The ladies were  so friendly and helpful. The best experience was to wake up daily to beautiful sunrise. Definitely be back!",10.0,0.9616
-9.2,The staff was really nice and provided lot's of information regarding Jeju island. The facility is good and comfortable.,8.0,0.8516
-10.0,The place is great and near to the sea. Quiet place. Accommodation also comes with heated floor(good for winter). Cozy place and free parking just behind the place. As there is another bed at higher level makes the place roomy. Lady boss is very friendly and helpfully.,9.0,0.9377
-8.4,You need to have a car to get to this place.  If you like quiet and relaxing place  this is the one. We came as 4 (2 adults and 2 teens) and because the room is not big  we end up having our 4 big luggages on the floor (note : there is no wardrobes but just a clothes stand to hang your clothes).  The owner provided extra foldable mattress and pillows so my teens slept at the lower floor and we slept on the top floor. About 5 to 10 minutes drive  you can get to so many shops nearby...starbucks  mcdonald   mart etc. Overall  i will come again to this place.,5.0,0.1655
-8.4,nice staff  prefer driving to the pension  wonderful seaview,7.0,0.7579
-8.8,If you?re looking for some peace away from crowds  this is the place. We wake up to beautiful views each morning  close to an short olle trail with many interesting cafes. Hotel owner was very kind.,9.0,0.9299
-9.6,I love the place since the view from the room is amazing. highly recommended,9.0,0.8777
+The ladies were  so friendly and helpful. The best experience was to wake up daily to beautiful sunrise. Definitely be back!",10.0,0.9616,7
+9.2,The staff was really nice and provided lot's of information regarding Jeju island. The facility is good and comfortable.,8.0,0.8516,1
+10.0,The place is great and near to the sea. Quiet place. Accommodation also comes with heated floor(good for winter). Cozy place and free parking just behind the place. As there is another bed at higher level makes the place roomy. Lady boss is very friendly and helpfully.,9.0,0.9377,5
+8.4,You need to have a car to get to this place.  If you like quiet and relaxing place  this is the one. We came as 4 (2 adults and 2 teens) and because the room is not big  we end up having our 4 big luggages on the floor (note : there is no wardrobes but just a clothes stand to hang your clothes).  The owner provided extra foldable mattress and pillows so my teens slept at the lower floor and we slept on the top floor. About 5 to 10 minutes drive  you can get to so many shops nearby...starbucks  mcdonald   mart etc. Overall  i will come again to this place.,5.0,0.1655,0
+8.4,nice staff  prefer driving to the pension  wonderful seaview,7.0,0.7579,2
+8.8,If you?re looking for some peace away from crowds  this is the place. We wake up to beautiful views each morning  close to an short olle trail with many interesting cafes. Hotel owner was very kind.,9.0,0.9299,1
+9.6,I love the place since the view from the room is amazing. highly recommended,9.0,0.8777,4
 10.0,"Came with my cousin and stayed here during our 5 days stay in Jeju. 
 The place is a little off but should not be a problem if you are driving. Lovely place with lovely view!
-The owner is a nice lady and welcomes you well (: Will come here again!",9.0,0.9835
-10.0,I'm going to have to choose this next time  and the lady is very good  and the sea There's food nearby  prices are expensive and delicious,6.0,0.7841
-9.6,Quaint place with super nice and quiet view,6.0,0.7717
-9.2,Great location to view sun rise!,4.0,0.6588
-9.6,The view is same as the photo and the room is clean. The host is very nice and speak English.,5.0,0.6997
-10.0,The owner are very nice and friendly. the location is perfect. easy access to beach. good service and tidy. very nice cafe downstair. Enjoy the time to stay.,17.0,0.9696
+The owner is a nice lady and welcomes you well (: Will come here again!",9.0,0.9835,2
+10.0,I'm going to have to choose this next time  and the lady is very good  and the sea There's food nearby  prices are expensive and delicious,6.0,0.7841,7
+9.6,Quaint place with super nice and quiet view,6.0,0.7717,2
+9.2,Great location to view sun rise!,4.0,0.6588,9
+9.6,The view is same as the photo and the room is clean. The host is very nice and speak English.,5.0,0.6997,2
+10.0,The owner are very nice and friendly. the location is perfect. easy access to beach. good service and tidy. very nice cafe downstair. Enjoy the time to stay.,17.0,0.9696,2
 10.0,"very warm owner and always smiling. 
 the place is just so nice  with view to sea from the room.
 room was very clean  same for the bathroom. all amenities were furnished.
 we stayed only one night but we really liked.
 if you have a car  it will be more confortable.
 some nice restaurant close to the pension
-gamsahamnida",13.0,0.9429
-9.2,My family and I thoroughly enjoyed our stay at Solarseado Pension. The location was a little far from the main city  but we loved the beautiful view that we woke up to every morning. We even got to see dolphins! The pension itself was very clean and well-maintained. The staff there was very helpful as well  assisting us to order in food upon our request. The overall experience was great!,15.0,0.9866
-9.6,We really loved this place! Not just the view  the owner was so welcoming and the facilities was superb! Cleanliness was top notch too. This will be somewhere we will come back to if we go to Jeju Island again in the future. However  you should drive  the place is all the way till the side of the sea :),10.0,0.9546
-8.8,Location is far from airport  but the view is worth the drive! Quiet area too which is a good place to relax for a holiday trip. Check in was simple. Will stay here again if ever going Jeju!,5.0,0.9347
+gamsahamnida",13.0,0.9429,2
+9.2,My family and I thoroughly enjoyed our stay at Solarseado Pension. The location was a little far from the main city  but we loved the beautiful view that we woke up to every morning. We even got to see dolphins! The pension itself was very clean and well-maintained. The staff there was very helpful as well  assisting us to order in food upon our request. The overall experience was great!,15.0,0.9866,2
+9.6,We really loved this place! Not just the view  the owner was so welcoming and the facilities was superb! Cleanliness was top notch too. This will be somewhere we will come back to if we go to Jeju Island again in the future. However  you should drive  the place is all the way till the side of the sea :),10.0,0.9546,1
+8.8,Location is far from airport  but the view is worth the drive! Quiet area too which is a good place to relax for a holiday trip. Check in was simple. Will stay here again if ever going Jeju!,5.0,0.9347,9
 8.0,"very nice view in front of the beach. the owner so helpful.
-nice quiet place for couple.",8.0,0.869
-8.0,Unfortunately we just manage to stay one night and we arrive in late  if not we may able to enjoy more for beach walking,2.0,0.2023
-5.6,Smell in the room,0.0,0.0
-10.0,A very nice view?Jennifer such a wonderful owner?We made good memory there?Thank you!,12.0,0.8891
-10.0,The owner of the place was very warm and helpful. And also made sure all our needs were taken care of during the stay. The pension was located right next to the sea and the view was awesome.,9.0,0.9307
-5.2,Owner was friendly  the duplex room was spacious.  The only thing that got to me is finding dust on the pillow  dust on the bedside lamps.  Finally the bed made me itch all night.,3.0,0.4939
-8.0,Jennifer was very kind. Place is peaceful. should have stayed here for the second night instead of shilla jeju,4.0,0.7841
-8.0,Nice hotel but you must selfdrive.,3.0,0.2263
-8.0,location is far  great place to stay unless u self-drive. Excellent & impressive service from non-English speaking lady boss. Make 100% effort to assist in getting a cab driver for me through out my 3days there. Hotel sea view is as shown in pictures - beautiful sunrise & sunset. Overall stay is excellent and nearby restaurant serve fantastic food too. Will visit again,19.0,0.9729
-8.4,Owner was great! Place was really clean  waking up with the cool scenery just right beside us. Please be reminded to rent a car  it takes an hour to reach the pension though. But  everything's good!,11.0,0.8842
-9.6,This pension is so beautiful with a magnificent sea view just right infront of you! Spacious  clean and well maintained exactly like the photos. Great host who's very accommodating. Location requires driving to reach  not difficult to find. A lot of nice cafes nearby.,17.0,0.9773
-9.6,While the location is away from Seogwipo but it's seclusion as with most pensions is its strength  especially those with a car/rental. Jenifer was a great host during our pension stay  she was very attentive and was even so kind enough to give us a lift to. nearby attraction so we could take advantage of walking the olle trail route. The room was great (we had the lower level double bed suite)  and view was perfect from the room itself and even better a few steps outside. You can hear the sounds of the waves all day. Great stay  lovely host  would recommend for anyone visiting Jeju.,27.0,0.9949
-7.2,quite and comfortable place but driving is better than public transportation to reach this place,5.0,0.7422
-6.4,We got the duplex double with 4 of us. There was 1 proper bed and 1 mattress. Place could fit 5 or 6 pax if you don't mind sleeping on the sofa or on the floor and sharing 1 washroom. Big space! Toiletries were provided  except they provided face towel instead of bath towel. We arrived at 7pm so was a bit tired to do our own bbq  but yes... they have bbq pit but you need to buy and bring your own ingredients.,1.0,0.2168
-10.0,we love this pension very much. Fall in love at first sight when we reach there. Owner is very friendly . the view is extremely perfect . very peaceful . location is very convenient. convenient store  Emart   restaurant  posoofice  starbuck are just nearby. however  u must rent a car to reach here.,15.0,0.9676
-9.2,Very nice view! Fresh seafood jus a few steps away. Owner is very helpful and friendly!,8.0,0.9152
+nice quiet place for couple.",8.0,0.869,2
+8.0,Unfortunately we just manage to stay one night and we arrive in late  if not we may able to enjoy more for beach walking,2.0,0.2023,6
+5.6,Smell in the room,0.0,0.0,2
+10.0,A very nice view?Jennifer such a wonderful owner?We made good memory there?Thank you!,12.0,0.8891,2
+10.0,The owner of the place was very warm and helpful. And also made sure all our needs were taken care of during the stay. The pension was located right next to the sea and the view was awesome.,9.0,0.9307,2
+5.2,Owner was friendly  the duplex room was spacious.  The only thing that got to me is finding dust on the pillow  dust on the bedside lamps.  Finally the bed made me itch all night.,3.0,0.4939,3
+8.0,Jennifer was very kind. Place is peaceful. should have stayed here for the second night instead of shilla jeju,4.0,0.7841,1
+8.0,Nice hotel but you must selfdrive.,3.0,0.2263,2
+8.0,location is far  great place to stay unless u self-drive. Excellent & impressive service from non-English speaking lady boss. Make 100% effort to assist in getting a cab driver for me through out my 3days there. Hotel sea view is as shown in pictures - beautiful sunrise & sunset. Overall stay is excellent and nearby restaurant serve fantastic food too. Will visit again,19.0,0.9729,2
+8.4,Owner was great! Place was really clean  waking up with the cool scenery just right beside us. Please be reminded to rent a car  it takes an hour to reach the pension though. But  everything's good!,11.0,0.8842,8
+9.6,This pension is so beautiful with a magnificent sea view just right infront of you! Spacious  clean and well maintained exactly like the photos. Great host who's very accommodating. Location requires driving to reach  not difficult to find. A lot of nice cafes nearby.,17.0,0.9773,4
+9.6,While the location is away from Seogwipo but it's seclusion as with most pensions is its strength  especially those with a car/rental. Jenifer was a great host during our pension stay  she was very attentive and was even so kind enough to give us a lift to. nearby attraction so we could take advantage of walking the olle trail route. The room was great (we had the lower level double bed suite)  and view was perfect from the room itself and even better a few steps outside. You can hear the sounds of the waves all day. Great stay  lovely host  would recommend for anyone visiting Jeju.,27.0,0.9949,2
+7.2,quite and comfortable place but driving is better than public transportation to reach this place,5.0,0.7422,0
+6.4,We got the duplex double with 4 of us. There was 1 proper bed and 1 mattress. Place could fit 5 or 6 pax if you don't mind sleeping on the sofa or on the floor and sharing 1 washroom. Big space! Toiletries were provided  except they provided face towel instead of bath towel. We arrived at 7pm so was a bit tired to do our own bbq  but yes... they have bbq pit but you need to buy and bring your own ingredients.,1.0,0.2168,0
+10.0,we love this pension very much. Fall in love at first sight when we reach there. Owner is very friendly . the view is extremely perfect . very peaceful . location is very convenient. convenient store  Emart   restaurant  posoofice  starbuck are just nearby. however  u must rent a car to reach here.,15.0,0.9676,3
+9.2,Very nice view! Fresh seafood jus a few steps away. Owner is very helpful and friendly!,8.0,0.9152,2
 8.8,"On road trip. Location is less critical but still a nice one. Close to town and comfy by the sea. 
 Nice apartment and good amenities. If not available  can always request. The lady boss is really nice and keen to provide if she could. 
 Can consider BBQ by the sea. There are grocery store nearby where you can buy food  e.g. eMart / meat shop nearby.
 
-Family trip or couple trip - good place I would recommend.",18.0,0.9781
+Family trip or couple trip - good place I would recommend.",18.0,0.9781,9
 10.0,"You can walk to the seaside behind the homestay.
 Although a bit remote, it is worth it
 The room is big and clean
 There are supermarkets, several restaurants, and two souvenirs nearby
 If you have to choose more, go to the urban area
 The boss is very kind to prepare coffee juice and simple bread in the morning
-I really like this if I have a chance to live",11.0,0.9019
-9.2,"Suitable for vacation, if breakfast is better to supply foods, it is better",6.0,0.7003
-10.0,It was great  both for the view  hygiene and space.,3.0,0.6249
-9.6,Spacious apartment with nice ocean view.  The rooms are clean and equipped with basic facilities. The owner is very helpful and provides stuff for BBQ in the garden. It is very enjoyable stay.,10.0,0.8953
-8.0,Nice host  clean environment. Wake up and see the nice ocean in front of you. Nice restaurant and cafe nearby.,11.0,0.8779
-10.0,A good place for those who would like a relax trip!,5.0,0.8221
-6.4,"Wanghai Hom Best Environment, there is something to eat nearby, there are convenience stores nearby, but there is no arrangement of clean room garbage to clean it by itself.",5.0,0.7845
-8.4,"The three of us chose a two -storey small suite with cooking tools in the room.Adjacent to the supermarket and restaurants (walking for 10-15 minutes), the homestay owner will provide services to the restaurants or supermarkets and stations as much as possible.",0.0,0.0
-9.6,"You can have a barbecue at night, the location is the best!",3.0,0.6696
+I really like this if I have a chance to live",11.0,0.9019,1
+9.2,"Suitable for vacation, if breakfast is better to supply foods, it is better",6.0,0.7003,3
+10.0,It was great  both for the view  hygiene and space.,3.0,0.6249,0
+9.6,Spacious apartment with nice ocean view.  The rooms are clean and equipped with basic facilities. The owner is very helpful and provides stuff for BBQ in the garden. It is very enjoyable stay.,10.0,0.8953,2
+8.0,Nice host  clean environment. Wake up and see the nice ocean in front of you. Nice restaurant and cafe nearby.,11.0,0.8779,2
+10.0,A good place for those who would like a relax trip!,5.0,0.8221,9
+6.4,"Wanghai Hom Best Environment, there is something to eat nearby, there are convenience stores nearby, but there is no arrangement of clean room garbage to clean it by itself.",5.0,0.7845,9
+8.4,"The three of us chose a two -storey small suite with cooking tools in the room.Adjacent to the supermarket and restaurants (walking for 10-15 minutes), the homestay owner will provide services to the restaurants or supermarkets and stations as much as possible.",0.0,0.0,6
+9.6,"You can have a barbecue at night, the location is the best!",3.0,0.6696,9
 7.6,"The employees were polite and pleasant.He was happy to take the barbecue from around 8:30 in the night!There is also a large mart near the hotel.
-The room was beautiful and the scenery was beautiful.",14.0,0.9151
-9.6,The owner is very cute. Good service. Pay attention to customers.,4.0,0.7245
-10.0,"I brushed several homestays in Agoda, and from the beginning, they were attracted by the sea view and beautiful garden of this homestay. On the first night of Jeju Island, I lived in this homestay.Friends who accompanied their peers suddenly returned to China urgently. I was worried that Han won in cash. I asked the landlord to ask for a change of money.No cash, the landlord contacted me overnight, she helped me exchange.Moving nothing!IntersectionI do n?t know how to Korean and English. The landlord also contacted friends who know Chinese to communicate with me!There is also dinner and breakfast, and my wife is really great!Intersection",6.0,0.9213
-10.0,"The scenery outside the window is very good, a lot of surrounding you eat, and the porridge made by the grandmother's grandmother in the morning can be bought, and the breakfast of the bed and breakfast is also very good!The boss is also very friendly. When you go out to play, you will give suggestions, make reference, and be very suitable for vacation.",10.0,0.8548
-9.2,"The house is pretty good, clean and hygienic, duplex sea view, and there are good breakfast in the morning. The aunt will take the initiative to help the rent. I recommend a barbecue restaurant, which tastes good.It's not easy to find, and finally searched the positioning of the position near the home to take a taxi.",17.0,0.9259
+The room was beautiful and the scenery was beautiful.",14.0,0.9151,3
+9.6,The owner is very cute. Good service. Pay attention to customers.,4.0,0.7245,5
+10.0,"I brushed several homestays in Agoda, and from the beginning, they were attracted by the sea view and beautiful garden of this homestay. On the first night of Jeju Island, I lived in this homestay.Friends who accompanied their peers suddenly returned to China urgently. I was worried that Han won in cash. I asked the landlord to ask for a change of money.No cash, the landlord contacted me overnight, she helped me exchange.Moving nothing!IntersectionI do n?t know how to Korean and English. The landlord also contacted friends who know Chinese to communicate with me!There is also dinner and breakfast, and my wife is really great!Intersection",6.0,0.9213,1
+10.0,"The scenery outside the window is very good, a lot of surrounding you eat, and the porridge made by the grandmother's grandmother in the morning can be bought, and the breakfast of the bed and breakfast is also very good!The boss is also very friendly. When you go out to play, you will give suggestions, make reference, and be very suitable for vacation.",10.0,0.8548,8
+9.2,"The house is pretty good, clean and hygienic, duplex sea view, and there are good breakfast in the morning. The aunt will take the initiative to help the rent. I recommend a barbecue restaurant, which tastes good.It's not easy to find, and finally searched the positioning of the position near the home to take a taxi.",17.0,0.9259,3
 8.4,"The scenery is invincible. When the floor -to -ceiling window is opened, it is the seaside. The sunlight comes in in the morning. We went in mid -September, not particularly hot, but the sea breeze was huge and mosquito was quite small.
 The position is really partial. We took 600 from the city of Jeju. Recently, the starting price of the taxi at Seogeondo was getting off the bus.In fact, you can find some small roads to follow the navigation during the day.
 There are no convenience stores near the homestay, but the manager of the store will simply Chinese, haha, he drove us to the bus station when he left.3000 won, it is much cheaper than a taxi.It is the station of Jeju Stadium, there is a large station and Xiguipu Bus Station, take 600 back to the city from there ~
-The overall scenery is really good and suitable for vacation.If you do n?t have a car freely, just study more maps.",13.0,0.9659
-10.0,"The sea is in front of you, and the bath water is also very comfortable, great",5.0,0.839
-10.0,"There are 15 groups of large and small, and four rooms are set. The hotel has a good location and comfortable to live. The boss is very kind.The only disadvantage is that there are no fruit shops nearby, and you need to call a car when you go to the supermarket.The first time I went to the supermarket boss to drive, I was very kind.Walking for an hour and a half for the second and a half hours, I walked to Emart.The others are very good. The boss also helped me settle a bus. The price is cheaper than all the domestic apps. It is great.",12.0,0.8375
-9.2,"The location of the bed and breakfast is not easy to find. It depends on the navigation all the way to find it all the way. It is recommended that you can come and live by yourself.The weather is not good, it has been raining",1.0,-0.461
-10.0,"Clean rooms, cute homeowners, beautiful scenery, happy travel, look forward to goodbye next time:)",10.0,0.9231
-10.0,"The homeowner aunt is super cute, the room is very clean, and the curtains are the yard and the sea. Listening to the sound of the waves at night, the aunt also helps to order fried chicken takeaway. The taste is very good. I will come here next time.",12.0,0.9402
-10.0,It is impossible to blow the sun and blow the sea.You can look back at the Haikai to see Hanshan.There will be a meow in the yard to accompany you quietly.The first choice for a person to recuperate!,0.0,0.0
-10.0,"The location where this homestay is located, and the scenery is very good, and it is relatively quiet. The boss is very enthusiastic. It will take us to take us to a delicious restaurant nearby. It is a good choice if it is a couple on vacation!You can take 600 roads at the door 5 of the airport, and then go to the World Cup or a front stop, which is relatively close ~",11.0,0.9131
-10.0,The boss is a very kind people's room. The scenery is particularly good and drove us to another hotel owner in English.The boss lives happily,5.0,0.8882
-10.0,"The hotel simply had nothing to say that the typhoon boss came to the airport to pick up the money on the airport that day, and we haven't collected the money for more than two hours.The hotel's scenery is also unpredictable, so much praise",3.0,0.5965
-10.0,"The very friendly boss lady, although the location is a bit more partial.But very warm.The environment is good.Step in the seventh seventh seventh seventh.The first choice for leisure journey",6.0,0.5413
-8.4,The landlord is very kind. We have been sleeping and missed breakfast. The landlord also helped us prepare a full breakfast to the room for us. It is very warm,1.0,0.5699
+The overall scenery is really good and suitable for vacation.If you do n?t have a car freely, just study more maps.",13.0,0.9659,3
+10.0,"The sea is in front of you, and the bath water is also very comfortable, great",5.0,0.839,0
+10.0,"There are 15 groups of large and small, and four rooms are set. The hotel has a good location and comfortable to live. The boss is very kind.The only disadvantage is that there are no fruit shops nearby, and you need to call a car when you go to the supermarket.The first time I went to the supermarket boss to drive, I was very kind.Walking for an hour and a half for the second and a half hours, I walked to Emart.The others are very good. The boss also helped me settle a bus. The price is cheaper than all the domestic apps. It is great.",12.0,0.8375,8
+9.2,"The location of the bed and breakfast is not easy to find. It depends on the navigation all the way to find it all the way. It is recommended that you can come and live by yourself.The weather is not good, it has been raining",1.0,-0.461,3
+10.0,"Clean rooms, cute homeowners, beautiful scenery, happy travel, look forward to goodbye next time:)",10.0,0.9231,8
+10.0,"The homeowner aunt is super cute, the room is very clean, and the curtains are the yard and the sea. Listening to the sound of the waves at night, the aunt also helps to order fried chicken takeaway. The taste is very good. I will come here next time.",12.0,0.9402,3
+10.0,It is impossible to blow the sun and blow the sea.You can look back at the Haikai to see Hanshan.There will be a meow in the yard to accompany you quietly.The first choice for a person to recuperate!,0.0,0.0,4
+10.0,"The location where this homestay is located, and the scenery is very good, and it is relatively quiet. The boss is very enthusiastic. It will take us to take us to a delicious restaurant nearby. It is a good choice if it is a couple on vacation!You can take 600 roads at the door 5 of the airport, and then go to the World Cup or a front stop, which is relatively close ~",11.0,0.9131,8
+10.0,The boss is a very kind people's room. The scenery is particularly good and drove us to another hotel owner in English.The boss lives happily,5.0,0.8882,8
+10.0,"The hotel simply had nothing to say that the typhoon boss came to the airport to pick up the money on the airport that day, and we haven't collected the money for more than two hours.The hotel's scenery is also unpredictable, so much praise",3.0,0.5965,8
+10.0,"The very friendly boss lady, although the location is a bit more partial.But very warm.The environment is good.Step in the seventh seventh seventh seventh.The first choice for leisure journey",6.0,0.5413,8
+8.4,The landlord is very kind. We have been sleeping and missed breakfast. The landlord also helped us prepare a full breakfast to the room for us. It is very warm,1.0,0.5699,1
 10.0,"Compared with self -driving tourists.The outside of the homestay is beautiful and the facilities are very complete.
 
 Thank you for your proposal for my marriage proposal for me.
 The contact staff wanted to ask them to prepare some auto balls and roses because they planned to propose here.
-Although everyone has some language barriers, the staff is working hard to prepare us.",4.0,0.7414
-8.0,The host is super friendly and helpful. She offered us free laundry service   helped us call for fried chicken delivery  and even prepared snacks for our mountain trip! Would love to stay here again!,12.0,0.9632
-10.0,Very beautiful sea view  very nice landladies  thank you for driving us to the bus terminal  see you next time.,8.0,0.8764
-10.0,recommended to drive here. staff is super friendly and responsive. they provided free breakfast every morning. a few convenience stores nearby.,10.0,0.9287
-10.0,We loved our stay at this pension . The location was right next to the ocean and conveniently located walking distance to many shops and restaurants. The duplex was very clean and well stocked with all the amenities we needed. Breakfast was provided. The best part about our stay  however  was the staff who went above and beyond to help us find a service last-minute to deliver our bags to our next hotel across the island (because our car rental fell through) and who even offered to personally go and order us take-out for dinner when we first arrived as the restaurants were about to close. They were so kind and really made our stay wonderful. 감사?니?? ?무 즐거???간 보냈?니??,16.0,0.9781
+Although everyone has some language barriers, the staff is working hard to prepare us.",4.0,0.7414,2
+8.0,The host is super friendly and helpful. She offered us free laundry service   helped us call for fried chicken delivery  and even prepared snacks for our mountain trip! Would love to stay here again!,12.0,0.9632,2
+10.0,Very beautiful sea view  very nice landladies  thank you for driving us to the bus terminal  see you next time.,8.0,0.8764,2
+10.0,recommended to drive here. staff is super friendly and responsive. they provided free breakfast every morning. a few convenience stores nearby.,10.0,0.9287,2
+10.0,We loved our stay at this pension . The location was right next to the ocean and conveniently located walking distance to many shops and restaurants. The duplex was very clean and well stocked with all the amenities we needed. Breakfast was provided. The best part about our stay  however  was the staff who went above and beyond to help us find a service last-minute to deliver our bags to our next hotel across the island (because our car rental fell through) and who even offered to personally go and order us take-out for dinner when we first arrived as the restaurants were about to close. They were so kind and really made our stay wonderful. 감사?니?? ?무 즐거???간 보냈?니??,16.0,0.9781,2
 9.6,"Stayed in a duplex room. Sleeps 3 comfortably on the beds and one on the floor (Korean style).
 Breakfast of toast served with juice and coffee every morning.
 The balcony opens to the waters and is a stone's throw away from the ocean. Very calming.
-Had really good 3 night stay. Will return again if ever in Jeju again.",7.0,0.8396
-10.0,Stayed for 4 nights here. The place was clean and sufficient for the both of us. Our room opened up to the garden and gorgeous view of the waters. We saw the sunrise and had breakfast at the garden. The owner provided us with information on getting around  and ensured we were well taken care of throughout.,4.0,0.9001
-8.4,Very nice scenery  host was very kind and welcoming and even do a nice list in English to inform us all the nice places/restaurants to visit.,11.0,0.9445
+Had really good 3 night stay. Will return again if ever in Jeju again.",7.0,0.8396,1
+10.0,Stayed for 4 nights here. The place was clean and sufficient for the both of us. Our room opened up to the garden and gorgeous view of the waters. We saw the sunrise and had breakfast at the garden. The owner provided us with information on getting around  and ensured we were well taken care of throughout.,4.0,0.9001,0
+8.4,Very nice scenery  host was very kind and welcoming and even do a nice list in English to inform us all the nice places/restaurants to visit.,11.0,0.9445,2
 10.0,"The view from the room was magnificent.
 The warm hospitality from the lady who welcomed us and prepared breakfast and shared the must go places around jeju make it even better.
-The place is clean and very comfortable.",14.0,0.9623
-8.4,Cosy room with a little garden that oversee the sea ( we stay at ground level) . Staff is very pilot and give us nice american breakfast. Very near to one of the trail walk :),3.0,0.7003
+The place is clean and very comfortable.",14.0,0.9623,4
+8.4,Cosy room with a little garden that oversee the sea ( we stay at ground level) . Staff is very pilot and give us nice american breakfast. Very near to one of the trail walk :),3.0,0.7003,2

@@ -1,5 +1,5 @@
-score,comment,afinn_score,vader_score
-10.0,"I first visited my family trip, but I was so satisfied with my first visit.Room condition is very good, breakfast dinner buffet is also satisfied, and the surrounding landscape is very peaceful.",9.0,0.9677
+score,comment,afinn_score,vader_score,k10
+10.0,"I first visited my family trip, but I was so satisfied with my first visit.Room condition is very good, breakfast dinner buffet is also satisfied, and the surrounding landscape is very peaceful.",9.0,0.9677,7
 10.0,"Latek's cleaning status swimming pool cafe
 Everything in the hostel, etc.
 Everything was so good
@@ -12,11 +12,11 @@ This is an eco -land hotel that is so satisfying.
 I bought Yogojogo at the gift shop
 It is never written because it is a hotel
 Thank you so much for taking care of the service 👍🏻
-If you go to Jeju, I think I'll use it again next time 😊",18.0,0.9814
+If you go to Jeju, I think I'll use it again next time 😊",18.0,0.9814,5
 10.0,"I opened it in 2022 and I wanted to go to the hotel as a photo.I thought it was a luxury hotel of white walls and red roofs.The morning time is also tight, so I couldn't see the hotel.
 I want to visit again with my family
 The room was so good. Thank you
-It was a long time in my trip.",8.0,0.7795
+It was a long time in my trip.",8.0,0.7795,2
 10.0,"It was a hostel that I chose as a prenatal trip, but I also upgraded the room and gave it to the room as close to the swimming pool.
 I was so satisfied.
 It was really good to upgrade.
@@ -37,7 +37,7 @@ It was easy to eat.
 And there are many people who repair, clean, and manage the hotel early in the morning, on weekdays.
 So I felt that the hotel was clean and well managed.
 The manager is also kind, and the Desk staff were so kind.
-It was a very satisfactory accommodation for two nights and three days.",36.0,0.9972
+It was a very satisfactory accommodation for two nights and three days.",36.0,0.9972,5
 10.0,"Arrived in Jeju, sightseeing and staying around 19 o'clock.
 When I go towards it, it is dark and drove the mountain road
 It was difficult, but I checked in and was assigned a Double Bed Tonbang on the 3rd floor.
@@ -48,10 +48,10 @@ I like the bedding that I care about
 The toilet is also clean, so I feel upset.
 With a cup of tea in the morning, Halla Mountain View
 I enjoyed the garden view
-It is a place I want to visit again",11.0,0.9823
+It is a place I want to visit again",11.0,0.9823,0
 10.0,"I played well in Eco Land and wanted to see the night lights, so I chose the hostel as a place in Ecorand.There is a course that is connected directly from the Eco -Land accommodation, but I didn't know it and went to the Eco Land ticket office .. ;;
 The accommodation is white, so it feels exotic and good.However, my parents had a hard time because they had to walk quite a bit to use amenities.If you go with your parents, you may want a room that is more convenient to use it than a view.It's hard to walk, so give up breakfast.Because you have Yonsei ㅠ
-But my parents liked it.It's a place with nature, so I've been relaxing well ~",4.0,0.9108
+But my parents liked it.It's a place with nature, so I've been relaxing well ~",4.0,0.9108,5
 10.0,"I had two nights with my wife
 All of the staff were so kind
 Room condition swimming pool is the best
@@ -59,17 +59,17 @@ Kesle -dong was a hotel and went down to the pool!Once the adult pool was divide
 It rained often, but the water was lukewarm, so it wasn't cold and it was good.
 The smoking room came out of the lobby and went to the left corner.
 It will be used again during the trip to Jeju.
-The staff are so kind !!",11.0,0.9628
-10.0,"It is a 5 -star hotel that is completely beautiful and comfortable, but the hotel breakfast that you want to stay with a quiet, comfortable, comfortable, and satisfied hotel Jeju is good for the price, and the employees are completely kind and want to go to Europe.",18.0,0.9835
+The staff are so kind !!",11.0,0.9628,1
+10.0,"It is a 5 -star hotel that is completely beautiful and comfortable, but the hotel breakfast that you want to stay with a quiet, comfortable, comfortable, and satisfied hotel Jeju is good for the price, and the employees are completely kind and want to go to Europe.",18.0,0.9835,2
 10.0,"I think the influence of the accommodation in the trip is great.
 I have come to Jeju Island a lot, but it was a hotel that gave me a feeling of overseas.The facilities were so good that it was time to enjoy only in the hostel, and the condition was so good and the staff were so kind.
-Next time, I wanted to come with my parents, so I said everything.",14.0,0.9796
-10.0,The staff are so kind to the swimming pool kids cafe that the child is so friendly.,4.0,0.8585
+Next time, I wanted to come with my parents, so I said everything.",14.0,0.9796,2
+10.0,The staff are so kind to the swimming pool kids cafe that the child is so friendly.,4.0,0.8585,1
 10.0,"It is a hotel with a natural theme and a relatively low floor, so it is good for family trips, but it was too good for a couple in their mid -20s.
 The room condition was good, the kindness was good, and the ballet or the ballet
 I feel comfortable with the inside/outside cleanliness
-I enjoyed a recreation 👍",19.0,0.9833
-10.0,"The room inside the room was clean and there was no noise between rooms.It is convenient to enter the Eco Land because there is a channel to enter the eco -land at the hotel.However, if you are assigned to the room outside the batch, you have to walk for a long time in the lobby, and the building structure is similar while the building is similar, so you can get lost or wander.",-4.0,-0.1779
+I enjoyed a recreation 👍",19.0,0.9833,9
+10.0,"The room inside the room was clean and there was no noise between rooms.It is convenient to enter the Eco Land because there is a channel to enter the eco -land at the hotel.However, if you are assigned to the room outside the batch, you have to walk for a long time in the lobby, and the building structure is similar while the building is similar, so you can get lost or wander.",-4.0,-0.1779,5
 10.0,"Rolling in the hotel
 The purpose of the pool is the purpose of the pool
 If you check in, you will receive a hotel manual.
@@ -100,17 +100,17 @@ Do your last night
 If you want to stay in the hotel
 Live a drink beer
 I recommend coming in
-We packed dinner and ate it, but it was good",19.0,0.9758
-10.0,"It was a hotel that I accidentally stayed while watching the Eco -Land Theme Park, but it was the place where I was satisfied with the best.It was a lot of money and the swimming pool was available for free until night.",4.0,0.8151
-10.0,"You can also ride the shuttle, so you can go to the theme park without renting, but you have to be good enough, and most of all, the pool view was good.It's just a problem because the wall materials are hard.Isn't it going to be overwhelmed by scratching the walls later?I thought it was bloody even if I really passed by.But the accommodation is really wide and there's something inside.There is no franchise in the convenience exhibition, and it is operated with a souvenir shop inside.Everyone was good for the service and a lot of buffet food.The dessert is delicious, so leave a dessert.",4.0,0.4452
-10.0,"Throughout the lodgings, I only went to eat because I didn't have time to enjoy the night opening of Eco Land and the forest tour pool.Of course, breakfast is good for the price!The location was good and the new construction was clean and the bedding was good.There may be a little longer line from the lobby to the room, so if you have children or your parents, you may want to ask for a nearby room!I think it would be nice to enjoy it with my family!I recommend it :)",19.0,0.9735
-10.0,"Two days during my trip to Jeju, I went to Eco Land in the mountains in front of the sea!As soon as I entered Eco -Land, my family is surprised by the size of the hotel, and I am so satisfied with the beautiful interior swimming pool dinner buffet.Everyone in the staff was so kind and it was a hotel that was so friendly ^^ I think the pool is the best in Korea.",12.0,0.9732
-10.0,"There was no food or something like this, so I had dinner in Jeju City.I was so satisfied that I planned to play with my child.The pool has a variety of water levels, so it was good to be able to swim by choosing where the child wanted, and the accommodation was wider than I thought ^^ And it was very clean ~ I was satisfied.I decided to go one more time next time ^^ It was a bit difficult to park, but we had dinner and went in the evening and parked at the nearest place.The other cars looked at it all, so I put it on the shoulder.",9.0,0.669
+We packed dinner and ate it, but it was good",19.0,0.9758,5
+10.0,"It was a hotel that I accidentally stayed while watching the Eco -Land Theme Park, but it was the place where I was satisfied with the best.It was a lot of money and the swimming pool was available for free until night.",4.0,0.8151,7
+10.0,"You can also ride the shuttle, so you can go to the theme park without renting, but you have to be good enough, and most of all, the pool view was good.It's just a problem because the wall materials are hard.Isn't it going to be overwhelmed by scratching the walls later?I thought it was bloody even if I really passed by.But the accommodation is really wide and there's something inside.There is no franchise in the convenience exhibition, and it is operated with a souvenir shop inside.Everyone was good for the service and a lot of buffet food.The dessert is delicious, so leave a dessert.",4.0,0.4452,5
+10.0,"Throughout the lodgings, I only went to eat because I didn't have time to enjoy the night opening of Eco Land and the forest tour pool.Of course, breakfast is good for the price!The location was good and the new construction was clean and the bedding was good.There may be a little longer line from the lobby to the room, so if you have children or your parents, you may want to ask for a nearby room!I think it would be nice to enjoy it with my family!I recommend it :)",19.0,0.9735,5
+10.0,"Two days during my trip to Jeju, I went to Eco Land in the mountains in front of the sea!As soon as I entered Eco -Land, my family is surprised by the size of the hotel, and I am so satisfied with the beautiful interior swimming pool dinner buffet.Everyone in the staff was so kind and it was a hotel that was so friendly ^^ I think the pool is the best in Korea.",12.0,0.9732,1
+10.0,"There was no food or something like this, so I had dinner in Jeju City.I was so satisfied that I planned to play with my child.The pool has a variety of water levels, so it was good to be able to swim by choosing where the child wanted, and the accommodation was wider than I thought ^^ And it was very clean ~ I was satisfied.I decided to go one more time next time ^^ It was a bit difficult to park, but we had dinner and went in the evening and parked at the nearest place.The other cars looked at it all, so I put it on the shoulder.",9.0,0.669,7
 10.0,"I used it by my mother and a four -year -old daughter.
 I was so satisfied that I was able to rent a bed guard and stroller for the baby.I was frowned and I had a meal, but the staff had to eat comfortably for a while.
 Because I was trying to do a hoced because of my baby, I had a good condition for the accommodation.
-The surrounding area was surrounded by forests and lakes, so it was also healed. Nearby Eco Land was good. Unlike other hotels, the floor heating was good.",13.0,0.9556
-10.0,"If this price is at this price, from now on traveling to Jeju, it is an eco -land pick and a pick.Great site pretty views are good room -in -room fantastic swimming pools.It's not a big buffet, but it's a buffet that I picked up and used it.If you live in Jeju Island, I think it's worth eating.It's perfect for Hokans.",17.0,0.9144
+The surrounding area was surrounded by forests and lakes, so it was also healed. Nearby Eco Land was good. Unlike other hotels, the floor heating was good.",13.0,0.9556,5
+10.0,"If this price is at this price, from now on traveling to Jeju, it is an eco -land pick and a pick.Great site pretty views are good room -in -room fantastic swimming pools.It's not a big buffet, but it's a buffet that I picked up and used it.If you live in Jeju Island, I think it's worth eating.It's perfect for Hokans.",17.0,0.9144,5
 10.0,"1. Once you go to the hotel, you start healing because it is a forest trail
 2. The staff are friendly
 3. Good swimming facilities (good to take pictures)
@@ -121,30 +121,30 @@ The surrounding area was surrounded by forests and lakes, so it was also healed.
 8. Free laundry and drying facilities available for more than 4 nights
 
 I'm using the Parnas Sweet Room now
-Eco Land is also good enough to consider the price and so on.",19.0,0.9607
-10.0,"I lived in Jeju, so I was worried that it would be in a very familiar place to stay in Jeju and stay in Jeju.I was able to feel the atmosphere of another country.It was a variety of different types and good. I want to go again next time :)!",1.0,0.2532
+Eco Land is also good enough to consider the price and so on.",19.0,0.9607,5
+10.0,"I lived in Jeju, so I was worried that it would be in a very familiar place to stay in Jeju and stay in Jeju.I was able to feel the atmosphere of another country.It was a variety of different types and good. I want to go again next time :)!",1.0,0.2532,2
 10.0,"Neat rooms cool swimming pool friendly staff delicious breakfast
 It was a really perfect hotel.
 Thanks to the three family trips, we start comfortably.
-thank you!",15.0,0.9749
+thank you!",15.0,0.9749,1
 10.0,"Once the price is reasonable and it is in the forest, it is automatically bathed.
-The rooms are generally large and the pool is very good.The land of the eco -land is wide, so the walk is good, but the moving line is a little long.There are plenty of parking lots, and employees are generally greeting in the eyeballs.It doesn't change.The sad thing in the pool is a low season, so there are few people, but it can be used because it can be used for the sunbed and used.The pool employees seem to need CS education, which is eye -catching and greeting like a room employee.",8.0,0.9132
-9.6,"It's so good to eat dinner buffet, rest in the room, and use the swimming pool. This is the third time.It was amazing that the staff were kind enough to know how they hired.",9.0,0.8858
+The rooms are generally large and the pool is very good.The land of the eco -land is wide, so the walk is good, but the moving line is a little long.There are plenty of parking lots, and employees are generally greeting in the eyeballs.It doesn't change.The sad thing in the pool is a low season, so there are few people, but it can be used because it can be used for the sunbed and used.The pool employees seem to need CS education, which is eye -catching and greeting like a room employee.",8.0,0.9132,5
+9.6,"It's so good to eat dinner buffet, rest in the room, and use the swimming pool. This is the third time.It was amazing that the staff were kind enough to know how they hired.",9.0,0.8858,1
 10.0,"It was my first family trip to Jeju Island.
 The staff were so kind and the pool was a bit cold.I hope it was a little warmer in winter.
-The bedding, the best toilet and the best bakery were so delicious.The view from the cafe was really like a work of art.I want to go back when the weather is good next time.The location was caught by Kakao Taxi even though we didn't have a car.",19.0,0.9737
+The bedding, the best toilet and the best bakery were so delicious.The view from the cafe was really like a work of art.I want to go back when the weather is good next time.The location was caught by Kakao Taxi even though we didn't have a car.",19.0,0.9737,3
 10.0,"As a golf trip with a couple, the grass was fine.The staff's kindness seemed to be the best.
-I have a re -examination.",7.0,0.802
+I have a re -examination.",7.0,0.802,3
 10.0,"It was a very satisfactory accommodation ~~
-It was a comfortable mind in 7 nights, and I want to go to the wall again ~~ It is recommended again because the atmosphere is good ~~",8.0,0.8777
+It was a comfortable mind in 7 nights, and I want to go to the wall again ~~ It is recommended again because the atmosphere is good ~~",8.0,0.8777,2
 10.0,"I first visited Eco Land Hotel, but it was really good
-I have a lot of breakfast to eat, so I have a lot of concerns about what to choose.I want to use it again next time.At that time, I want to tie it for 4 nights and 5 days.",5.0,0.7343
+I have a lot of breakfast to eat, so I have a lot of concerns about what to choose.I want to use it again next time.At that time, I want to tie it for 4 nights and 5 days.",5.0,0.7343,2
 9.6,"I found it by chance, but it was so clean and pretty and I felt like I came abroad.
 The price was so good compared to the room, and it was a satisfactory stay.
 I had to walk the pool outside, but it's a little cold at night, so I haven't been to the pool.
 The breakfast is delicious and the restaurant view is good
 The staff are all kind !!
-It's a hotel I want to visit again, and I uploaded a picture.",19.0,0.9914
+It's a hotel I want to visit again, and I uploaded a picture.",19.0,0.9914,5
 9.6,"It was a good accommodation without falling out
 I had both dinner and breakfast, but there are many foods that my child can eat
 It was fun to eat without worry.
@@ -156,7 +156,7 @@ The room was so good and I did it well, but I cleaned it well.
 Instead, there was a little dry
 
 The pool was not diverse, but I played well
-If you are looking for a place where you want to rest rather than activity, the eco hotel will be customized !!",7.0,0.9831
+If you are looking for a place where you want to rest rather than activity, the eco hotel will be customized !!",7.0,0.9831,5
 9.2,"After eating dinner at Jeju restaurant, I checked in late, so I was assigned to the end of the building.
 It is good to contact the room near the pool during check -in.The streets are not stopped for using children and swimming pool bakery stalls or lobbies.
 The pool is thumb!
@@ -168,318 +168,318 @@ Swimming and Eco -Land tourism are recommended.
 The staff are kind and the facilities are fine.
 The room is clean but it doesn't feel 5 -star.
 I hope you swim ..
-I want to go again next time.",18.0,0.7704
+I want to go again next time.",18.0,0.7704,5
 10.0,"I went when it was cold, but the pool water was so warm and the circled photo was not going to go to the child.
 There is a canteen, but I can't use it because I go late and close the door.
 The accommodation is quiet and it is so good to come with lovers and families
-I want to go again",5.0,0.9371
+I want to go again",5.0,0.9371,6
 9.6,"Needless to say, it was the best of the accommodation I have been in and to play the pool.
 I was so happy to travel to my girlfriend's birthday
 The staff are kind and the room service is very fast> <
-The room is also a girlfriend's birthday, thank you for upgrading!",10.0,0.9554
+The room is also a girlfriend's birthday, thank you for upgrading!",10.0,0.9554,5
 10.0,"I purchased and used it as an Eco Land Pass Package product.
 Next time, I'm going to grab more time and go.
-The hotel swimming pool was also good, but it was a pity that I used the bridegroom alone in the evening and took pictures.",-1.0,-0.5187
+The hotel swimming pool was also good, but it was a pity that I used the bridegroom alone in the evening and took pictures.",-1.0,-0.5187,5
 10.0,"Clean, beautiful, spacious and kind.
 The pool was also good, but the day we went was in the cold, I only took pictures in the pool and was in Onsu -tang.Personal sloppers are required when you go to the swimming pool.It is slippery and freezing when moving.It was nice to have a shower and dry in the outdoor dressing room.
 I used it because I was good at dinner, but it is recommended.Especially the sashimi is delicious.
-The bathtub water pressure in the room was also comfortable because the water was filled with water.I had to walk for a long time from the lobby to the room, but it was a pity.",19.0,0.961
+The bathtub water pressure in the room was also comfortable because the water was filled with water.I had to walk for a long time from the lobby to the room, but it was a pity.",19.0,0.961,8
 10.0,"Plan to go with the family one more time
 The best satisfaction of accommodation ~~
 Healing accommodation
 Even if it's the best hotel in Jeju Island,
 Nature and clean and so good
-Outdoor pool life shot comes out ㅋㅋ A wonderful place",15.0,0.9699
-10.0,I think I have to come often,0.0,0.0
-10.0,Good hotels in many ways,3.0,0.4404
+Outdoor pool life shot comes out ㅋㅋ A wonderful place",15.0,0.9699,3
+10.0,I think I have to come often,0.0,0.0,2
+10.0,Good hotels in many ways,3.0,0.4404,9
 8.0,"I visited a family trip.
 There are disadvantages without surrounding facilities, but it is enough to enjoy nature.
 
-However, it would be better if the price was added to the use facility!",4.0,0.8221
-9.6,The facility is clean and good value 😀,5.0,0.7906
+However, it would be better if the price was added to the use facility!",4.0,0.8221,5
+9.6,The facility is clean and good value 😀,5.0,0.7906,0
 8.0,"Difficult to find facilities in the building
 There is no convenience store.
 There is no place to eat except buffet.
 Davidsam.
 
 But clean and lake view is good
-It seems like it's okay for about a day or two",4.0,0.8765
-6.4,are you okay,0.0,0.2263
-10.0,Better than you think,2.0,0.4404
-10.0,"It was a dinner buffet art, especially the rooms were very good.",3.0,0.4927
+It seems like it's okay for about a day or two",4.0,0.8765,5
+6.4,are you okay,0.0,0.2263,5
+10.0,Better than you think,2.0,0.4404,5
+10.0,"It was a dinner buffet art, especially the rooms were very good.",3.0,0.4927,5
 9.2,"This is the third visit this time. Lake view was pretty and hot water was so fun ~ The water guarantee is very clean and hygienic and the night view is especially pretty ~~
 My mom was at the first time playing the pool water, but it was very fun.
-If you loosen it, you will come again ^^",13.0,0.939
+If you loosen it, you will come again ^^",13.0,0.939,8
 9.6,"I used it with my friends, but it was really good
 But it seemed to be difficult to move without a car.
 I don't think the taxi will go to the hotel.
 Still, both room condition and swimming pool were really good!
-The next time you visit Jeju Island, you want to come back!",6.0,0.856
-9.6,I have been doing well for one night.,0.0,0.2732
+The next time you visit Jeju Island, you want to come back!",6.0,0.856,2
+9.6,I have been doing well for one night.,0.0,0.2732,5
 10.0,"Employees are also kind
 There is a hot water pool in winter
 Suyoung's favorite people are cool
 Have fun with the scenery
-It is a place that can be held",9.0,0.9001
-9.2,The price was high for the price and the staff attitude and the accommodation hygiene were excellent.,3.0,0.5719
-9.6,"Clean is the top priority, but it is so clean and good",9.0,0.9049
+It is a place that can be held",9.0,0.9001,8
+9.2,The price was high for the price and the staff attitude and the accommodation hygiene were excellent.,3.0,0.5719,5
+9.6,"Clean is the top priority, but it is so clean and good",9.0,0.9049,0
 9.2,"It's so good in accordance with the lodging hygiene.
 The price is also okay if you do this in Jeju Island.
 It takes a little time to listen, but Jocheon -eup is a middle position to go around Eun -geun Jeju Island.
-The hot water pool is also when you do it depending on the weather situation, and when you do not do it, I think you should recognize it.",3.0,0.3708
-8.8,"While looking for a hotel where you can play in the winter, I got to know this hotel with a recommendation.It was a wonderful place with a big outdoor swimming pool and artificial lake.I relax and go comfortably for two days.",7.0,0.8957
+The hot water pool is also when you do it depending on the weather situation, and when you do not do it, I think you should recognize it.",3.0,0.3708,8
+8.8,"While looking for a hotel where you can play in the winter, I got to know this hotel with a recommendation.It was a wonderful place with a big outdoor swimming pool and artificial lake.I relax and go comfortably for two days.",7.0,0.8957,5
 9.2,"I play well
-Clean and swimming or the surrounding landscape",2.0,0.7351
-9.6,"It is a place I want to recommend in Jeju Island so that I can think of it only one day.The pool was so good, the hotel facilities were good and the breakfast was so satisfying, and most of all, the free shuttle was so good at the airport.You can go to the traveler.Unfortunately, there is no place to eat nearby, so I think it would be better to buy something to eat.",14.0,0.9716
+Clean and swimming or the surrounding landscape",2.0,0.7351,0
+9.6,"It is a place I want to recommend in Jeju Island so that I can think of it only one day.The pool was so good, the hotel facilities were good and the breakfast was so satisfying, and most of all, the free shuttle was so good at the airport.You can go to the traveler.Unfortunately, there is no place to eat nearby, so I think it would be better to buy something to eat.",14.0,0.9716,5
 10.0,"The hotel is so pretty.
 It's so clean
 Eco Land is so pretty ~
-I almost went back to concentricity",4.0,0.9047
-10.0,Really recommended.✨👍🏻,2.0,0.0
-8.8,"I used it on weekdays, so I had little people, so I played the pool well, but I couldn't take a picture on the weekend.",0.0,0.3492
-10.0,The bedding was clean and everything was good.Swimming pool!,5.0,0.4574
-8.8,"There was only one electric vehicle DC combo charger, so it was good except for the inconvenience.Ah ... it was a little hard to find the lobby and the hostel ^^ ;;",-2.0,0.4865
-9.6,"I first visited and I liked it so pretty since the lobby.I also stayed in the Premier Di Lux room, but my parents and my wife were spacious and good.Scheduled to stay next time",5.0,0.4848
+I almost went back to concentricity",4.0,0.9047,0
+10.0,Really recommended.✨👍🏻,2.0,0.0,5
+8.8,"I used it on weekdays, so I had little people, so I played the pool well, but I couldn't take a picture on the weekend.",0.0,0.3492,5
+10.0,The bedding was clean and everything was good.Swimming pool!,5.0,0.4574,0
+8.8,"There was only one electric vehicle DC combo charger, so it was good except for the inconvenience.Ah ... it was a little hard to find the lobby and the hostel ^^ ;;",-2.0,0.4865,5
+9.6,"I first visited and I liked it so pretty since the lobby.I also stayed in the Premier Di Lux room, but my parents and my wife were spacious and good.Scheduled to stay next time",5.0,0.4848,5
 8.4,"It is good to enjoy a variety of swimming pool eco -land buffet at the hotel
-The pool is a bit narrow compared to the guests.In summer, I think it will be okay if the main pool can be used.",5.0,0.7906
-10.0,great,3.0,0.6249
+The pool is a bit narrow compared to the guests.In summer, I think it will be okay if the main pool can be used.",5.0,0.7906,5
+10.0,great,3.0,0.6249,4
 10.0,"It was good to use the swimming pool with the family because it rained throughout the trip.
-The breakfast buffet was also delicious.The rain was hot.",6.0,0.4404
-8.8,I was satisfied,2.0,0.4215
-10.0,It was so good to karaoke karaoke at the facility swimming pool of various accommodations.,3.0,0.5777
+The breakfast buffet was also delicious.The rain was hot.",6.0,0.4404,1
+8.8,I was satisfied,2.0,0.4215,7
+10.0,It was so good to karaoke karaoke at the facility swimming pool of various accommodations.,3.0,0.5777,5
 10.0,"From the moment I entered the lobby, I was so warm and happy for the staff who greeted and greeted me all the time.
-The room is so spacious .. The room is also very hot .. I used it with my children last year, but this year I was traveling with my sister alone.It was much more luxurious, comfortable, comfortable, and good than a slightly lower high -end hotel. The pool was quite wide and warm and nice.Thank you for helping me a good trip.Eco Land Hotel ♡",21.0,0.9796
+The room is so spacious .. The room is also very hot .. I used it with my children last year, but this year I was traveling with my sister alone.It was much more luxurious, comfortable, comfortable, and good than a slightly lower high -end hotel. The pool was quite wide and warm and nice.Thank you for helping me a good trip.Eco Land Hotel ♡",21.0,0.9796,5
 7.6,"Accommodation, night pool and relaxed breakfast ..
-I am satisfied with the Eco Land Tour",4.0,0.7184
-10.0,I am very satisfied.,2.0,0.4754
-8.8,It's too bad to stay for a day.The bed is scary.Pocha Eun -geun is okay in the swimming market,-5.0,-0.3818
+I am satisfied with the Eco Land Tour",4.0,0.7184,7
+10.0,I am very satisfied.,2.0,0.4754,7
+8.8,It's too bad to stay for a day.The bed is scary.Pocha Eun -geun is okay in the swimming market,-5.0,-0.3818,5
 6.8,"Never joke
-Breakfast is more expensive than food!Well tastes?",2.0,-0.2914
-10.0,Comfortable accommodation. Kind.Best service,7.0,0.5106
+Breakfast is more expensive than food!Well tastes?",2.0,-0.2914,5
+10.0,Comfortable accommodation. Kind.Best service,7.0,0.5106,3
 9.6,"I like to rest quietly
-Pool the best",5.0,0.7717
-9.6,It's good enough to fall asleep when the bed is good.,6.0,0.7003
-9.2,"It was not far from the airport.And the room is very big and clean.Four people went together and shared two rooms, and they all were satisfied and said it would be good to come again.The pool was also so good.I thought it was so beautiful to see the stars shine in the sky at night swimming.But the swimming pool shower dehydrator was broken and the operation was not working properly.Except for that, I was satisfied with all.",13.0,0.9151
-10.0,I like it because there are so many things to do around the hostel,2.0,0.3612
-10.0,good hot swimming pool,3.0,0.4404
+Pool the best",5.0,0.7717,3
+9.6,It's good enough to fall asleep when the bed is good.,6.0,0.7003,9
+9.2,"It was not far from the airport.And the room is very big and clean.Four people went together and shared two rooms, and they all were satisfied and said it would be good to come again.The pool was also so good.I thought it was so beautiful to see the stars shine in the sky at night swimming.But the swimming pool shower dehydrator was broken and the operation was not working properly.Except for that, I was satisfied with all.",13.0,0.9151,7
+10.0,I like it because there are so many things to do around the hostel,2.0,0.3612,5
+10.0,good hot swimming pool,3.0,0.4404,8
 9.6,"It is perfect for life photos and water play.
 When the pool is far away, when I move, my hands and feet are freezing.
-The accommodation was wide and good, but I couldn't sleep until dawn.",6.0,0.5859
+The accommodation was wide and good, but I couldn't sleep until dawn.",6.0,0.5859,5
 9.2,"The real thing is more comfortable and better than the picture.
-The location is a little remote, so it's good except that",7.0,0.8731
+The location is a little remote, so it's good except that",7.0,0.8731,5
 6.0,"I like everything except that the location is not a tourist destination.
 Breakfast is good and the pool is good
-The price is also cheaper than the facility",8.0,0.8074
-9.2,"The location is a bit unfortunate, but the hotel facility service buffet is all satisfied.",2.0,0.4019
-9.2,The best price!,3.0,0.6696
+The price is also cheaper than the facility",8.0,0.8074,9
+9.2,"The location is a bit unfortunate, but the hotel facility service buffet is all satisfied.",2.0,0.4019,7
+9.2,The best price!,3.0,0.6696,3
 10.0,"The rooms are spacious and comfortable ~
-The facilities are also easy to use and breakfast is delicious!",7.0,0.8805
-10.0,Too clean,2.0,0.4019
-6.8,The healing time scenery that is enjoyed in the forest makes the unforgettable memories.,2.0,0.5106
+The facilities are also easy to use and breakfast is delicious!",7.0,0.8805,1
+10.0,Too clean,2.0,0.4019,0
+6.8,The healing time scenery that is enjoyed in the forest makes the unforgettable memories.,2.0,0.5106,5
 9.6,"It was more than expected.
-200%doctor",0.0,0.0
-8.8,"It's kind and good, but it's hard to move in a little outside.And it took a long time because it was far from the facilities and the accommodation.",4.0,0.3716
-10.0,The best hostel pool is also good.,6.0,0.7964
-9.6,It's like a fairy tale accommodation and it's been a good place in hot water pools.,5.0,0.6597
+200%doctor",0.0,0.0,5
+8.8,"It's kind and good, but it's hard to move in a little outside.And it took a long time because it was far from the facilities and the accommodation.",4.0,0.3716,5
+10.0,The best hostel pool is also good.,6.0,0.7964,3
+9.6,It's like a fairy tale accommodation and it's been a good place in hot water pools.,5.0,0.6597,8
 8.8,"The pool was the best
-I have a doctor",3.0,0.6369
-10.0,"From check -in to check -out, I traveled to Jeju Island with a good service ^^",3.0,0.4404
-9.2,"Compared to the 5 -star hotel, I was impressed by the room condition that was not pushed at all. The bed is a high -quality Simmons ~ There is no dust in every corner and cleans it every day.",4.0,0.2263
-10.0,great,3.0,0.6249
-9.2,"Pleasant and lake view is cool.The hot water is not so wide in winter, but the view is cool.",5.0,0.6249
-9.6,"I was satisfied with the quiet and snowy day.In particular, the gallery art is so cool and enough to relax, so it is recommended as a healing trip.Hallasan Soju, which is served with shrimp and depletion, makes memories.I will visit again with my family.The spa is nothing to say.However, I hope the temperature of the jjimjilbang is a little higher.It was very cold because the day we visited was snowing.he",7.0,0.81
-8.8,I feel like I've been resting at the resort without going abroad.The cozy and sensitive neatness of bedding and pillow interiors was able to enjoy the cleanliness of the employees who are satisfied with the cleanliness of the staff.It was a little unfortunate because of the cold swimming pool staff and buffet and pocha restaurants.,6.0,0.796
-9.2,There is nothing more to do.,0.0,0.0
-10.0,good,3.0,0.4404
+I have a doctor",3.0,0.6369,3
+10.0,"From check -in to check -out, I traveled to Jeju Island with a good service ^^",3.0,0.4404,5
+9.2,"Compared to the 5 -star hotel, I was impressed by the room condition that was not pushed at all. The bed is a high -quality Simmons ~ There is no dust in every corner and cleans it every day.",4.0,0.2263,5
+10.0,great,3.0,0.6249,4
+9.2,"Pleasant and lake view is cool.The hot water is not so wide in winter, but the view is cool.",5.0,0.6249,8
+9.6,"I was satisfied with the quiet and snowy day.In particular, the gallery art is so cool and enough to relax, so it is recommended as a healing trip.Hallasan Soju, which is served with shrimp and depletion, makes memories.I will visit again with my family.The spa is nothing to say.However, I hope the temperature of the jjimjilbang is a little higher.It was very cold because the day we visited was snowing.he",7.0,0.81,6
+8.8,I feel like I've been resting at the resort without going abroad.The cozy and sensitive neatness of bedding and pillow interiors was able to enjoy the cleanliness of the employees who are satisfied with the cleanliness of the staff.It was a little unfortunate because of the cold swimming pool staff and buffet and pocha restaurants.,6.0,0.796,7
+9.2,There is nothing more to do.,0.0,0.0,5
+10.0,good,3.0,0.4404,9
 7.6,"It is located in a place where you have to move by car, but the natural design and Infiniti pool are also beautiful.But the service is dissatisfied…
-SNOW DAY upgrade cost 50% discounted sign table is different.The carrier has a hassle to carry back and forth at 11 o'clock.",1.0,0.5499
-8.0,"It is a good hotel for four seasons and is a clean, luxurious and very good hotel.",8.0,0.8176
-10.0,Clean and kind !! The breakfast and restaurants are very delicious,7.0,0.8928
-10.0,I think I'll choose again next time because it's better than the price.,2.0,0.4404
+SNOW DAY upgrade cost 50% discounted sign table is different.The carrier has a hassle to carry back and forth at 11 o'clock.",1.0,0.5499,5
+8.0,"It is a good hotel for four seasons and is a clean, luxurious and very good hotel.",8.0,0.8176,9
+10.0,Clean and kind !! The breakfast and restaurants are very delicious,7.0,0.8928,0
+10.0,I think I'll choose again next time because it's better than the price.,2.0,0.4404,5
 9.2,"I went on a trip after a long time
 It was not easy to go out in the snowy weather
 Fortunately, the hotel was big and wide, so I rested it well.
-Breakfast dinner buffet is good !!!",7.0,0.5767
+Breakfast dinner buffet is good !!!",7.0,0.5767,5
 9.2,"The facilities were so good and the pool was the best ~
 I was so excited about dinner, so I tasted it
 It was not enough ㅠ But soon again, Eco Land soon again
-I'm going",9.0,0.702
-10.0,A good place to heal,3.0,0.4404
-10.0,"The atmosphere was much better because of my eyes.All the facilities are clean and the pool is good, so I enjoyed playing well.It is recommended.",11.0,0.9395
+I'm going",9.0,0.702,5
+10.0,A good place to heal,3.0,0.4404,9
+10.0,"The atmosphere was much better because of my eyes.All the facilities are clean and the pool is good, so I enjoyed playing well.It is recommended.",11.0,0.9395,0
 9.6,"More than expected ... clean!
 Very good for the price
-Comfortable rest is guaranteed and the harmony of other facilities is different.",9.0,0.9039
-10.0,The facilities are so good that I really don't envy Southeast Asia.,2.0,0.7035
+Comfortable rest is guaranteed and the harmony of other facilities is different.",9.0,0.9039,0
+10.0,The facilities are so good that I really don't envy Southeast Asia.,2.0,0.7035,5
 7.6,"I don't go out and take a good rest in the hotel ~~
-It was so cold because the pool was so far, but it was good to use it once. The dinner was so delicious :) I don't want to go to a lot of destinations.",10.0,0.9552
+It was so cold because the pool was so far, but it was good to use it once. The dinner was so delicious :) I don't want to go to a lot of destinations.",10.0,0.9552,2
 6.0,"This is a hotel selected because of the swimming pool
 I don't think I'll go back in winter
 There is a long way to the swimming pool and it is so cold, but the water was not warmer than I thought.
 If it's summer, you may want to go back, but if it's over 100,000 won, I think I'll think about it again.
-Two weeks later with my friend, I had a plan to travel with my parents.",5.0,0.858
-9.6,"The hotel was pretty and the room condition was so good. The terrace view was also good, and I liked the toilet and shower separation.The hotel was also easy to use and it was a good hotel to walk.",13.0,0.9644
-10.0,"It's a wonderful European hotel ~~ I used it because I liked the reviews, but this backper is satisfied.",8.0,0.7876
+Two weeks later with my friend, I had a plan to travel with my parents.",5.0,0.858,2
+9.6,"The hotel was pretty and the room condition was so good. The terrace view was also good, and I liked the toilet and shower separation.The hotel was also easy to use and it was a good hotel to walk.",13.0,0.9644,9
+10.0,"It's a wonderful European hotel ~~ I used it because I liked the reviews, but this backper is satisfied.",8.0,0.7876,7
 9.6,"I think it's the best price
 I felt the inflation of Jeju's accommodation expenses
 It is a very good hotel
-Except for the road to the swimming pool ...",6.0,0.8122
-10.0,"It was cheap, but it was so good that it was clean and used to use the pool.",5.0,0.8645
-9.2,I believe you will know the location.,0.0,0.0
-10.0,"Unfortunately I couldn't use the facilities for this trip.Next time, I want to use the facilities in the hotel ~~ 2 nights .. It is so comfortable and kind.It's so bad that I haven't looked outside the hostel .. If you go to Jeju Island, I want to stay here.",3.0,-0.2617
-9.6,"The accommodation was good and the staff were kind and hot, but it was good to clean the cleaning and replace the disposable towels.",10.0,0.8898
-10.0,"I couldn't use the hotel unit facility on this trip ... Next time, I want to make a day schedule.",1.0,0.0772
-6.8,It's okay for households.,0.0,0.2263
-9.2,"Everything is too perfect, but it's not enough to eat.There is only one buffet and there is no common convenience store.The neighborhood that needs to be eaten in advance ... There is little delivery.Nevertheless, the price is the beneficiary compared to the luxurious atmosphere such as the room size and the G -floor gallery.",2.0,0.5719
-8.4,"It was a lake side view premium accommodation, and it was hygienic clean and good view.The outdoor swimming pool was hot water, so it was available for relatively cold weather, and Eco Land was also discounted and used well.If you are a family trip, I recommend it.",6.0,0.8074
-9.2,It's best,3.0,0.6369
-8.0,I enjoyed the vacation alone with my son.Some of the swimming theme parks are a lot of regret,-2.0,-0.128
-10.0,"When I traveled, I see the most cleanliness most of all, but the staff were so clean and the accommodation was cozy and pretty !!",3.0,0.8915
+Except for the road to the swimming pool ...",6.0,0.8122,3
+10.0,"It was cheap, but it was so good that it was clean and used to use the pool.",5.0,0.8645,0
+9.2,I believe you will know the location.,0.0,0.0,5
+10.0,"Unfortunately I couldn't use the facilities for this trip.Next time, I want to use the facilities in the hotel ~~ 2 nights .. It is so comfortable and kind.It's so bad that I haven't looked outside the hostel .. If you go to Jeju Island, I want to stay here.",3.0,-0.2617,2
+9.6,"The accommodation was good and the staff were kind and hot, but it was good to clean the cleaning and replace the disposable towels.",10.0,0.8898,0
+10.0,"I couldn't use the hotel unit facility on this trip ... Next time, I want to make a day schedule.",1.0,0.0772,2
+6.8,It's okay for households.,0.0,0.2263,5
+9.2,"Everything is too perfect, but it's not enough to eat.There is only one buffet and there is no common convenience store.The neighborhood that needs to be eaten in advance ... There is little delivery.Nevertheless, the price is the beneficiary compared to the luxurious atmosphere such as the room size and the G -floor gallery.",2.0,0.5719,5
+8.4,"It was a lake side view premium accommodation, and it was hygienic clean and good view.The outdoor swimming pool was hot water, so it was available for relatively cold weather, and Eco Land was also discounted and used well.If you are a family trip, I recommend it.",6.0,0.8074,8
+9.2,It's best,3.0,0.6369,3
+8.0,I enjoyed the vacation alone with my son.Some of the swimming theme parks are a lot of regret,-2.0,-0.128,5
+10.0,"When I traveled, I see the most cleanliness most of all, but the staff were so clean and the accommodation was cozy and pretty !!",3.0,0.8915,0
 9.6,"It was the first day of the raining Jeju Island family
 Even though it was late, it was good to be kind to upgrade the room.
-It was raining a lot, so I couldn't even go to the hotel's external swimming pool.",5.0,0.743
-9.6,The facility is clean and good,5.0,0.6808
+It was raining a lot, so I couldn't even go to the hotel's external swimming pool.",5.0,0.743,5
+9.6,The facility is clean and good,5.0,0.6808,0
 8.4,"I visited my family in June 23, so I remembered it again in January 24.
 
 The coziness of the open -air bath and accommodation in winter was so good as it used to be.
 
-I have another doctor.",5.0,0.7384
+I have another doctor.",5.0,0.7384,5
 9.2,"The location is quite inside, so it takes a lot of time to go in and out.
-But if the room is clean and the day is good, it would be nice to be able to use the pool.",8.0,0.9022
-8.0,only one restaurant for long stay guest is no good and too expensive,2.0,0.1779
-10.0,The warm herringbone ondol floor was so good.The ROMCOND was the best and the water quality of the outdoor pool was so clean.I think it's the best hotel for quiet healing.,14.0,0.8834
+But if the room is clean and the day is good, it would be nice to be able to use the pool.",8.0,0.9022,0
+8.0,only one restaurant for long stay guest is no good and too expensive,2.0,0.1779,5
+10.0,The warm herringbone ondol floor was so good.The ROMCOND was the best and the water quality of the outdoor pool was so clean.I think it's the best hotel for quiet healing.,14.0,0.8834,6
 9.2,"I had two nights with my 6 -year -old twin kids.
 First of all, I was very satisfied with the lodging hygiene, and I asked for a stroller and bed guard.
 And how grateful it is for the children to use the swimming pool easily ...
 In addition, the indoor swimming pool was used for two days, but despite the outdoor road, I made exciting memories of running while looking at the beautiful scenery with the children.
-I am a return doctor 100 %.",11.0,0.9371
-9.6,"It's a deluxe premier room, so the room is spacious and there is a bathtub.",1.0,0.0
-9.6,The outdoor pool is the best.,3.0,0.6369
+I am a return doctor 100 %.",11.0,0.9371,5
+9.6,"It's a deluxe premier room, so the room is spacious and there is a bathtub.",1.0,0.0,5
+9.6,The outdoor pool is the best.,3.0,0.6369,3
 9.2,"If you are going to use Eco Land, it is a great place to stay for a day.The pool is also great ~ in summer
-Recommended !!The landscape and Infiniti pool are good ^^",11.0,0.9258
-10.0,"The location was a bit unfortunate, but it was the best.The child especially liked it.That's why I want to go again.",6.0,0.5558
+Recommended !!The landscape and Infiniti pool are good ^^",11.0,0.9258,4
+10.0,"The location was a bit unfortunate, but it was the best.The child especially liked it.That's why I want to go again.",6.0,0.5558,3
 8.0,"The exterior of the hostel was really pretty and cool ~~
-The price was also reasonable compared to the 5 -star hotel, so I was satisfied with the window.Please keep the cleanliness",5.0,0.8456
-9.6,Very satisfying accommodation and meals,0.0,0.5095
-9.2,"The inside of the hostel is pretty and good and the pool is always open.However, it is in a remote place, so I have to buy food inside unless I pack it somewhere, but I don't have a lot of options.The staff were all kind :)",6.0,0.9127
+The price was also reasonable compared to the 5 -star hotel, so I was satisfied with the window.Please keep the cleanliness",5.0,0.8456,7
+9.6,Very satisfying accommodation and meals,0.0,0.5095,5
+9.2,"The inside of the hostel is pretty and good and the pool is always open.However, it is in a remote place, so I have to buy food inside unless I pack it somewhere, but I don't have a lot of options.The staff were all kind :)",6.0,0.9127,5
 4.8,"Although it was a holiday season
-On a cold day, the hot water was presented with the complaint, but I was waiting for any gesture.",-2.0,0.0644
+On a cold day, the hot water was presented with the complaint, but I was waiting for any gesture.",-2.0,0.0644,8
 8.4,"Facilities Friendship 100 points of hygiene
 
 The location is out of the position, so there is an inconvenience to go out and go out.
 
-100 points if you plan to play a meal only at the hotel",0.0,0.4215
-8.8,"I booked a single night to use the pool, but the water was warm and good!",4.0,0.7574
-9.2,"Castle -dong double bed is really big and large.Clean and room condition is good.Amenity is also special.Hot water pool We are so satisfied with our friendly guest Eco Land 50 % discount !!Return to 100 % !!The location is a disadvantage, but there is nothing around.It's a restaurant for 5 stars, but the price is too expensive.The room is spacious and good at hot water.The downside is that there is nothing to eat, and the cafe convenience store is expensive, but if you use the swimming pool for the price compared to the number of people,",10.0,0.7562
-9.2,"Quiet, clean and good",5.0,0.6808
+100 points if you plan to play a meal only at the hotel",0.0,0.4215,5
+8.8,"I booked a single night to use the pool, but the water was warm and good!",4.0,0.7574,8
+9.2,"Castle -dong double bed is really big and large.Clean and room condition is good.Amenity is also special.Hot water pool We are so satisfied with our friendly guest Eco Land 50 % discount !!Return to 100 % !!The location is a disadvantage, but there is nothing around.It's a restaurant for 5 stars, but the price is too expensive.The room is spacious and good at hot water.The downside is that there is nothing to eat, and the cafe convenience store is expensive, but if you use the swimming pool for the price compared to the number of people,",10.0,0.7562,8
+9.2,"Quiet, clean and good",5.0,0.6808,6
 9.6,"The accommodation is good and the building itself is so beautiful.
 The outdoor swimming pool is really fantastic.
-It was possible to use hot water pools, but it was so good even in cold weather.",13.0,0.8818
-10.0,It was great!I had fun because it wasn't crowded with outdoor swimming pool.,7.0,0.5562
-7.6,"I have to solve it all in my accommodation, but I feel sorry for the narrow choice, but I felt like healing in the forest in a clean and exotic atmosphere.",4.0,0.775
-9.6,It was the best hotel that matched the beautiful surrounding environment with a fairy tale room.,6.0,0.8442
+It was possible to use hot water pools, but it was so good even in cold weather.",13.0,0.8818,8
+10.0,It was great!I had fun because it wasn't crowded with outdoor swimming pool.,7.0,0.5562,4
+7.6,"I have to solve it all in my accommodation, but I feel sorry for the narrow choice, but I felt like healing in the forest in a clean and exotic atmosphere.",4.0,0.775,5
+9.6,It was the best hotel that matched the beautiful surrounding environment with a fairy tale room.,6.0,0.8442,3
 10.0,"It's a hotel that is suitable for the word rain.
-The trip to Jeju was so tight that I got a good night's room, but I thought it would have been good to enjoy it.Let's stay again next time!",10.0,0.8858
-10.0,I'm crazy.,-2.0,-0.34
-10.0,"It was clean and most of all, the pool and dinner buffet were really delicious.",5.0,0.7713
-9.2,The staff are kind and there are many things to see in the hotel.,2.0,0.5267
+The trip to Jeju was so tight that I got a good night's room, but I thought it would have been good to enjoy it.Let's stay again next time!",10.0,0.8858,5
+10.0,I'm crazy.,-2.0,-0.34,5
+10.0,"It was clean and most of all, the pool and dinner buffet were really delicious.",5.0,0.7713,0
+9.2,The staff are kind and there are many things to see in the hotel.,2.0,0.5267,1
 9.6,"I made a reservation after seeing a hot water pool, but it was so perfect from the facilities to the hygiene.
 Breakfast was so delicious ~~!
-There is 200 % of the doctor of return ~ ^^",6.0,0.9478
-8.8,I was clean and overall so satisfied,4.0,0.7443
+There is 200 % of the doctor of return ~ ^^",6.0,0.9478,8
+8.8,I was clean and overall so satisfied,4.0,0.7443,7
 10.0,"If you are a family trip with children below elementary school, I really recommend it.
 
 The swimming pool (hot water) convenience store bakery that runs late at night. And Eco Land Walking Travel.
 
 One thing that is unfortunate is that there is a shower room in the swimming pool and a beach towel, but it is not good for the children to see the hotel and the pool with the hotel gown and the (nonwoven) slippers.
 
-As it is a new accommodation, you need an etiquette that is cleanly used for the next guest.",0.0,-0.496
+As it is a new accommodation, you need an etiquette that is cleanly used for the next guest.",0.0,-0.496,5
 7.6,"2 nests are good by using family orchard pool facilities
-There is a lot of time to eat as a travel time while traveling in the city.",3.0,0.4404
-9.2,It is a place I want to come again in the wall,1.0,0.0772
-9.6,"The Eco Land Hotel's accommodation, which was understandable for the 5 -star price, was a bit inside, but it was good to feel calm and calm.I added breakfast, but I was satisfied and I was satisfied with the warm hot water pool in winter!The family were all satisfied.I want to visit if I have a chance next time ~",17.0,0.9628
-10.0,"It was a lot of snow, and I was good at snow removal and satisfied.I saw a review that was cold to the swimming pool .. It's really cold and slightly poor.The water is warm too!",4.0,0.6239
-9.6,"great.The location is ambiguous, but the nature is good and the facilities are good.",9.0,0.8271
-8.8,"The swimming pool was opened until late at night, but it was winter, but it was very fun.If you don't use the buffet, it's a bit difficult to resolve your meals.The microwave is also common, so if you have a packaging food, you have to come down underground and warm it up.But the staff are really kind and enjoyable with their children.We used the shuttle well, but no one used it.ㅋㅋ I flew to the airport for 40 minutes and arrived.I only traveled to Jocheon, but if you are traveling in several places, it is very suitable for healing rather than sightseeing.",11.0,0.9124
-9.6,"After climbing Hallasan, I stayed close to the location.",0.0,0.0
+There is a lot of time to eat as a travel time while traveling in the city.",3.0,0.4404,5
+9.2,It is a place I want to come again in the wall,1.0,0.0772,2
+9.6,"The Eco Land Hotel's accommodation, which was understandable for the 5 -star price, was a bit inside, but it was good to feel calm and calm.I added breakfast, but I was satisfied and I was satisfied with the warm hot water pool in winter!The family were all satisfied.I want to visit if I have a chance next time ~",17.0,0.9628,7
+10.0,"It was a lot of snow, and I was good at snow removal and satisfied.I saw a review that was cold to the swimming pool .. It's really cold and slightly poor.The water is warm too!",4.0,0.6239,7
+9.6,"great.The location is ambiguous, but the nature is good and the facilities are good.",9.0,0.8271,4
+8.8,"The swimming pool was opened until late at night, but it was winter, but it was very fun.If you don't use the buffet, it's a bit difficult to resolve your meals.The microwave is also common, so if you have a packaging food, you have to come down underground and warm it up.But the staff are really kind and enjoyable with their children.We used the shuttle well, but no one used it.ㅋㅋ I flew to the airport for 40 minutes and arrived.I only traveled to Jocheon, but if you are traveling in several places, it is very suitable for healing rather than sightseeing.",11.0,0.9124,5
+9.6,"After climbing Hallasan, I stayed close to the location.",0.0,0.0,5
 9.2,"I recommend it without having to say anything else.
-The swimming pool was also so good.",5.0,0.7384
+The swimming pool was also so good.",5.0,0.7384,9
 9.6,"I went with my parents and I was worried because my parents were tricky, but I had fun swimming in the pool hot water pool.
 And the taste tricky mother continued to say that the bakery is really delicious from the breakfast, and said that it is delicious with the sake and the bomal porridge.
 The pool view is so good and we will go on a family trip on New Year's Day or on weekends.
 
 In particular, as soon as I arrived and got off the car, the staff who were welcomed at the entrance of the hotel was so kind that the image of the hotel was so good 👍
 Other hotels are kind, but as soon as I get off, I want to go again.
-It will be more than 2 nights in the dumplings !!best",23.0,0.9944
-9.6,"It was so good for four friends to use at an affordable price.The surrounding landscape is wonderful and the room satisfaction is very high.Breakfast is also delicious and good.The pool was good in the evening, but I was surprised that it was so cold when I moved from the lock car room to the swimming pool.Anyway, it is so good overall and will be used again in March.",21.0,0.9578
+It will be more than 2 nights in the dumplings !!best",23.0,0.9944,1
+9.6,"It was so good for four friends to use at an affordable price.The surrounding landscape is wonderful and the room satisfaction is very high.Breakfast is also delicious and good.The pool was good in the evening, but I was surprised that it was so cold when I moved from the lock car room to the swimming pool.Anyway, it is so good overall and will be used again in March.",21.0,0.9578,9
 9.6,"Really go with your family
-It was the best at first, but it was a bit of a location, but I think it's a private and good.",6.0,0.7543
+It was the best at first, but it was a bit of a location, but I think it's a private and good.",6.0,0.7543,3
 8.8,"The location is a little out of place
-It's nice to go here and there from inland",3.0,0.4215
-10.0,Thank you for your happy memories at the unique and sophisticated Eco Land accommodation.,7.0,0.8689
-8.8,It's clean and well managed as it hasn't been a long time!,2.0,0.6239
-10.0,I like it so much that I want to go again next time,3.0,0.4703
+It's nice to go here and there from inland",3.0,0.4215,5
+10.0,Thank you for your happy memories at the unique and sophisticated Eco Land accommodation.,7.0,0.8689,5
+8.8,It's clean and well managed as it hasn't been a long time!,2.0,0.6239,0
+10.0,I like it so much that I want to go again next time,3.0,0.4703,2
 9.6,"Reminiscent of European castles, the Ecorand Hotel was a clean and warm hotel.
 The room condition was good and the pool gallery was good.
-Breakfast is also good for the price ~~~",12.0,0.9062
+Breakfast is also good for the price ~~~",12.0,0.9062,9
 10.0,"I really regret only one night ..
 The facilities were good and the staff were friendly
 Even though it is winter, I play so happily in the hot water pool!
 It was also raining because it provided an eco -land ticket, but I also enjoyed it so much :)
-If you come to Jeju again next time, you'll come to the Eco Land Hotel!",5.0,0.9429
+If you come to Jeju again next time, you'll come to the Eco Land Hotel!",5.0,0.9429,1
 9.6,"This is the accommodation I booked for my boyfriend and Jeju Island trip.It was raining on the day and it was cold, so it was chilly, but I had the best time.
 
-The pool is not to say ... I felt so clean and I felt like I came abroad.Walking overall, it is well decorated enough to feel good, and the amount of money is used at a low price.",10.0,0.962
+The pool is not to say ... I felt so clean and I felt like I came abroad.Walking overall, it is well decorated enough to feel good, and the amount of money is used at a low price.",10.0,0.962,5
 8.8,"Located far from downtown
 It's a bit burdensome to have breakfast every day ...
 It is very good with a lake, except for a very slightly wet point in the rescue.
-I went to October and just booked to go back to my parents in April.",5.0,0.5709
+I went to October and just booked to go back to my parents in April.",5.0,0.5709,5
 10.0,"It seemed to be isolated in 12/25 heavy snow, but I was so impressed with the signing of each chain at the hotel!It was the second visit, but it was really clean, spacious and good :)
-It was so cold that the outdoor swimming pool did not go up, so I couldn't use it, but I planned to visit later!",8.0,0.9599
-7.6,This is the best place for walking trips such as Oreum and Hallasan Eomaenggak.I was especially satisfied with beds and bedding.It's been a long time since I sleep in the destination.I'll go again next time.,5.0,0.807
+It was so cold that the outdoor swimming pool did not go up, so I couldn't use it, but I planned to visit later!",8.0,0.9599,5
+7.6,This is the best place for walking trips such as Oreum and Hallasan Eomaenggak.I was especially satisfied with beds and bedding.It's been a long time since I sleep in the destination.I'll go again next time.,5.0,0.807,5
 8.8,"I'm going to return this year.
-It's a good hotel to relax.",3.0,0.7003
-8.8,"It was a little uncomfortable because the swimming pool moved outdoors, but it was clean and nice.There is no restaurant right nearby, so you need to drive and move",2.0,0.0249
-9.6,"It was a warm, clean, friendly and cozy house, and it was ondol, so I liked it so much :)",7.0,0.9286
-9.6,"Everything is more than the perfect hotel praise cleanliness staff.It's just a remote place, so I think it's good to have a little snack when you go in.",9.0,0.894
+It's a good hotel to relax.",3.0,0.7003,5
+8.8,"It was a little uncomfortable because the swimming pool moved outdoors, but it was clean and nice.There is no restaurant right nearby, so you need to drive and move",2.0,0.0249,0
+9.6,"It was a warm, clean, friendly and cozy house, and it was ondol, so I liked it so much :)",7.0,0.9286,0
+9.6,"Everything is more than the perfect hotel praise cleanliness staff.It's just a remote place, so I think it's good to have a little snack when you go in.",9.0,0.894,1
 10.0,"I am satisfied with the facility in both swimming pools and inside.
-The room felt a little smaller than I thought, but I was satisfied with the bathroom or cleanliness.",4.0,0.6808
-9.6,"It was good to be able to enjoy everything in the hotel, and the room condition was so good and oyster!",8.0,0.8516
+The room felt a little smaller than I thought, but I was satisfied with the bathroom or cleanliness.",4.0,0.6808,7
+9.6,"It was good to be able to enjoy everything in the hotel, and the room condition was so good and oyster!",8.0,0.8516,9
 8.8,"The Mediterranean hotel building in Mt. Halla is so pretty.
 
 The light stem that shines over Hallasan
 The swimming pool, which is shiny with a golden wave in the pool and the water vapor rises above it, creates a dreamy atmosphere.
 
 One night was a very sad time.
-Next time, I will come longer to enjoy the promenade, pool and holiday of a pretty hotel.",3.0,0.9159
-9.2,It's clean and the theme park is also good ~,5.0,0.6808
-10.0,A quiet and comfortable atmosphere in the mountains,2.0,0.5106
+Next time, I will come longer to enjoy the promenade, pool and holiday of a pretty hotel.",3.0,0.9159,8
+9.2,It's clean and the theme park is also good ~,5.0,0.6808,0
+10.0,A quiet and comfortable atmosphere in the mountains,2.0,0.5106,6
 9.6,"great
 
-The pool is so cold",3.0,0.6249
-10.0,"I came to Jeju Island for 3 nights and 4 days, and I was going to come back to the hotel, which was the most satisfying hostel without falling out of the service.",-1.0,0.5771
-10.0,It was nice because there were so many places to see!Breakfast is also a variety of menus and a good swimming pool.,6.0,0.7177
+The pool is so cold",3.0,0.6249,4
+10.0,"I came to Jeju Island for 3 nights and 4 days, and I was going to come back to the hotel, which was the most satisfying hostel without falling out of the service.",-1.0,0.5771,5
+10.0,It was nice because there were so many places to see!Breakfast is also a variety of menus and a good swimming pool.,6.0,0.7177,5
 7.6,"I went with the children and it was good
-However, it was a little hard because the road to the room was too far.",2.0,0.4201
+However, it was a little hard because the road to the room was too far.",2.0,0.4201,5
 9.2,"In the winter, I found a hotel that is free to use hot water.
 It was a bit uncomfortable because the hot water was not connected indoors in the room, but the dressing room and shower were neatly managed.
 One thing is unfortunate.It was a bit unfortunate that there was no sauna market to take a bath.
 Breakfast will be discounted by 20 % when you make a reservation the day before.
 I was curious about it.It's a sincere place for this hotel food.Salad vegetables and fruits are so fresh.There are many kinds of bread and there are some broth craftsmen.The breakfast is also satisfactory.
 The hotel's bakery is so expensive, but it tastes!Every morning you can see patissiers making bread in an open kitchen.
-The canteen is a bit expensive.It is recommended to come in in advance of beer.",3.0,0.8478
-10.0,The hotel condition was good and the surrounding environment was good,6.0,0.7003
+The canteen is a bit expensive.It is recommended to come in in advance of beer.",3.0,0.8478,5
+10.0,The hotel condition was good and the surrounding environment was good,6.0,0.7003,9
 9.6,"I like to use the kids zone playroom bookstore.
 It's also good for walking in eco -land.
-If you have a hitting train, you can only go to the windmill, and you can take a 50% discount.",5.0,0.6597
-8.8,"The first staff's response was kind, so I checked in!I was with my parents, so I paid attention to the hotel, but the room was wide and clean!The toilet is divided into a toilet and a shower.Even if I opened the carrier, I had enough seats.And the second reason to choose this hotel was the swimming pool !!It was good to be warm even though I used it in winter evening!However, in the case of outdoor jacuzzi, the size is small .. The smell of the rock was so bad.And the shower facility was also good.I had a very comfortable and good time, but the biggest disadvantage is ..!The location is a little far from the road.It takes more than 5 minutes even if you drive from the road to the hotel.I was so satisfied except for this point.",13.0,0.9663
-8.4,The hotel is good to relax quietly ~ It is a shame that the floor is washed (?) And there is no border of shoes.You can have a good time in the outdoor hot water pool ~,3.0,0.5267
-10.0,Room condition buffet service is all satisfied ~,2.0,0.4215
-9.2,I like it so much that I am visiting every winter.Hotel meals are good and the pool is good,8.0,0.8074
-8.8,It was clean and good to play,5.0,0.7906
+If you have a hitting train, you can only go to the windmill, and you can take a 50% discount.",5.0,0.6597,5
+8.8,"The first staff's response was kind, so I checked in!I was with my parents, so I paid attention to the hotel, but the room was wide and clean!The toilet is divided into a toilet and a shower.Even if I opened the carrier, I had enough seats.And the second reason to choose this hotel was the swimming pool !!It was good to be warm even though I used it in winter evening!However, in the case of outdoor jacuzzi, the size is small .. The smell of the rock was so bad.And the shower facility was also good.I had a very comfortable and good time, but the biggest disadvantage is ..!The location is a little far from the road.It takes more than 5 minutes even if you drive from the road to the hotel.I was so satisfied except for this point.",13.0,0.9663,5
+8.4,The hotel is good to relax quietly ~ It is a shame that the floor is washed (?) And there is no border of shoes.You can have a good time in the outdoor hot water pool ~,3.0,0.5267,8
+10.0,Room condition buffet service is all satisfied ~,2.0,0.4215,7
+9.2,I like it so much that I am visiting every winter.Hotel meals are good and the pool is good,8.0,0.8074,9
+8.8,It was clean and good to play,5.0,0.7906,0
 10.0,"Everything was sooooooo perfect !
 The hotel looks like a castle within the lake sothat it was soooo pretty!! :D Plus  It was so cozy and clean ! The most impressive point is that each room was large enough to stay in whole day without feeling any inconvenience
-I really want to recommend registers to visit the restaurant ☺️",13.0,0.9782
-9.6,I've been using it clean and comfortable.I think it's better to use Eco Land next to it.,6.0,0.6808
+I really want to recommend registers to visit the restaurant ☺️",13.0,0.9782,2
+9.6,I've been using it clean and comfortable.I think it's better to use Eco Land next to it.,6.0,0.6808,0
 8.0,"I make a good reservation at a reasonable price, so I play well ~
 I used only Sonor Resorts nationwide, but when I visited Eco -Land, I saw a hotel building, so I came to see it.
 First of all, the outdoor pool was operated with a proper temperature hot water in Gyaul, so I used it well for two days.
@@ -490,25 +490,25 @@ However, at the dawn of the last night, our room lighting system broke down and 
 Eventually, I wrapped up my luggage to another room at 2 am, but it didn't seem to have been delivered when I checked out the next day.
 I was sleeping at night, and on the last day, I was going to get a claim for a claim.
 I only heard a word that I was sorry when I was taken over. I wouldn't have come out like this.
-Still, there is a doctor in Sashing.",15.0,0.9739
-8.4,I enjoyed it more because the view of the pool is like Southeast Asia.,4.0,0.7003
-9.6,Friendly and pretty and everyone was satisfied again,5.0,0.8481
+Still, there is a doctor in Sashing.",15.0,0.9739,5
+8.4,I enjoyed it more because the view of the pool is like Southeast Asia.,4.0,0.7003,5
+9.6,Friendly and pretty and everyone was satisfied again,5.0,0.8481,7
 8.0,"Room -not bad
 It was called View -Lake View, but I only see a little lake
 Nearby Restaurant -Need for about 15 minutes by car
 Pool -Best
-Eco Land -The scenery is so pretty and good",4.0,0.962
+Eco Land -The scenery is so pretty and good",4.0,0.962,5
 6.8,"Usually satisfied, but lack of food
-Not diverse, you can see amazing prices at convenience stores",4.0,0.631
-9.2,We are satisfied with the price for the price and the room condition.,2.0,0.4215
-9.6,I have been resting well,0.0,0.2732
+Not diverse, you can see amazing prices at convenience stores",4.0,0.631,7
+9.2,We are satisfied with the price for the price and the room condition.,2.0,0.4215,7
+9.6,I have been resting well,0.0,0.2732,5
 9.6,"Interior, cleanliness, and Infiniti pool
-Healing magnetic body",0.0,0.0
-8.4,"It was good because it was clean.I chose because I wanted to stay in a good hostel for the first time, but I liked it, but I also liked it.The warm outdoor swimming pool was also impressive.I had a personal idea that the water would be a little warmer, but the pool itself was good.Also, if you travel to Jeju, you want to stay. ^^",20.0,0.9378
+Healing magnetic body",0.0,0.0,5
+8.4,"It was good because it was clean.I chose because I wanted to stay in a good hostel for the first time, but I liked it, but I also liked it.The warm outdoor swimming pool was also impressive.I had a personal idea that the water would be a little warmer, but the pool itself was good.Also, if you travel to Jeju, you want to stay. ^^",20.0,0.9378,9
 10.0,"Even though it was a pleasant hotel environment and the end of the year, it wasn't too crowded, and the food I ate with room service was really delicious 😊
 It was a Christmas season, so I had children's cooking classes, but I participated in various classes so that 30,000 won felt too cheap ~
 The swimming pool is not a lot of people and warm, so I have been playing full until the day the children check out.
-Next time, I will use Eco Land Hotel 🙇🏻‍♀️",10.0,0.933
+Next time, I will use Eco Land Hotel 🙇🏻‍♀️",10.0,0.933,5
 10.0,"I want to use the pool
 Reservation here in advance and I expected it for a month ago
 Room clean and lake view is pretty
@@ -516,71 +516,71 @@ Like Europe
 The pool is also good
 Dinner buffet was really delicious
 I had the best anniversary
-Sublime",15.0,0.9628
-8.8,"There is no food around the hostel, so I take a little star.It was good to have a lodging grade, but it was too far from the pool.",2.0,0.0562
+Sublime",15.0,0.9628,0
+8.8,"There is no food around the hostel, so I take a little star.It was good to have a lodging grade, but it was too far from the pool.",2.0,0.0562,5
 10.0,"It would have been better to visit in spring
 Even in the cold winter, the lake and the forest were so cool that it was beautiful and nice!
 Lake view is truth.
 It is good to have additional facilities in the hotel
 I especially like swimming
-But too young children are cold in winter to swim outdoors, so only indoor swimming pools are available :)",14.0,0.9335
-8.0,Clean and the staff are kind,4.0,0.7269
-6.0,"It's a big hotel because it's a big regret because you can't enjoy 100 % in winter.It seems more like that because you can't use 100 % of a wide and cool swimming pool.I took a five -year -old child, had an additional cost of hotel, and used a hotel dinner buffet.In the case of 36 months or older, it is the same amount for the age of 12, so the amount is more expensive than the number of foods that can be eaten.If you subdivide the price or have more food for kids, it will help you to increase your home tourists.In the detail page, the cost of the number of people under 12 years of age is listed at 2,000 won, which seems to be necessary.In the season other than summer, I recommended it because I wanted to visit it in the summer or in the summer.ps.The view of the Super's Twin Room (upgrade) was a road view.You can see the road coming to Ecorland.I had to walk for 5 minutes to the lobby, and I heard that the same rooms close to the lobby are not recommended because they are the cheapest rooms for building wall views.However, because almost all facilities are on the lobby, family travelers will give up the view and assign a room close to the lobby.",10.0,0.8993
-10.0,It was the first time there was no humidifier in a 5 -star hotel.,-1.0,-0.296
-9.2,"It is a facility at this price, so I think it would be good to go with parents.",3.0,0.4404
+But too young children are cold in winter to swim outdoors, so only indoor swimming pools are available :)",14.0,0.9335,5
+8.0,Clean and the staff are kind,4.0,0.7269,0
+6.0,"It's a big hotel because it's a big regret because you can't enjoy 100 % in winter.It seems more like that because you can't use 100 % of a wide and cool swimming pool.I took a five -year -old child, had an additional cost of hotel, and used a hotel dinner buffet.In the case of 36 months or older, it is the same amount for the age of 12, so the amount is more expensive than the number of foods that can be eaten.If you subdivide the price or have more food for kids, it will help you to increase your home tourists.In the detail page, the cost of the number of people under 12 years of age is listed at 2,000 won, which seems to be necessary.In the season other than summer, I recommended it because I wanted to visit it in the summer or in the summer.ps.The view of the Super's Twin Room (upgrade) was a road view.You can see the road coming to Ecorland.I had to walk for 5 minutes to the lobby, and I heard that the same rooms close to the lobby are not recommended because they are the cheapest rooms for building wall views.However, because almost all facilities are on the lobby, family travelers will give up the view and assign a room close to the lobby.",10.0,0.8993,5
+10.0,It was the first time there was no humidifier in a 5 -star hotel.,-1.0,-0.296,5
+9.2,"It is a facility at this price, so I think it would be good to go with parents.",3.0,0.4404,5
 8.8,"I didn't expect much because the price was cheap
 I was so satisfied
 Free hot water pools were also the best.
-I had a child, two queen beds, and a free space.",7.0,0.9402
-10.0,Best,3.0,0.6369
+I had a child, two queen beds, and a free space.",7.0,0.9402,8
+10.0,Best,3.0,0.6369,3
 10.0,"First of all, it was the best in accommodation contact.
 It was useful for this, but it was useful.
-Best price ~ 👍",10.0,0.9349
+Best price ~ 👍",10.0,0.9349,3
 9.6,"The year -end trip to the end of the year
 I liked you
 Dinner buffet was also a gamer.
 Bedding is also very satisfying
 But the water temperature of the pool is too low
-The hot water pool was not high, so it was difficult to use the pool.",1.0,-0.5022
+The hot water pool was not high, so it was difficult to use the pool.",1.0,-0.5022,8
 9.2,"Too good value for money
-It was a hotel. Dinner buffet was also discounted for a discount period.",2.0,0.6705
+It was a hotel. Dinner buffet was also discounted for a discount period.",2.0,0.6705,5
 9.6,"It is a clean hotel located inside Eco Land.
 It was very quiet without even a car, but it wasn't not the facilities of the unit, but I had to swim, eat in buffet, sing in karaoke, and have been really comfortable.
-Of course there is a return doctor",4.0,0.7743
-10.0,"It was a hotel that I wanted to go to, but the staff are friendly, the pool is good, the room condition is good and it is a good place to live with the family.",11.0,0.9505
-10.0,It's good to be quiet and feel nature in the mountains!Outdoor pool hot water pool is also good.The rooms and toilets are also spacious and so satisfying.,7.0,0.794
+Of course there is a return doctor",4.0,0.7743,6
+10.0,"It was a hotel that I wanted to go to, but the staff are friendly, the pool is good, the room condition is good and it is a good place to live with the family.",11.0,0.9505,9
+10.0,It's good to be quiet and feel nature in the mountains!Outdoor pool hot water pool is also good.The rooms and toilets are also spacious and so satisfying.,7.0,0.794,8
 10.0,"The property is very good
-Satisfied with both breakfast dinner",5.0,0.7408
+Satisfied with both breakfast dinner",5.0,0.7408,7
 10.0,"Good room size and Simmons bed good
 It was also convenient for the structure where the bathroom and the bathroom were separated.
-100% doctor back to return",6.0,0.7003
+100% doctor back to return",6.0,0.7003,5
 9.6,"Families with children for more than adolescents can be a very pleasant trip with a living room type.
 I used the pool three times for 2 nights and 3 days, but it was so good and the evening buffet was good.
 Colkiji is full, so I came to the wine company and ate it.
 
 The golf course next to it is also possible, so the couple rounded it while the children were sleeping and the children ordered the breakfast room service ~
 I was able to eat two American breakfast.
-After rounding, take a 30%discount coupon for dinner ~",9.0,0.9263
+After rounding, take a 30%discount coupon for dinner ~",9.0,0.9263,5
 8.0,"I used the warm swimming pool well and played well and sleeped well ~ The lake was so pretty and good and the room was good !!
-However, there is only a buffet restaurant in the hostel, and 8,000 won for one croissant was a bit burdensome.Next time I have a lot of food to eat ~ I think I was satisfied with all.Breakfast buffet was also okay ~~",13.0,0.9799
-8.8,The best lodging in Jeju was the best in Jeju.The buffet was above average,6.0,0.8555
-7.2,"It was a pity that the water temperature was too lukewarm and only one swimming pool was operated in the hot mountains, and it was a pity for the price.",-4.0,-0.5267
-9.2,"Winter hot spring swimming was a great experience.It was beautiful to see the hostel, but it was more cozy.The heating facility was also warm to the floor, so it was like ondol ~ ^^ Recommended",11.0,0.9041
+However, there is only a buffet restaurant in the hostel, and 8,000 won for one croissant was a bit burdensome.Next time I have a lot of food to eat ~ I think I was satisfied with all.Breakfast buffet was also okay ~~",13.0,0.9799,7
+8.8,The best lodging in Jeju was the best in Jeju.The buffet was above average,6.0,0.8555,3
+7.2,"It was a pity that the water temperature was too lukewarm and only one swimming pool was operated in the hot mountains, and it was a pity for the price.",-4.0,-0.5267,8
+9.2,"Winter hot spring swimming was a great experience.It was beautiful to see the hostel, but it was more cozy.The heating facility was also warm to the floor, so it was like ondol ~ ^^ Recommended",11.0,0.9041,4
 10.0,"Go once and keep going here!
 Enjoy and eat comfortably with children
-Dinner is so good and breakfast is good",10.0,0.9297
+Dinner is so good and breakfast is good",10.0,0.9297,9
 9.6,"I've seen more expensive hotels, but I want to be the best hotel in my experience.
 The atmosphere like a fairy tale and the spacious room high quality amenity was so good that I could take a walk and walk around Eco Land.If you go, at least 2 nights
-And come.",12.0,0.9486
-10.0,It was a very satisfactory trip.,0.0,0.4201
-7.2,"I chose the room because I was so quiet that I slept.However, the unfortunate thing is that there are no facilities to be used late around, and restaurants have many places to close the door early.The outdoor swimming pool was a lot disappointing ㅎ ;;If the sun goes down, there is no place to go around, so it would be better to replenish the facilities in the hotel ~",-2.0,-0.7717
-10.0,"I stayed in Eco -Land for climbing Hallasan.First of all, the staff were all kind and the accommodation was very clean.If you have to go nearby next time, I would like to use it unconditionally.",6.0,0.7096
-8.0,I used it as a accommodation I found for rest in 2023.Especially swimming pools and buffets are recommended ^^,2.0,0.2023
-8.4,"The facilities are good, quiet and tidy.",3.0,0.4404
+And come.",12.0,0.9486,2
+10.0,It was a very satisfactory trip.,0.0,0.4201,5
+7.2,"I chose the room because I was so quiet that I slept.However, the unfortunate thing is that there are no facilities to be used late around, and restaurants have many places to close the door early.The outdoor swimming pool was a lot disappointing ㅎ ;;If the sun goes down, there is no place to go around, so it would be better to replenish the facilities in the hotel ~",-2.0,-0.7717,6
+10.0,"I stayed in Eco -Land for climbing Hallasan.First of all, the staff were all kind and the accommodation was very clean.If you have to go nearby next time, I would like to use it unconditionally.",6.0,0.7096,0
+8.0,I used it as a accommodation I found for rest in 2023.Especially swimming pools and buffets are recommended ^^,2.0,0.2023,5
+8.4,"The facilities are good, quiet and tidy.",3.0,0.4404,6
 10.0,"The facilities are clean, comfortable and good.
 Children are also very satisfied with
-Restaurant food is also very satisfying.",9.0,0.9359
-9.6,"It's a new accommodation, so it's clean and fun.",6.0,0.7414
+Restaurant food is also very satisfying.",9.0,0.9359,0
+9.6,"It's a new accommodation, so it's clean and fun.",6.0,0.7414,0
 9.6,"Quiet night
 In the forest
 Drinking cool air
@@ -590,32 +590,32 @@ Good bed
 I like breakfast
 
 Substrate toothbrush toothpaste
-Take it",10.0,0.9169
-9.2,The room was spacious and the pool was good haha,7.0,0.7096
+Take it",10.0,0.9169,6
+9.2,The room was spacious and the pool was good haha,7.0,0.7096,9
 10.0,"Facility hygiene, etc.
 It is good to be families and couples.
-Next time, I will visit again if I go to Jeju Island.",3.0,0.4404
+Next time, I will visit again if I go to Jeju Island.",3.0,0.4404,5
 8.8,"When I was with my child, it took me a little longer to swim, but I used it well.I got a discount on Ecorand and enjoyed it and it was close to the surrounding ride and horse riding.The room is wider than anywhere else and there is a shower gown for children.
 It is also convenient to separate the bathroom and the bathroom.
 Swimming Pool Cafe Art Souvenir Shop ... I'm satisfied.
-It would be better to have a slippers for multi -use so that you can go to the pool.",6.0,0.9186
+It would be better to have a slippers for multi -use so that you can go to the pool.",6.0,0.9186,5
 8.8,"Located inside Ecorand, the location is somewhat inconvenient, but it is clean and very good.
 
-It seems to be a good hotel for families to enjoy leisurely.",8.0,0.9507
-8.4,I like room condition.The location is in a remote place.,2.0,0.3612
-9.2,It's a good place to be a good value for money,6.0,0.802
+It seems to be a good hotel for families to enjoy leisurely.",8.0,0.9507,5
+8.4,I like room condition.The location is in a remote place.,2.0,0.3612,5
+9.2,It's a good place to be a good value for money,6.0,0.802,9
 9.6,"It was in the theme park and it was so quiet and good that it was rich in the mountains.
 I've been healing.
-100%doctor return.",5.0,0.7759
-8.4,But the location is too far to go and Hana Romat is far away.,0.0,0.0
+100%doctor return.",5.0,0.7759,6
+8.4,But the location is too far to go and Hana Romat is far away.,0.0,0.0,5
 10.0,"It was good to stay because the facilities were well done.
-Especially the pool was so good !!!Recommended 👍",8.0,0.8706
+Especially the pool was so good !!!Recommended 👍",8.0,0.8706,9
 9.6,"The price is so good and the pool is especially pretty
-It was nice to have a clean accommodation",9.0,0.9142
+It was nice to have a clean accommodation",9.0,0.9142,0
 9.6,"I did a night at the Eco Land Hotel.The road to the hotel was full of snow on both sides.
 The rooms are spacious, the bathroom is spacious, and the breakfast is delicious.
-Next time, I have to go to the pool and go to Eco Land.Hotel with beautiful night view ~~ ^^",8.0,0.8225
-9.2,The swimming pool is a bit cold and the difference is satisfied because it is winter :),2.0,0.7003
+Next time, I have to go to the pool and go to Eco Land.Hotel with beautiful night view ~~ ^^",8.0,0.8225,5
+9.2,The swimming pool is a bit cold and the difference is satisfied because it is winter :),2.0,0.7003,7
 9.6,"Really ... literally it was so good !!
 
 Looking at the snow piled up, the feeling of being in a warm Infinity pool can't be explained in words.I think summer is so good.
@@ -626,13 +626,13 @@ The hotel itself was like a fairy tale castle, so I could get concentric.Especia
 
 You may be worried about the hotel's location, but don't worry because the shuttle is operated from the airport for a certain time!The knights were really kind and good !!
 
-The staff were kind and enjoyed it.The next time I go to Jeju Island, I will make a reservation for the Eco Land Hotel!",31.0,0.9916
-7.6,The hotel that had a good stay when it was cold and had no place to go in Jeju's snowy weather,2.0,0.1779
-7.6,"There is no place to eat, but there is no place to eat",-2.0,-0.5267
-10.0,The snow was so fantastic in Jeju.No matter how grateful you were to pick up my family even when it was snowing and no longer go by car around the hotel.I'll visit you again,6.0,0.7591
-8.8,"It is so good for golf exercise or resort.It is a family trip accompanied by a preliminary college student, so there seems to be a limit to the place where the MG generation can share around.",4.0,0.7133
+The staff were kind and enjoyed it.The next time I go to Jeju Island, I will make a reservation for the Eco Land Hotel!",31.0,0.9916,5
+7.6,The hotel that had a good stay when it was cold and had no place to go in Jeju's snowy weather,2.0,0.1779,5
+7.6,"There is no place to eat, but there is no place to eat",-2.0,-0.5267,5
+10.0,The snow was so fantastic in Jeju.No matter how grateful you were to pick up my family even when it was snowing and no longer go by car around the hotel.I'll visit you again,6.0,0.7591,5
+8.8,"It is so good for golf exercise or resort.It is a family trip accompanied by a preliminary college student, so there seems to be a limit to the place where the MG generation can share around.",4.0,0.7133,5
 9.2,"It was the best Christmas Eve
-The pool is very good ~~",6.0,0.8122
+The pool is very good ~~",6.0,0.8122,3
 10.0,"Room condition is so good
 Infiniti Pool & Jacuzzi Best
 Located in Gotjawal, the air is so good
@@ -640,21 +640,21 @@ The Eco Land Theme Park was also good for a 50 -ferr discount.
 Gallery Cafe Bakery is completely delicious.
 I recommend breakfast and dinner a little bit more than I thought.It's a hotel buffet, but I think it would be nice if the Jeju menu was added.
 Recommended for a rest in the forest.
-I have a doctor of return.",22.0,0.9516
-6.8,"I had to buy up to two water in the amenity, and it was a pity that the blanket was not available at all.I stayed for two days, but the next day, the mat cover was not replaced.I had a lot of snow, but the snow removal was not properly, but when I entered, I moved to 10 ~ 20 kilometers, but the car was sometimes vain and the car was in trouble for 10 minutes.I think it's better to avoid it when it comes to snow.",-3.0,-0.7783
-10.0,Don't be famous ...,2.0,0.0
-10.0,"Travel like a Christmas family, enjoyable taste and food dinner buffet ... Really good ...",7.0,0.8221
+I have a doctor of return.",22.0,0.9516,5
+6.8,"I had to buy up to two water in the amenity, and it was a pity that the blanket was not available at all.I stayed for two days, but the next day, the mat cover was not replaced.I had a lot of snow, but the snow removal was not properly, but when I entered, I moved to 10 ~ 20 kilometers, but the car was sometimes vain and the car was in trouble for 10 minutes.I think it's better to avoid it when it comes to snow.",-3.0,-0.7783,5
+10.0,Don't be famous ...,2.0,0.0,5
+10.0,"Travel like a Christmas family, enjoyable taste and food dinner buffet ... Really good ...",7.0,0.8221,5
 9.6,"It was so good to use the family unit
 The buffet is also delicious and romantic.
 The children's pool was also used.
 But it's cold when moving 😂 It's a bit unfortunate
-That tastes in winter",6.0,0.1458
-8.8,The pool is good and the scenery is pretty,4.0,0.7269
+That tastes in winter",6.0,0.1458,5
+8.8,The pool is good and the scenery is pretty,4.0,0.7269,9
 8.8,"The day I visited was Christmas on December 24
 At the same time, the road that snowed a lot was a little blocked and I had to be nervous because of my eyes.However, employees were able to enter safely because they were good at snowfalls or guidance.
 The reason I chose this place was that unlike other hotels, the landscaping was located in a beautiful forest, a room and a spa in the pool.
-In the evening, it seemed like I came to another country while watching the forests swimming and snowing in a hot water pool.The entire site and area are spacious, but it's small in hotel.But it was like a warm feeling like a Smurf village.",13.0,0.9312
-9.2,The hot water pool is also suitable and the buffet is the best price.,5.0,0.6369
+In the evening, it seemed like I came to another country while watching the forests swimming and snowing in a hot water pool.The entire site and area are spacious, but it's small in hotel.But it was like a warm feeling like a Smurf village.",13.0,0.9312,5
+9.2,The hot water pool is also suitable and the buffet is the best price.,5.0,0.6369,8
 9.2,"I struggled on the snow and arrived.
 It was the second visit this time.
 The room condition is comfortable and the room toilet is spacious and easy to use.
@@ -665,68 +665,68 @@ The service is better than the Chosun Hotel and be kind ~
 Breakfast buffet is also delicious
 Everybody is delicious.
 The glasses who seemed to be the chief chef who were in the kitchen at the time of the dinner were cooked and cooked, so the jjajang was too bad and so wonderful.
-I leave good memories.",14.0,0.9811
+I leave good memories.",14.0,0.9811,1
 9.6,"The room was not a carpet, so it was good because it was good and I liked bedding.
-All of the facilities, hot water pools and karaoke breakfast buffets, have been satisfactory.",8.0,0.8916
-9.6,"I visited when it was snowing, so it was muted until I arrived, but the snow was so beautiful.I didn't visit the pool because of my poor condition, but I was also in the hotel thanks to the Christmas Cooking Class and Gallery Cover.The room is spacious, clean and warm, so I rested well.If you loosen me, I have to visit once more :)",7.0,0.8761
-10.0,great,3.0,0.6249
-10.0,Eco Land -chan,0.0,0.0
+All of the facilities, hot water pools and karaoke breakfast buffets, have been satisfactory.",8.0,0.8916,8
+9.6,"I visited when it was snowing, so it was muted until I arrived, but the snow was so beautiful.I didn't visit the pool because of my poor condition, but I was also in the hotel thanks to the Christmas Cooking Class and Gallery Cover.The room is spacious, clean and warm, so I rested well.If you loosen me, I have to visit once more :)",7.0,0.8761,5
+10.0,great,3.0,0.6249,4
+10.0,Eco Land -chan,0.0,0.0,5
 9.6,"It was a very comfortable accommodation.It was hard to come down too much, but the accommodation itself is so satisfying.When you arrive, it is cold and you can lower your luggage one by one.
-Hotel ~ Dinner was burdensome, so I had breakfast and it was so delicious.",4.0,0.4953
+Hotel ~ Dinner was burdensome, so I had breakfast and it was so delicious.",4.0,0.4953,5
 9.2,"On December 7, he stayed at the Eco -Land Hotel beyond the crowd of friends and Jungmun Tourism Complex.However, the surrounding area was dark because I was on my body and moved too late than scheduled time.In response to the difficulty of walking travel using public transportation, I asked the hotel front to pick up at Dol Culture Park.The hotel car is already over, but he will find out more and contact.About 10 minutes later, the vehicle has been prepared in an emergency.It's dangerous, so don't cross the street
 A male hotelier article even a guide to get off the bus.Thank you so much.
 I was grateful for the ms.whang (?), And UP Grade with a nice room.
 The breakfast was delicious, and the first hydrangea car was good.
-In the spring, we will travel to Noksan -ro and visit the cherry blossoms and rape flower flowers.It is a healing rhythm of Jeju Island travel.",7.0,0.84
+In the spring, we will travel to Noksan -ro and visit the cherry blossoms and rape flower flowers.It is a healing rhythm of Jeju Island travel.",7.0,0.84,5
 8.4,"The hotel itself is so pretty and the rooms are very clean
 It's only in a remote place, so it's ambiguous to go out and the convenience is expensive. It's already known ... but it's okay to be free.
-Breakfast is not expensive, but there was nothing to eat",4.0,0.8848
-9.2,"It was a bit dangerous to visit and come and go on a lot of snow, but there was no problem because I kept doing snow removal!It was nice to feel like a village in Europe!lol",3.0,-0.2579
+Breakfast is not expensive, but there was nothing to eat",4.0,0.8848,5
+9.2,"It was a bit dangerous to visit and come and go on a lot of snow, but there was no problem because I kept doing snow removal!It was nice to feel like a village in Europe!lol",3.0,-0.2579,5
 9.2,"It was clean and good
 Everyone is kind
 It was a day when the day 2 nights came.
-The pool was the best",10.0,0.9217
-10.0,It was so good to stay at the Eco Land Hotel with my daughter before college.,3.0,0.5777
-9.6,I am so satisfied,2.0,0.4754
+The pool was the best",10.0,0.9217,0
+10.0,It was so good to stay at the Eco Land Hotel with my daughter before college.,3.0,0.5777,5
+9.6,I am so satisfied,2.0,0.4754,7
 9.2,"Clean and comfortable.
-I want to come even in summer.",5.0,0.743
-9.6,"It was one of the places I really wanted to go to Eco Land, but it was so good to come.",3.0,0.7279
+I want to come even in summer.",5.0,0.743,2
+9.6,"It was one of the places I really wanted to go to Eco Land, but it was so good to come.",3.0,0.7279,5
 10.0,"You can solve it all in the hotel
 To go to the pool, you have to cross the outdoor bridge.
 There's a little distance, but not when it's very cold
 It's worth going !!
-To the fitness room!If you like sports, recommend here 👍",8.0,0.9212
+To the fitness room!If you like sports, recommend here 👍",8.0,0.9212,5
 10.0,"The staff were so kind
 I am relaxing thanks to the clean ROOM condition.
-Please leave only one water purifier at a convenience store ㅠㅠ ..",6.0,0.9385
+Please leave only one water purifier at a convenience store ㅠㅠ ..",6.0,0.9385,0
 10.0,"I slept well because it was soft and loved
-The swimming pool was not very warm and the location was far from the swimming pool, so it would be a bronze statue, but it was good because it was a different experience.",7.0,0.7513
+The swimming pool was not very warm and the location was far from the swimming pool, so it would be a bronze statue, but it was good because it was a different experience.",7.0,0.7513,5
 10.0,"I wanted to be isolated due to sudden heavy snow, but I was worried that I would be isolated because I didn't go to the hotel hotel, but I was worried that I was worried that I would be isolated.The staff were very grateful for clearing my eyes from time to time.Despite the cold ...
 It was the second visit, but the hotel room was clean and ondol, the floor was warm, and the swimming pool was in operation.
 And if you are an extra guest, please try Eco Land Tour ~!I didn't expect much, but in the winter, the train is on the train.
 
-I have been relaxing in many ways.Recommended five stars",-3.0,0.7834
-9.6,It was good to be able to rest and play at a reasonable price,3.0,0.6486
+I have been relaxing in many ways.Recommended five stars",-3.0,0.7834,5
+9.6,It was good to be able to rest and play at a reasonable price,3.0,0.6486,5
 9.6,"All of the staff are friendly
 I took my child and the hygiene was good!
 Neat ~
 
 The food around the hotel condition was good
-I want to go again because the staff are kind 👍🏻",11.0,0.9432
+I want to go again because the staff are kind 👍🏻",11.0,0.9432,1
 9.2,"The four -season swimming pool was so good
-The pool is the best",6.0,0.8377
+The pool is the best",6.0,0.8377,3
 8.8,"It is such a space where you can get out of reality and rest quietly with nature.
-There is no room for rooms, so it's so good to spend your time in any remote place.",2.0,0.435
-7.2,"The room is good, but the quality of the room service is frozen milk kit, and the breakfast room service is in a remote place where there is no restaurant around the hotel location.The meal level is worse than other three -star hotels, while the price is 5 stars.Small pizza at the level of frozen foods is high, but only pickups are available.",1.0,-0.7184
-10.0,"If you want to swim in winter, please go here!Nevertheless ~",2.0,0.4389
-5.6,Small -scale facilities compared to size,0.0,0.0
-9.6,There are many things to enjoy in the hotel.You can see everything while riding the train.,2.0,0.4939
-8.4,"I didn't use the swimming pool on a rainy day, but there were a lot of people who went to the swimming pool even though it rained.We were assigned to the inner room of the Forest -dong, but the forest dong is a separate elevator and the distance is too far, so it was inconvenient to use the facilities.It would be better to plan and enter the hostel.Other than that, the ROM condition was good, and the restrooms and the shower were separated, there was a balcony, the curtains with thick blackout curtains and chiffon curtains, and the ondol heating was better.",4.0,0.8362
-8.8,The price is good and kind and good !!,8.0,0.8684
-9.2,"Nothing was good. The facilities were clean, the staff were injured and the food was delicious!However, it was a meal that was comparable to the room price.",6.0,-0.4015
-9.6,"I felt like a fire, and the facility was good and the swimming pool was so cool.The room condition was good and the price was cheap and so good.However, the convenience stores and restaurants operated by the hotel were a bit expensive.If you buy something delicious around you, it's a good hotel.",16.0,0.91
+There is no room for rooms, so it's so good to spend your time in any remote place.",2.0,0.435,5
+7.2,"The room is good, but the quality of the room service is frozen milk kit, and the breakfast room service is in a remote place where there is no restaurant around the hotel location.The meal level is worse than other three -star hotels, while the price is 5 stars.Small pizza at the level of frozen foods is high, but only pickups are available.",1.0,-0.7184,5
+10.0,"If you want to swim in winter, please go here!Nevertheless ~",2.0,0.4389,2
+5.6,Small -scale facilities compared to size,0.0,0.0,5
+9.6,There are many things to enjoy in the hotel.You can see everything while riding the train.,2.0,0.4939,5
+8.4,"I didn't use the swimming pool on a rainy day, but there were a lot of people who went to the swimming pool even though it rained.We were assigned to the inner room of the Forest -dong, but the forest dong is a separate elevator and the distance is too far, so it was inconvenient to use the facilities.It would be better to plan and enter the hostel.Other than that, the ROM condition was good, and the restrooms and the shower were separated, there was a balcony, the curtains with thick blackout curtains and chiffon curtains, and the ondol heating was better.",4.0,0.8362,5
+8.8,The price is good and kind and good !!,8.0,0.8684,9
+9.2,"Nothing was good. The facilities were clean, the staff were injured and the food was delicious!However, it was a meal that was comparable to the room price.",6.0,-0.4015,0
+9.6,"I felt like a fire, and the facility was good and the swimming pool was so cool.The room condition was good and the price was cheap and so good.However, the convenience stores and restaurants operated by the hotel were a bit expensive.If you buy something delicious around you, it's a good hotel.",16.0,0.91,9
 9.6,"It was a hotel that I chose to stay at the pension for two days, and the pension was so good, but the pension was so good, but the room was good, the room was so clean, quiet and spacious, and the swimming pool was a little cold, but it was a little cold.
-Next time, if you go to Jeju, I will stay here.",12.0,0.9603
+Next time, if you go to Jeju, I will stay here.",12.0,0.9603,6
 8.4,"The pool scenery is wonderful ^^
 I used the dinner buffet, but it was warm until I finished.
 Buffet staff are also kind and I want to go back
@@ -734,13 +734,13 @@ Buffet staff are also kind and I want to go back
 It was a pity that the water was broken.
 
 There is no convenience store and there is an expensive supermarket
-And it was good except that there was not much TV channel!",7.0,0.63
-9.6,It was the best in Jeju Island.,3.0,0.6369
-8.4,I hope there was an additional facilities and restaurants in the hotel.,2.0,0.4404
-10.0,"The environment such as the pillow blanket mattress is comfortable, so I want to use it next time.",3.0,0.6176
-10.0,The facility is so clean and the staff are so kind.,4.0,0.8341
+And it was good except that there was not much TV channel!",7.0,0.63,5
+9.6,It was the best in Jeju Island.,3.0,0.6369,3
+8.4,I hope there was an additional facilities and restaurants in the hotel.,2.0,0.4404,5
+10.0,"The environment such as the pillow blanket mattress is comfortable, so I want to use it next time.",3.0,0.6176,2
+10.0,The facility is so clean and the staff are so kind.,4.0,0.8341,0
 9.2,"Okay! Return to the wall 10000
-%Of the employees are very kind!",2.0,0.7333
+%Of the employees are very kind!",2.0,0.7333,5
 9.6,"I heard that it was made in 21 years
 I've been to Ho -Cancer because I like Ho -Cancer, but it's not as gorgeous as a famous company hotel (it's good to be that part).It was comfortable every day for the person to clean it every day.I would like to express my sincere gratitude to Kang Ok -bun and Kang Ok -ja.Even though it was a basic room, the bathroom was spacious and comfortable.
 It was good for the lodging to come and feel Jeju. The pool was wide enough and deep.
@@ -748,19 +748,19 @@ It was really annoying to spit that only the uncles could do it in the pool, wea
 Anyway, the second thing to talk about like that
 It is clear that the hotel is a very good hotel from the customer's point of view.What I felt while using it was not empty words
 I really thought about it for the real customers.
-If you go to Jeju, now here ~~~~",22.0,0.9906
-10.0,The staff was friendly and the atmosphere was good,5.0,0.7269
-10.0,"I went to the Eco -Land Theme Park, but I have the first hotel.If you stay, you will also give you a 50 -professional discount on buffet 20 Pro theme Park.",0.0,0.0
+If you go to Jeju, now here ~~~~",22.0,0.9906,5
+10.0,The staff was friendly and the atmosphere was good,5.0,0.7269,1
+10.0,"I went to the Eco -Land Theme Park, but I have the first hotel.If you stay, you will also give you a 50 -professional discount on buffet 20 Pro theme Park.",0.0,0.0,5
 9.2,"The buffet is a bit disappointing, but it's good
 Clean and employees are also
-Pool the best",6.0,0.9201
+Pool the best",6.0,0.9201,0
 9.2,"There were not many people on weekdays, and the room condition and facilities were so neat and good!However, there is no toothbrush toothpaste, so if you have anyone else !!!And the reason I came to Jeju Island was the biggest winter swimming, but I really enjoyed it without real regret !!!I have a doctor in Eco Land.
-However, it was a pity that the location was not around, but the other part was satisfied.",2.0,0.9151
+However, it was a pity that the location was not around, but the other part was satisfied.",2.0,0.9151,5
 10.0,"The bedding was good and the soundproofing was good
-Next time, I want to come to Ho Cance ~",7.0,0.7269
+Next time, I want to come to Ho Cance ~",7.0,0.7269,2
 10.0,"It's a hotel that seems to come to a fairy tale country.
-I think it's so good to travel with funny young stories like a maze",9.0,0.8458
-8.8,"It's a resort -type hotel, so it's a pity that the restaurants are far away, but the facilities and rooms in the hotel are satisfactory.It was good because there was no warm water pool, but there were no people.It is a better hotel for those who use Eco -Land to stay.",2.0,0.5734
+I think it's so good to travel with funny young stories like a maze",9.0,0.8458,5
+8.8,"It's a resort -type hotel, so it's a pity that the restaurants are far away, but the facilities and rooms in the hotel are satisfactory.It was good because there was no warm water pool, but there were no people.It is a better hotel for those who use Eco -Land to stay.",2.0,0.5734,5
 10.0,"I went cheaply, but the room hotel feels neat in the fairy tale
 Swimming pool hot water pool
 There was no person
@@ -768,11 +768,11 @@ There was no person
 The road to the pool is good and at night
 Lighting is also awesome
 5 -star seems to be right
-Being excited",9.0,0.9413
-9.2,"Unchi -chan in the forest.It was spacious, toilet and good overall.The accommodation is so pretty.Mom also likes it",7.0,0.7152
+Being excited",9.0,0.9413,8
+9.2,"Unchi -chan in the forest.It was spacious, toilet and good overall.The accommodation is so pretty.Mom also likes it",7.0,0.7152,5
 7.6,"The golf course is cool and the hotel is clean
-Balcorny too.It's wide.I felt peaceful",5.0,0.802
-10.0,The staff were also kind and breakfast was delicious,5.0,0.7964
+Balcorny too.It's wide.I felt peaceful",5.0,0.802,5
+10.0,The staff were also kind and breakfast was delicious,5.0,0.7964,1
 9.2,"I saw a swimming pool view rather than anything else and I reserved it at a glance!
  But I couldn't swim….
 Outdoor hot water grass is good, but
@@ -784,17 +784,17 @@ Still, I am satisfied because it is so good in terms of taste and quality.
 The staff were so kind to thank you.
 Recommended for those who enjoy hocs
 However, if you are trying to go to a tourist destination, I think it was a little difficult to move the path in the middle of geography.
-But next time I will go again to enjoy it.",19.0,0.9884
-9.6,"Once you enter the hotel, it's hard to come out.The advantage is that the facilities and restaurants are so good that you don't have to come out, and it's time to go to the mountain road.However, the staff were friendly and the accommodation was good enough to surpass this shortcoming.I plan to come back to Jeju Island next spring or summer, and I will stay at the Eco Land Hotel.",9.0,0.9059
+But next time I will go again to enjoy it.",19.0,0.9884,1
+9.6,"Once you enter the hotel, it's hard to come out.The advantage is that the facilities and restaurants are so good that you don't have to come out, and it's time to go to the mountain road.However, the staff were friendly and the accommodation was good enough to surpass this shortcoming.I plan to come back to Jeju Island next spring or summer, and I will stay at the Eco Land Hotel.",9.0,0.9059,2
 8.4,"Clean and kind
 Everything is perfect except location
-Especially the pool is all -time class",7.0,0.8689
-9.2,The pool is also good!But the internal convenience store is too expensive.,3.0,0.0
-10.0,Satisfaction with the price was also good for the hot water hygiene.,3.0,0.7003
-9.6,"It was a family trip with the children, so I looked for a lot of reviews and decided after my hard work.Thank you to the hotels and hoteliers who have made good memories for both children and our families!",4.0,0.4199
-9.6,"It's good to do it.It's small, but there's a playroom and the pool is shallow.The hotel dinner buffet was also satisfactory.",3.0,0.6369
-10.0,The swimming pool facility was operated with warm hot water and it was so good to be able to enjoy the winter water.The rooms are clean and the view is so good that I have relaxed.,13.0,0.9551
-10.0,"I had a home page, so I had a very good time in Ecorand.The accommodation was really good and the eco -land theme park experience was good.There is a plan to travel to Jeju next year, but I will also catch it as Eco Land again ^^",9.0,0.5356
+Especially the pool is all -time class",7.0,0.8689,0
+9.2,The pool is also good!But the internal convenience store is too expensive.,3.0,0.0,5
+10.0,Satisfaction with the price was also good for the hot water hygiene.,3.0,0.7003,8
+9.6,"It was a family trip with the children, so I looked for a lot of reviews and decided after my hard work.Thank you to the hotels and hoteliers who have made good memories for both children and our families!",4.0,0.4199,5
+9.6,"It's good to do it.It's small, but there's a playroom and the pool is shallow.The hotel dinner buffet was also satisfactory.",3.0,0.6369,5
+10.0,The swimming pool facility was operated with warm hot water and it was so good to be able to enjoy the winter water.The rooms are clean and the view is so good that I have relaxed.,13.0,0.9551,8
+10.0,"I had a home page, so I had a very good time in Ecorand.The accommodation was really good and the eco -land theme park experience was good.There is a plan to travel to Jeju next year, but I will also catch it as Eco Land again ^^",9.0,0.5356,5
 10.0,"I like it here so much
 I used it for 3 nights and it's a shame today.
 The staff are very kind.
@@ -816,63 +816,63 @@ I like the smell of bread !!!!!Bakery is delicious here !!
 
 I haven't used the lodging in Jeju Island and I have never written a review, but it's a hotel that made it possible to stay comfortable and enjoyable during the raining Jeju 3 nights.
 
-Thank you for the employees of the Eco Land Hotel ^^",45.0,0.9978
-9.6,Everything is good for the interior or pool!,3.0,0.4926
+Thank you for the employees of the Eco Land Hotel ^^",45.0,0.9978,1
+9.6,Everything is good for the interior or pool!,3.0,0.4926,9
 8.4,"In some cases, I was worried that I couldn't clean the room room.The front response was very kind and bothersome to ask me.Cleaning on the night is also clean.
-But in winter, the room was so hot that it might have risen to 20 degrees.It was too hot to open the window.I would rather turn on the air conditioner in summer, but it was hotter because only the heater came out ...",1.0,-0.3167
+But in winter, the room was so hot that it might have risen to 20 degrees.It was too hot to open the window.I would rather turn on the air conditioner in summer, but it was hotter because only the heater came out ...",1.0,-0.3167,0
 10.0,"It's a family trip, but four rooms stayed ^^
 The buffet was a bit unfortunate for the price
-The outdoor swimming pool was in operation in October and it was quite big and good.",4.0,0.0633
-10.0,Overwhelming,0.0,0.0
-10.0,"I was so good at it during my trip to Jeju, so I played well and rested well!The air was good, the atmosphere was good, and the facilities were good, so there was nothing dissatisfied.",10.0,0.9625
+The outdoor swimming pool was in operation in October and it was quite big and good.",4.0,0.0633,5
+10.0,Overwhelming,0.0,0.0,5
+10.0,"I was so good at it during my trip to Jeju, so I played well and rested well!The air was good, the atmosphere was good, and the facilities were good, so there was nothing dissatisfied.",10.0,0.9625,9
 10.0,"The pool was good
 The breakfast was so delicious, including Jangguk, Korean food was so delicious and the location was good.
 The heating is so good that I dried up so I woke up several times
-It was okay to sleep in the door, and it was good to be clean and soft. I wanted to go again.",20.0,0.9768
+It was okay to sleep in the door, and it was good to be clean and soft. I wanted to go again.",20.0,0.9768,9
 7.6,"As clean as it is new and it's still so in the condition, Samdasoo is a good room
 There is no kindness of the desk staff
 The operation of Eco Land is not active yet ..
 The hot water pool was good, but the water temperature was a bit lukewarm, so it was a little cold and the road to walk to the pool
 But it was fun to have a hot water pool
-Clean and meticulous room condition is the best",19.0,0.9602
-9.2,"The weather was cold, so the pool was used very short, but it is a place I want to go back when it is good.",4.0,0.6486
+Clean and meticulous room condition is the best",19.0,0.9602,8
+9.2,"The weather was cold, so the pool was used very short, but it is a place I want to go back when it is good.",4.0,0.6486,2
 9.6,"All rooms are satisfied with both convenience facilities!I liked a lot of children from 6 years old and 3 years old ~
-However, it is a bit uncomfortable because it has to be externally when using the pool.",2.0,0.5093
-4.8,"There is an Infinity grass, but there is no reason to go out of the grass with a desolate mountain view.The location is ambiguous, so it's inconvenient to go out and it's difficult.Even the convenience store is very uncomfortable because it has to go for more than 5 minutes.There is a souvenir shop to buy simple things in the facility, but there are no types of things early and there are many types of things.I asked if there was something for emergency medicine at night, but the staff didn't have any digestive agents, so I went to the convenience store.The resort was big and the copper line was inefficient, so I had to walk a lot inside.I don't seem to go again.Rather, mythology was better.",-8.0,-0.9101
+However, it is a bit uncomfortable because it has to be externally when using the pool.",2.0,0.5093,7
+4.8,"There is an Infinity grass, but there is no reason to go out of the grass with a desolate mountain view.The location is ambiguous, so it's inconvenient to go out and it's difficult.Even the convenience store is very uncomfortable because it has to go for more than 5 minutes.There is a souvenir shop to buy simple things in the facility, but there are no types of things early and there are many types of things.I asked if there was something for emergency medicine at night, but the staff didn't have any digestive agents, so I went to the convenience store.The resort was big and the copper line was inefficient, so I had to walk a lot inside.I don't seem to go again.Rather, mythology was better.",-8.0,-0.9101,5
 10.0,"It was a little unfortunate because of the inland side
- As you enjoy the scenery around you from the entrance, the family feels satisfied and relaxes comfortably.The viewing of the gallery in the basement of the hotel is also impressive, and the hotel market is also very cute.When I saw the swimming pool, I regretted that I didn't prepare for a swimsuit, and at the same time, I wanted to use all the convenience facilities of the hotel.It was uncomfortable because it was not set if it was forbidden to use the knife for breakfast.It was too hot in winter because the room temperature was not smooth.It will be promised to come back in the summer, and then use the eco -land package at that time.",6.0,0.5563
-10.0,Winter night is so good,3.0,0.5777
-10.0,It was really good and the pool was good,6.0,0.7496
-9.2,"Neat and good facilities.Except for the ambiguous location, it is satisfactory for the price.",3.0,0.8126
+ As you enjoy the scenery around you from the entrance, the family feels satisfied and relaxes comfortably.The viewing of the gallery in the basement of the hotel is also impressive, and the hotel market is also very cute.When I saw the swimming pool, I regretted that I didn't prepare for a swimsuit, and at the same time, I wanted to use all the convenience facilities of the hotel.It was uncomfortable because it was not set if it was forbidden to use the knife for breakfast.It was too hot in winter because the room temperature was not smooth.It will be promised to come back in the summer, and then use the eco -land package at that time.",6.0,0.5563,5
+10.0,Winter night is so good,3.0,0.5777,9
+10.0,It was really good and the pool was good,6.0,0.7496,9
+9.2,"Neat and good facilities.Except for the ambiguous location, it is satisfactory for the price.",3.0,0.8126,5
 10.0,"Honestly, I was very surprised to keep a big swimming pool like Eco Land during the winter season, and I had fun with my child.It was good to do it ~~ There was a place where I could exercise, so I stopped by for a while, but the facilities were well managed.
-The room was basic satisfaction haha",12.0,0.9451
-10.0,I'm so satisfied ~ I want to go back ^^,3.0,0.5678
+The room was basic satisfaction haha",12.0,0.9451,5
+10.0,I'm so satisfied ~ I want to go back ^^,3.0,0.5678,7
 8.8,"Fit for water play
-The facilities are good and the resort is a bit vague.",2.0,0.7506
+The facilities are good and the resort is a bit vague.",2.0,0.7506,5
 9.6,"It was so good and my parents
 It was a large family trip with my brothers, but it's too much
-It was good",6.0,0.8168
-10.0,It is one of the most recommended accommodations when traveling with a child ~~ ^^ The kindness of staff steaming and the hygiene of the hotel are the best ~ I have been enjoying the hotel's hotel pool next door ~~ I am going to travel here too.,9.0,0.9134
+It was good",6.0,0.8168,9
+10.0,It is one of the most recommended accommodations when traveling with a child ~~ ^^ The kindness of staff steaming and the hygiene of the hotel are the best ~ I have been enjoying the hotel's hotel pool next door ~~ I am going to travel here too.,9.0,0.9134,5
 8.8,"It's relatively new, so it's clean
 The price is also cheap, but the location is a bit too bad!
-And it's a twin room, so the room is smaller than I thought.",-1.0,-0.619
+And it's a twin room, so the room is smaller than I thought.",-1.0,-0.619,0
 9.2,"The feeling of the appearance image is in the European village
 Perfect as a transition course.
-The Infinity Pool was also so fun to play in the winter.I stayed a day, but I felt tired!",6.0,0.36
-9.2,exorcism,0.0,0.0
+The Infinity Pool was also so fun to play in the winter.I stayed a day, but I felt tired!",6.0,0.36,5
+9.2,exorcism,0.0,0.0,5
 9.2,"Due to the nature of Jeju Island, there are many roads without streetlights when the sun goes over, so I checked in late time.But it was also quiet and good to walk in the morning.
 The breakfast was also delicious, so I ate enough to burst, and it was the best because it was both noodles and Korean soup.
 The staff were friendly and floor heating, and it was warm and at the end of October.
-However, it is not a convenience store, but there is a store that sells convenience goods, and there is nothing around, so I thought it would be nice to be late even if it was operated unmanned.",15.0,0.9032
-8.8,The Eco Land Theme Park was also good and the pool for children to use was impressive. Thank you for taking care of the gown.,10.0,0.8979
-9.6,Too warm and comfortable hotels are clean and good,8.0,0.8689
-7.6,"Location 늨 It's far from the busy street, but it's good.The breakfast is a bit expensive and there are few guests on the rain?I think there are many stores inside, there are many empty spaces and fewer employees.However, there are only two swimming pools to be satisfied with the price.",4.0,0.3612
+However, it is not a convenience store, but there is a store that sells convenience goods, and there is nothing around, so I thought it would be nice to be late even if it was operated unmanned.",15.0,0.9032,5
+8.8,The Eco Land Theme Park was also good and the pool for children to use was impressive. Thank you for taking care of the gown.,10.0,0.8979,5
+9.6,Too warm and comfortable hotels are clean and good,8.0,0.8689,0
+7.6,"Location 늨 It's far from the busy street, but it's good.The breakfast is a bit expensive and there are few guests on the rain?I think there are many stores inside, there are many empty spaces and fewer employees.However, there are only two swimming pools to be satisfied with the price.",4.0,0.3612,5
 9.6,"The rooms are clean and have been able to use various facilities such as hot water pools and breakfast buffets at low prices.
 
-One thing that's unfortunate is that people who don't stay in Eco Land don't know if they use hotel facilities, but there were employees who asked if they were guests.But 'Are you not staying here?'I didn't feel good because I asked in a doubt and way of saying.The rest of the staff were all kind and good.",9.0,-0.6776
-10.0,"I was in a remote place in Jocheon -eup and I was worried about the poor weather, but it was fun enough to relax through the swimming pool or internal facilities.I used all the buffet meals, but the food was not so diverse, but the quality of each food was high, of course.",1.0,0.7684
-7.6,have to find a meal inside the hotel site. but not many options. convenience store is definitely needed to open there. in-house shop is just rip-off!!,0.0,0.629
-7.6,I think it's clean and the air is good.,5.0,0.6808
+One thing that's unfortunate is that people who don't stay in Eco Land don't know if they use hotel facilities, but there were employees who asked if they were guests.But 'Are you not staying here?'I didn't feel good because I asked in a doubt and way of saying.The rest of the staff were all kind and good.",9.0,-0.6776,8
+10.0,"I was in a remote place in Jocheon -eup and I was worried about the poor weather, but it was fun enough to relax through the swimming pool or internal facilities.I used all the buffet meals, but the food was not so diverse, but the quality of each food was high, of course.",1.0,0.7684,5
+7.6,have to find a meal inside the hotel site. but not many options. convenience store is definitely needed to open there. in-house shop is just rip-off!!,0.0,0.629,5
+7.6,I think it's clean and the air is good.,5.0,0.6808,0
 8.4,"It has been a long time since I traveled to Jeju Island with my mother.
  It blends with the beautiful nature to enjoy it in a nice and clean resort -shaped hotel.
 
@@ -886,32 +886,32 @@ The floor is also tiled, so I slept warmly because it was clean and ondol floor 
 It was clear and clean without the bathroom and the shower booth.
 
 If there was a regret that did not fit the 5 -star hotel, the male manager of the unkind and manner -free expression and tone of the restaurant.
-If you are more concerned about the service education of the staff, it will be a great and perfect healing hotel while staying.",25.0,0.989
-8.4,It was all good except location.,3.0,0.4404
+If you are more concerned about the service education of the staff, it will be a great and perfect healing hotel while staying.",25.0,0.989,5
+8.4,It was all good except location.,3.0,0.4404,9
 8.0,"I traveled alone.
-The hotel is pretty and good",2.0,0.6249
-8.8,"The price for the price is good.I'm satisfied.The swimming pool is far away, but breakfast is good for the price.",8.0,0.5927
+The hotel is pretty and good",2.0,0.6249,9
+8.8,"The price for the price is good.I'm satisfied.The swimming pool is far away, but breakfast is good for the price.",8.0,0.5927,7
 10.0,"Especially winter super recommended
 The pool is so cold that you can swim like a hot spring water in the cold weather.
 The accommodation is also very clean
 Anyway, because of the swimming pool, just go up here
-If Jeju tourism is the purpose, cheap breakfast will be a business hotel, but if the purpose is to resort, it is recommended here.",11.0,0.8158
-7.2,"The hotel is low and wide, so it's far from the lobby to walk from the lobby, and it's far from the gym or swimming pool in the room.",-4.0,-0.2263
+If Jeju tourism is the purpose, cheap breakfast will be a business hotel, but if the purpose is to resort, it is recommended here.",11.0,0.8158,8
+7.2,"The hotel is low and wide, so it's far from the lobby to walk from the lobby, and it's far from the gym or swimming pool in the room.",-4.0,-0.2263,5
 10.0,"First of all, the room condition is very good.
-Infiniti pools are a bit narrow, but they're good.If you are the purpose of using the pool, ask you to assign it to your nearest room.It was hard to take a 10 -minute walk to the swimming pool.",5.0,0.1272
-10.0,You can use four seasons and the scenery in a pretty building that looks like a fairy tale.It was the best life accommodation.,6.0,0.872
-9.6,Here is the best place for money.,3.0,0.6369
-10.0,The snowy landscape was really the best.,3.0,0.6682
-10.0,Fresh air is really good,4.0,0.6697
-10.0,"It's hard to go back in a remote place, but the accommodation was good and the pool was good.",5.0,0.8176
+Infiniti pools are a bit narrow, but they're good.If you are the purpose of using the pool, ask you to assign it to your nearest room.It was hard to take a 10 -minute walk to the swimming pool.",5.0,0.1272,5
+10.0,You can use four seasons and the scenery in a pretty building that looks like a fairy tale.It was the best life accommodation.,6.0,0.872,3
+9.6,Here is the best place for money.,3.0,0.6369,3
+10.0,The snowy landscape was really the best.,3.0,0.6682,3
+10.0,Fresh air is really good,4.0,0.6697,9
+10.0,"It's hard to go back in a remote place, but the accommodation was good and the pool was good.",5.0,0.8176,9
 9.2,"It was so good for a family trip with infants ~
 It's a pity that the indoor swimming pool is a bit small and low
-Still good",4.0,0.6349
-9.6,"I had to go into the middle of the middle, but the Hamdeok was close and the location was better than I thought.The bed was so comfortable that I could sleep without breaking.I thought it would be nice to use the family couple.",7.0,0.9373
+Still good",4.0,0.6349,9
+9.6,"I had to go into the middle of the middle, but the Hamdeok was close and the location was better than I thought.The bed was so comfortable that I could sleep without breaking.I thought it would be nice to use the family couple.",7.0,0.9373,5
 7.6,"Room condition is so good and all good
 It's a canteen and bakery ... It's a bit expensive ...
 The way to the swimming pool is too far ... ㅠㅠ ... ㅋㅋ
-The location was also ambiguous, so it was hard to go out to eat.",5.0,0.7795
+The location was also ambiguous, so it was hard to go out to eat.",5.0,0.7795,5
 7.6,"I went to early September and the accommodation was pretty and I liked the pool so much that I had two nights here.
 He gave me a map, but for a day, I was looking for a room-front-restaurant for a day.
 The food was as expensive and the pool was so pretty ~
@@ -930,25 +930,25 @@ I don't know what the system it is, but ...
 I asked for the ice. Say the front of the front of the restaurant. If you don't want to go to the restaurant, go to the restaurant.
 To get out, I had to take a car and go out for at least 20 minutes and solve everything inside.
 If you look at the quality of the hotel, it's obvious that you really want to go, but if you think about each small service, you can think that there is no service cost for hotel and only hotel quality and view (natural landscape).
-If you want services and amenities, I would like to recommend Grand Hyatt.",33.0,0.9949
-9.2,I'll be here with Jeju next time!,0.0,0.0
-10.0,It was a trip that was satisfied with both the Qinggu. I want to come again.,3.0,0.4767
-9.2,Neat and good,3.0,0.7096
+If you want services and amenities, I would like to recommend Grand Hyatt.",33.0,0.9949,2
+9.2,I'll be here with Jeju next time!,0.0,0.0,5
+10.0,It was a trip that was satisfied with both the Qinggu. I want to come again.,3.0,0.4767,2
+9.2,Neat and good,3.0,0.7096,9
 8.4,"The Eco -Land Hotel, which stayed in a late review, was excellent in the facility.
 We were in a good place to swim in winter, but it was great.
 
 Because it is located in Zhongshan
 The nearby restaurant was close to at 7 o'clock, and I had to feel the inconvenience of having to go to Hamdeok to eat something.
 
-The accommodation is so long on the second floor, so if you want to go to the lobby, it is a burden to move with your children.",4.0,0.5921
-10.0,Cost,0.0,0.0
-10.0,I use Eco Land Golf and I like all the accommodations and convenience facilities.,2.0,0.3612
+The accommodation is so long on the second floor, so if you want to go to the lobby, it is a burden to move with your children.",4.0,0.5921,5
+10.0,Cost,0.0,0.0,5
+10.0,I use Eco Land Golf and I like all the accommodations and convenience facilities.,2.0,0.3612,5
 9.6,"It was a family trip for two nights and three days, but it was cold, but the pool was warm, so the children were able to swim for two days, heated well, and the entire accommodation was quiet.
-It wasn't a beach hotel, so I think it was okay except that the restaurant or convenience store had some streets around.",1.0,0.7469
-8.0,"I visited a new remodeling and opened a few years later.However, it was a bit uncomfortable to move from the hotel building to the room, but the room number sign is a bit unfortunate.",-2.0,-0.6542
-9.6,"Unexpectedly, the room was upgraded, so I stayed well in the lake view.For our couple, when cleanliness is important, we were clean and well -organized without dust and head, especially when we left our luggage and helped you again.Overall, it was very good to be able to use the latest five -star hotels at this price on a vast site.",7.0,0.8873
+It wasn't a beach hotel, so I think it was okay except that the restaurant or convenience store had some streets around.",1.0,0.7469,6
+8.0,"I visited a new remodeling and opened a few years later.However, it was a bit uncomfortable to move from the hotel building to the room, but the room number sign is a bit unfortunate.",-2.0,-0.6542,5
+9.6,"Unexpectedly, the room was upgraded, so I stayed well in the lake view.For our couple, when cleanliness is important, we were clean and well -organized without dust and head, especially when we left our luggage and helped you again.Overall, it was very good to be able to use the latest five -star hotels at this price on a vast site.",7.0,0.8873,5
 10.0,"It's far from Jindo, but thanks to Ecorand
-I went to see and watch and heal 🤗",2.0,0.5927
+I went to see and watch and heal 🤗",2.0,0.5927,5
 5.2,"I checked in twice, but the staff are not searching two times.
 
 It was so hard that I was allocated to the end of the room almost twice.
@@ -957,68 +957,68 @@ I just wanted to go to the pension.
 
 The inside of the room was spacious, clean and nice ..
 
-Others can also upgrade the lake view, but I just end in the building view ...",5.0,0.7141
-8.8,It was so good and good,6.0,0.8168
+Others can also upgrade the lake view, but I just end in the building view ...",5.0,0.7141,5
+8.8,It was so good and good,6.0,0.8168,9
 6.0,"The exterior is pretty, the swimming pool is good and the room is good ...
 Forrest suite is uncomfortable at the end of the building next to it.
-You're so far from the lobby pool parking lot.I think it would be nice to make another parking lot.Create a door to go out of the building directly from the Forest Suite.It's so sick that it's not so bad.Underground bakery bread is not too delicious?",4.0,0.2642
+You're so far from the lobby pool parking lot.I think it would be nice to make another parking lot.Create a door to go out of the building directly from the Forest Suite.It's so sick that it's not so bad.Underground bakery bread is not too delicious?",4.0,0.2642,5
 10.0,"I went to my family trip before my son enlisted.
 It is an exotic and a hotel that goes well with nature.
-Hotel hot water is free.I was not ready to swim.I had good memories with my family.",4.0,0.4386
+Hotel hot water is free.I was not ready to swim.I had good memories with my family.",4.0,0.4386,5
 10.0,"The hotel is clean and the bed is warm.
 The outdoor swimming pool was warm, so it was good to use in November.
-If you come next time, you might want to stay in the hotel.",8.0,0.8387
-6.8,"It's clean and the atmosphere is relaxed.And the swimming pool is wide and the scenery is so good, but it was a pity that the location was a bit in every corner.",5.0,0.108
-10.0,"The location was good and everything was comfortable, so I want to go to Jeju again next time!Wangchu!",6.0,0.8189
+If you come next time, you might want to stay in the hotel.",8.0,0.8387,2
+6.8,"It's clean and the atmosphere is relaxed.And the swimming pool is wide and the scenery is so good, but it was a pity that the location was a bit in every corner.",5.0,0.108,0
+10.0,"The location was good and everything was comfortable, so I want to go to Jeju again next time!Wangchu!",6.0,0.8189,2
 10.0,"Location facilities are also good
 The staff are also friendly
-It was good ~ ^^",8.0,0.8402
+It was good ~ ^^",8.0,0.8402,1
 10.0,"The first two of the three nights were in the hotel because of the rain, but thanks to the swimming pool, the children had fun.
 The room was clean and the hotel was clean and the breakfast menu was good.
-However, there is a personal regret that it is difficult to use a short -range cafe or restaurant due to the location.",10.0,0.9231
+However, there is a personal regret that it is difficult to use a short -range cafe or restaurant due to the location.",10.0,0.9231,0
 9.6,"The hotel was in the mountains, but the scenery was very nice and so pretty as it was.
-Dinner buffet also came out a lot and quality was good.This is a hotel I want to go again.",10.0,0.8841
+Dinner buffet also came out a lot and quality was good.This is a hotel I want to go again.",10.0,0.8841,2
 10.0,"For seven years, the East and West are traveling to the Jeju Olle Festival.
 On the day of arrival, after seeing the rainbow after raining.Room upgrades are said to be a weekend full reservation.
 It is a luggage, melting, and arrives at the outdoor hot water pool.Suddenly, I fell off and thundered, and I made a warm thing in warm water and made another memory.
 At the time of returning, at 50 % discount for guests
 It was a nice finish
-I will definitely go to the next trip",5.0,0.8885
-10.0,Okay ~ I want to go again ~,1.0,0.296
-10.0,"I used to rent two rooms as a family trip.The swimming pool was also good for a large and small sauna.The rooms were cleanly tidy and the staff were very kind!I booked this accommodation to see Eco -Land, but my family also liked it and became a satisfactory trip ^^",7.0,0.8478
+I will definitely go to the next trip",5.0,0.8885,8
+10.0,Okay ~ I want to go again ~,1.0,0.296,2
+10.0,"I used to rent two rooms as a family trip.The swimming pool was also good for a large and small sauna.The rooms were cleanly tidy and the staff were very kind!I booked this accommodation to see Eco -Land, but my family also liked it and became a satisfactory trip ^^",7.0,0.8478,1
 7.2,"A place that blends well with the natural environment
-Especially, families with young children think that they would like to visit when they travel.",3.0,0.7269
-8.8,"The floor was not a carpet but a tree, so it was good to be heated like ondol.The room was not narrow and big and it was good to rest.However, the kindness of the facilities and the front employees is unfortunate ...",11.0,0.9143
+Especially, families with young children think that they would like to visit when they travel.",3.0,0.7269,5
+8.8,"The floor was not a carpet but a tree, so it was good to be heated like ondol.The room was not narrow and big and it was good to rest.However, the kindness of the facilities and the front employees is unfortunate ...",11.0,0.9143,5
 9.2,"Infinity pool is wide and good
 Satisfied with family travelers.
-I want to go again",6.0,0.7184
-5.2,"The restaurant is not around, and the swimming pool is far from the room.",0.0,0.0
-9.6,"I used it well at a really low price.The room has also been upgraded ^^ If you are thinking about wedding snaps, there are so many spots on the side.The warm hot water pool was also very satisfying",1.0,0.5994
+I want to go again",6.0,0.7184,2
+5.2,"The restaurant is not around, and the swimming pool is far from the room.",0.0,0.0,5
+9.6,"I used it well at a really low price.The room has also been upgraded ^^ If you are thinking about wedding snaps, there are so many spots on the side.The warm hot water pool was also very satisfying",1.0,0.5994,8
 10.0,"It's a new construction, so it's clean and the pool is so good
-It's the best price",8.0,0.8983
+It's the best price",8.0,0.8983,0
 10.0,"It's clean and located in Eco Land, making it too comfortable to use the hotel.The pool is also wide and good.
-100%doctor",7.0,0.836
-8.4,The rooms and swimming pools are far and far from the neighboring restaurants.,0.0,0.0
-8.8,clean,2.0,0.4019
+100%doctor",7.0,0.836,0
+8.4,The rooms and swimming pools are far and far from the neighboring restaurants.,0.0,0.0,5
+8.8,clean,2.0,0.4019,0
 9.6,"It's so good to be a swimming pool in winter!
 There are not many people than I thought, and the view is so good.
 There is also a simple convenience store in the hotel and karaoke
-And evening dinner buffet is so delicious!",9.0,0.9138
-9.2,The hotel is so quiet and comfortable.,2.0,0.552
-9.2,The hotel is so quiet and comfortable.,2.0,0.552
-10.0,I want to go again,1.0,0.0772
+And evening dinner buffet is so delicious!",9.0,0.9138,5
+9.2,The hotel is so quiet and comfortable.,2.0,0.552,6
+9.2,The hotel is so quiet and comfortable.,2.0,0.552,6
+10.0,I want to go again,1.0,0.0772,2
 8.0,"It's okay for a family trip
-There is not enough hotel convenience store",0.0,0.2263
+There is not enough hotel convenience store",0.0,0.2263,5
 8.0,"First of all, I liked the scenery around the hotel and I also liked bedding and room condition.
 I chose only the pool, but the outdoor pool was so pretty and wide that I was satisfied with leaving or swimming with photos.
 The downside is that the location is too far from the city, so there's nothing nearby, and even the shop in the hotel is open late and eat.There is not a lot of floors, so the distance to move to the facilities is quite far, especially when I go back to the swimming pool, I was uncomfortable to go to a long distance, so I showered in the dressing room.It seemed to be hard
-I only saw the pool and I didn't apply for breakfast, but I was very satisfied with the price.",4.0,0.8853
+I only saw the pool and I didn't apply for breakfast, but I was very satisfied with the price.",4.0,0.8853,7
 5.6,"I don't understand that there is no toothpaste toothbrush razor.Humidifier rental.Far out of the airport and breakfast is less priced.
-Conclusion-not recommended.",1.0,-0.1689
-9.2,Wow ... I like to come with my parents or girlfriend,6.0,0.743
-9.6,Good air and good value for money,6.0,0.802
+Conclusion-not recommended.",1.0,-0.1689,5
+9.2,Wow ... I like to come with my parents or girlfriend,6.0,0.743,5
+9.6,Good air and good value for money,6.0,0.802,9
 7.6,"very good.
-However, there is a little distance from the room and the swimming pool.",3.0,0.4927
+However, there is a little distance from the room and the swimming pool.",3.0,0.4927,9
 7.6,"The location is quiet and quiet
 It was good to have outdoor pools.
 The outdoor pool was smaller than I thought
@@ -1027,69 +1027,69 @@ There aren't many, so I could use it well.
 The rooms are neat and in the forest, so we often see bugs.
 Some employees are kind and not kind.
 First of all, the accommodation is good.However, those who are walking for Eco Land
-There are a lot of movements overlap.",10.0,0.93
+There are a lot of movements overlap.",10.0,0.93,6
 9.6,"The outdoor pool was very good
-The accommodation is also good",6.0,0.7496
+The accommodation is also good",6.0,0.7496,9
 8.4,"Bedding for the swimming pool for the price for the price
-It was a pity that the bed sheet could not be exchanged.",-2.0,-0.296
+It was a pity that the bed sheet could not be exchanged.",-2.0,-0.296,5
 8.4,"Although the road to the pool was a little far away
-Good price for price",3.0,0.3892
-10.0,Kind and Buffer Restaurant is also delicious. The accommodation was also good.,8.0,0.875
-9.6,"The accommodation is so pretty and clean.He rented a bed guard for infants, but thanks to it, he was able to sleep comfortably.The bakery cafe bread is delicious and the pool is pretty.It's a good idea to buy it in a convenience store, so you can buy it in advance.",14.0,0.9461
+Good price for price",3.0,0.3892,5
+10.0,Kind and Buffer Restaurant is also delicious. The accommodation was also good.,8.0,0.875,1
+9.6,"The accommodation is so pretty and clean.He rented a bed guard for infants, but thanks to it, he was able to sleep comfortably.The bakery cafe bread is delicious and the pool is pretty.It's a good idea to buy it in a convenience store, so you can buy it in advance.",14.0,0.9461,5
 10.0,"It is a hotel that reminds me of coming back ..
-Happy hotel life for 2 weeks",3.0,0.5719
-8.0,The facility is clean and the staff are kind,4.0,0.7269
+Happy hotel life for 2 weeks",3.0,0.5719,5
+8.0,The facility is clean and the staff are kind,4.0,0.7269,0
 8.0,"The swimming pool tile was a bit dirty
 The view was so good and the picture came out well, so satisfied
-The staff were so friendly",5.0,0.8927
-9.2,"I went with my friend's family who visited abroad, but the facilities were comfortable and the space was spent.The swimming pool is also a hot water pool, but it's November, but it was enough to enjoy outdoors.However, there aren't many shops nearby, so I think it's good to take the dinner distance or use the interior restaurant.",8.0,0.9325
-10.0,The best swimming pool ㅠㅠㅠ Room best,6.0,0.8555
-8.4,Happy day by day,3.0,0.5719
+The staff were so friendly",5.0,0.8927,1
+9.2,"I went with my friend's family who visited abroad, but the facilities were comfortable and the space was spent.The swimming pool is also a hot water pool, but it's November, but it was enough to enjoy outdoors.However, there aren't many shops nearby, so I think it's good to take the dinner distance or use the interior restaurant.",8.0,0.9325,8
+10.0,The best swimming pool ㅠㅠㅠ Room best,6.0,0.8555,3
+8.4,Happy day by day,3.0,0.5719,5
 10.0,"Cleans on the room state
-The staff are all kind.",2.0,0.5267
-9.2,"The hotel was not a modern building, but it was amazing and nice to be pretty.I didn't feel kind to the front staff, but the staff of the staff of the restaurant who met the corridor journal were very kind.The swimming pool was warm and good and the dinner was delicious.I want to go again next time.Forrest buildings were far away.And you have to go directly to the lobby.",18.0,0.9191
+The staff are all kind.",2.0,0.5267,1
+9.2,"The hotel was not a modern building, but it was amazing and nice to be pretty.I didn't feel kind to the front staff, but the staff of the staff of the restaurant who met the corridor journal were very kind.The swimming pool was warm and good and the dinner was delicious.I want to go again next time.Forrest buildings were far away.And you have to go directly to the lobby.",18.0,0.9191,1
 7.2,"The swimming pool is the best ㅠ
 There is a long way to come to the room
 
 And because there is nothing around
 I was frustrated
 
-But if you want to feel nature, I think it's good.",5.0,0.8311
+But if you want to feel nature, I think it's good.",5.0,0.8311,2
 7.6,"The comfort of nature was so good.
-When I checked in, all the staff were kind and the airport shuttle was so good.There is no convenience store in the hotel and there is a simple store.It smells like mold in the elevator.It was nice to have a large cypress bath in the room and the four seasons outdoor hot water.Hotel guest restaurant Eco Land discount is good.",17.0,0.9453
-10.0,All the convenience facilities were good.,3.0,0.4404
-10.0,The lobby and the staff are friendly and I liked the rooms ~ I will come to the wall again ^^,2.0,0.7269
-6.8,"The location is not so good that if you enter the hotel, you will be able to go somewhere.There is also a small street lamp on the night road, so it is dangerous when driving.But the year was not long, so it was clean and the hot water pool was good.But only one hot water pool was operated and the other was banned from using it.",4.0,-0.7527
+When I checked in, all the staff were kind and the airport shuttle was so good.There is no convenience store in the hotel and there is a simple store.It smells like mold in the elevator.It was nice to have a large cypress bath in the room and the four seasons outdoor hot water.Hotel guest restaurant Eco Land discount is good.",17.0,0.9453,5
+10.0,All the convenience facilities were good.,3.0,0.4404,9
+10.0,The lobby and the staff are friendly and I liked the rooms ~ I will come to the wall again ^^,2.0,0.7269,1
+6.8,"The location is not so good that if you enter the hotel, you will be able to go somewhere.There is also a small street lamp on the night road, so it is dangerous when driving.But the year was not long, so it was clean and the hot water pool was good.But only one hot water pool was operated and the other was banned from using it.",4.0,-0.7527,8
 8.0,".
 You have to turn right at the front desk ...
 And I didn't tell me in advance that I didn't even tell me in advance, so I got a phone call and knew it.
 It doesn't seem like a service for a 5 -star hotel
-. Forrest Sweet Room 28 -inch Carrier There was no place to open it.",3.0,-0.0798
+. Forrest Sweet Room 28 -inch Carrier There was no place to open it.",3.0,-0.0798,5
 9.6,"Clean and good
-This is a good quiet hotel",8.0,0.8176
+This is a good quiet hotel",8.0,0.8176,6
 9.6,"It was 3 nights, but the staff were kind and neatly organized and the pool was so good.
-If only the fitness hall is bigger and more, it would be nice ...",9.0,0.9646
-9.6,"Pool Kids Facility is good.The road to the swimming pool has to cross the bridge outside the bridge, so it's a bit uncomfortable, and it's clean, wide and very good.",6.0,0.4641
+If only the fitness hall is bigger and more, it would be nice ...",9.0,0.9646,1
+9.6,"Pool Kids Facility is good.The road to the swimming pool has to cross the bridge outside the bridge, so it's a bit uncomfortable, and it's clean, wide and very good.",6.0,0.4641,0
 10.0,"Natural landscape, swimming pool, pocha, etc.
-There were a lot of places to get closer.",1.0,0.3612
+There were a lot of places to get closer.",1.0,0.3612,5
 8.8,"It's a pity that there's quite a way to the swimming pool
 The charm of the accommodation surrounded by nature is very large.
-The advantage is that it is clean because it is a hotel that has a lot to see and has not been built for a long time.",5.0,0.6666
-9.6,I used Eco Land CC and I was at the hotel.I also upgrade the room and I liked everything.I will use it when I come to golf again in the wall.,2.0,0.4215
-10.0,I like it so much.,2.0,0.3612
+The advantage is that it is clean because it is a hotel that has a lot to see and has not been built for a long time.",5.0,0.6666,5
+9.6,I used Eco Land CC and I was at the hotel.I also upgrade the room and I liked everything.I will use it when I come to golf again in the wall.,2.0,0.4215,5
+10.0,I like it so much.,2.0,0.3612,5
 6.0,"Swimming Pool Bad is paid.Where you put a light load
-It should be seen.It's a hot water pool, but it's light in winter.",-3.0,-0.3071
-10.0,It's clean and the pool is the best.I'll visit you again next time,5.0,0.4019
+It should be seen.It's a hot water pool, but it's light in winter.",-3.0,-0.3071,8
+10.0,It's clean and the pool is the best.I'll visit you again next time,5.0,0.4019,3
 9.6,"It was good to feel the forest of Jeju because it has the infrastructure of Eco Land.
-The pool is also wider than I thought, and it was great to see the sunset.",6.0,0.7906
-10.0,Joa -ryeong,0.0,0.0
+The pool is also wider than I thought, and it was great to see the sunset.",6.0,0.7906,4
+10.0,Joa -ryeong,0.0,0.0,5
 10.0,"I think I was so good at choosing the hostel ~
 It was a swimming pool facility
 The dinner buffet was really good because it was really good.The dessert cake was so delicious :)
-I want to come again next time",13.0,0.9522
-10.0,I'm healing properly in Jeju Island ~ ㅎㅎ,0.0,0.0
-10.0,It was good to have a reasonable price from a good trip with my family at a reasonable price.,6.0,0.7003
-8.0,"I checked in and bought it from the alumni market, but I was wandering around because I was not enough (too hard) and went to a convenience store.It's not a convenience store, but a number of things to sell at the price!I'm hungry, but there is no place to live in the hotel !!",-2.0,-0.4983
+I want to come again next time",13.0,0.9522,2
+10.0,I'm healing properly in Jeju Island ~ ㅎㅎ,0.0,0.0,5
+10.0,It was good to have a reasonable price from a good trip with my family at a reasonable price.,6.0,0.7003,9
+8.0,"I checked in and bought it from the alumni market, but I was wandering around because I was not enough (too hard) and went to a convenience store.It's not a convenience store, but a number of things to sell at the price!I'm hungry, but there is no place to live in the hotel !!",-2.0,-0.4983,5
 9.2,"I stayed with three and three
 It was good to be late for the pool
 The room condition was so good
@@ -1097,9 +1097,9 @@ The bed bad was Simmons, so it was like that.
 But the unfortunate thing is that the pool is until 9:30
 The snack bar is closed early
 There is no restaurant operating late in the hotel.
-That's too bad",1.0,-0.8755
-8.8,Breakfast bread and scrambled agga were good.The scenery in front of the hotel where I can see Hallasan was good to take pictures.,6.0,0.4404
-9.2,It's okay except for the location. The pool is pretty and good,4.0,0.7906
+That's too bad",1.0,-0.8755,5
+8.8,Breakfast bread and scrambled agga were good.The scenery in front of the hotel where I can see Hallasan was good to take pictures.,6.0,0.4404,9
+9.2,It's okay except for the location. The pool is pretty and good,4.0,0.7906,9
 9.6,"It was difficult, but the facilities were really good
 Above all, the bathroom and the bathroom are clean
 It was so great that it was so good !!!
@@ -1110,7 +1110,7 @@ I recommend Eco Land ~~~
 The breakfast is also diverse, so the husband who is a Korean food
 It was so delicious what I ate there
 I went to another hotel and said it was good too.
-I'll have a baby next time and I'll go to three!",23.0,0.9935
+I'll have a baby next time and I'll go to three!",23.0,0.9935,2
 8.4,"Arriving as an anticipation class, the accommodation made me blow away from the exterior.
 A accommodation like a fairy tale
 Very pretty accommodation
@@ -1123,94 +1123,94 @@ Expected swimming pool is also very satisfied
 It was too bad to have a short trip.
 Next time I'm going to come longer.
 But the unfortunate thing is that there is nothing except the forest around.
-There are no various foods.",7.0,-0.1582
+There are no various foods.",7.0,-0.1582,5
 9.6,"A nice appearance
 Inside the unique room
 Satisfied as a whole
 I stayed at Wall Suite, but the bed size would be a bit more cut (not double, Queen or King)
 It would be nice if there was a detailed guide map of the hotel
 I stay comfortably
-suggestion!",9.0,0.8127
-3.6,There is no convenience store restaurant except for its own facilities.There is little to eat at the buffet.,-1.0,-0.296
-9.2,It was a satisfactory hotel !!Swimming pool best !!,3.0,0.8346
-8.0,Check -in staff is a little unkind,0.0,-0.3197
+suggestion!",9.0,0.8127,5
+3.6,There is no convenience store restaurant except for its own facilities.There is little to eat at the buffet.,-1.0,-0.296,5
+9.2,It was a satisfactory hotel !!Swimming pool best !!,3.0,0.8346,3
+8.0,Check -in staff is a little unkind,0.0,-0.3197,1
 7.6,"Advantages: It's not a carpet, it's good to go with Marura Eye
    When using the Eco Land Theme Park, it is discounted and connected immediately.
 Disadvantages: Breakfast is weak
 Then there should be other restaurants, but there is no but there is no need to go outside.
-It's too crude to get to go by car to get to go away at night.",-1.0,-0.9232
-7.2,It's the best to tie it with children,3.0,0.6369
-8.0,"It was good to be able to solve everything in one place, especially the staff.",4.0,0.5719
-8.0,The pool is awesome,4.0,0.6249
-9.6,"The hallway (?) To the room is so pretty.The road to the room was a bit far, but the bedwis fire baths were clean and good.In particular, the ceiling is curved, so I feel like sleeping in a fairy tale country.Breakfast buffet is really the best.It is recommended to eat.",11.0,0.7444
-10.0,"The disadvantage is that it is hard to go without the location, but the facilities and services were so satisfying that they were not worried about them !!I'll definitely come back later",-6.0,0.8925
+It's too crude to get to go by car to get to go away at night.",-1.0,-0.9232,5
+7.2,It's the best to tie it with children,3.0,0.6369,3
+8.0,"It was good to be able to solve everything in one place, especially the staff.",4.0,0.5719,9
+8.0,The pool is awesome,4.0,0.6249,5
+9.6,"The hallway (?) To the room is so pretty.The road to the room was a bit far, but the bedwis fire baths were clean and good.In particular, the ceiling is curved, so I feel like sleeping in a fairy tale country.Breakfast buffet is really the best.It is recommended to eat.",11.0,0.7444,5
+10.0,"The disadvantage is that it is hard to go without the location, but the facilities and services were so satisfying that they were not worried about them !!I'll definitely come back later",-6.0,0.8925,5
 9.6,"I stay very comfortably for 4 nights and 5 days.
-The hotel room was so good and the staff were so friendly.I want to visit every time I go to Jeju.",8.0,0.8132
-10.0,The Picture of the hitting is the Picture Picture.,0.0,0.0
-8.8,The best,3.0,0.6369
-4.8,"The pool and nature are really good.The accommodation stayed on the first floor of Lake View, but every morning, the tourists passed by and took pictures right in front of the hostel.It doesn't include breakfast in this price.In the next room, the baby wakes up at 7 am and tells what he says to screaming.If you go around from the entrance, the location is ambiguous, so you don't want to take a rest in your accommodation.I give you two fingers as well as two fingers.",2.0,0.2315
-10.0,"There was a little difficulty at the discount, but the Agoda side responded quickly, so it was solved well and it went well.",1.0,0.7777
+The hotel room was so good and the staff were so friendly.I want to visit every time I go to Jeju.",8.0,0.8132,2
+10.0,The Picture of the hitting is the Picture Picture.,0.0,0.0,5
+8.8,The best,3.0,0.6369,3
+4.8,"The pool and nature are really good.The accommodation stayed on the first floor of Lake View, but every morning, the tourists passed by and took pictures right in front of the hostel.It doesn't include breakfast in this price.In the next room, the baby wakes up at 7 am and tells what he says to screaming.If you go around from the entrance, the location is ambiguous, so you don't want to take a rest in your accommodation.I give you two fingers as well as two fingers.",2.0,0.2315,5
+10.0,"There was a little difficulty at the discount, but the Agoda side responded quickly, so it was solved well and it went well.",1.0,0.7777,5
 7.2,"I found out after seeing Youtube reviews again
 I made a reservation against the pool
-If you enjoy swimming all day!",2.0,0.5411
+If you enjoy swimming all day!",2.0,0.5411,5
 6.8,"I went to the kids when I was swimming, but the water temperature seems to come and I will come right away.
 After 4 nights, I moved to the Parnas Hotel, but I enjoyed it in the hot water pool.
 It seems like it won't go without summer
-There is no place to eat around the hotel, so it is inconvenient because it has to go 30 minutes.",4.0,0.3409
+There is no place to eat around the hotel, so it is inconvenient because it has to go 30 minutes.",4.0,0.3409,8
 9.2,"The Eco Land Hotel was a very good hotel for price.
-The environment inside the hotel felt like I was in Europe, the swimming pool was good (although it was a bit cold), especially the surrounding eco -land walk.After checking out, we finished the trip to the mountains, nature and wind at a stone culture park nearby.",8.0,0.8354
-8.8,the room was spotless and all the staffs were very helpful. this hotel is quite far from city center or any touristic spots  but I really enjoyed its peaceful atmosphere with wholesome natural environment.,9.0,0.9421
+The environment inside the hotel felt like I was in Europe, the swimming pool was good (although it was a bit cold), especially the surrounding eco -land walk.After checking out, we finished the trip to the mountains, nature and wind at a stone culture park nearby.",8.0,0.8354,5
+8.8,the room was spotless and all the staffs were very helpful. this hotel is quite far from city center or any touristic spots  but I really enjoyed its peaceful atmosphere with wholesome natural environment.,9.0,0.9421,5
 7.6,"Price price!
 I tied up cheaply at other lodgings and swimmed here, but it was just the right place.
 It was not a convenience store, but it was only a snack bar, but it was very expensive and there was nothing to eat.
 All this was all good
 Outdoor pools are also romantic and enjoyed well
-Next time, I want to buy Masit and visit!",6.0,0.948
-10.0,The pool was so good,3.0,0.5777
-9.6,"It was good to be able to enjoy the day without going out of the hotel.An emergency medicine is a convenience store?It sells at it, but the price is expensive and there are not many types.(30 minutes to the city) The evening menu was very satisfactory",3.0,0.7131
-8.0,"As I saw in many reviews, it was like a maze or a cave.",2.0,0.3612
-10.0,It is a hotel that comes to mind even after coming to land.Room condition and the interior atmosphere was so good.The swimming pool is wide and the picture is so pretty.,4.0,0.6269
-9.6,It's very comfortable for the price!,2.0,0.5974
-10.0,It was so good to be with my family,3.0,0.5777
+Next time, I want to buy Masit and visit!",6.0,0.948,5
+10.0,The pool was so good,3.0,0.5777,9
+9.6,"It was good to be able to enjoy the day without going out of the hotel.An emergency medicine is a convenience store?It sells at it, but the price is expensive and there are not many types.(30 minutes to the city) The evening menu was very satisfactory",3.0,0.7131,5
+8.0,"As I saw in many reviews, it was like a maze or a cave.",2.0,0.3612,5
+10.0,It is a hotel that comes to mind even after coming to land.Room condition and the interior atmosphere was so good.The swimming pool is wide and the picture is so pretty.,4.0,0.6269,5
+9.6,It's very comfortable for the price!,2.0,0.5974,5
+10.0,It was so good to be with my family,3.0,0.5777,9
 10.0,"The amount is a bit expensive, but that's good
 The promenade around the hotel is also good
-If you go with your parents, you are very happy",9.0,0.9348
-10.0,The room was clean and the bathroom was clean ... the swimming pool was also good.,7.0,0.8074
-9.2,"The swimming pool and the kindness of the room were also satisfied with the dinner, so I couldn't eat a lot because I couldn't eat a lot of 7:30.I filled it up because I didn't have a Zambong Melon, but I raised four more and I couldn't fill it anymore.",4.0,0.4404
-10.0,Ako Land is also good. It was better using the hotel.,5.0,0.7003
+If you go with your parents, you are very happy",9.0,0.9348,9
+10.0,The room was clean and the bathroom was clean ... the swimming pool was also good.,7.0,0.8074,0
+9.2,"The swimming pool and the kindness of the room were also satisfied with the dinner, so I couldn't eat a lot because I couldn't eat a lot of 7:30.I filled it up because I didn't have a Zambong Melon, but I raised four more and I couldn't fill it anymore.",4.0,0.4404,7
+10.0,Ako Land is also good. It was better using the hotel.,5.0,0.7003,5
 9.6,"It was so good to think about room condition and bedding.It's soft, so I slept. But there was a noise between floors?
-So I liked the pool too much.",5.0,0.7587
-8.4,"The weather was cold, so I couldn't enjoy it in the hostel.I was usually satisfied",4.0,-0.0274
-9.2,"The hotel was as pretty as a Smurf Hotel, and the deck connected to the lake and eco -land was the best and healing hotel.",4.0,0.8126
-6.8,It's hard to work other than accommodation ... It's too uncomfortable and you can't eat it if you don't use the buffet.,-3.0,-0.4588
+So I liked the pool too much.",5.0,0.7587,5
+8.4,"The weather was cold, so I couldn't enjoy it in the hostel.I was usually satisfied",4.0,-0.0274,7
+9.2,"The hotel was as pretty as a Smurf Hotel, and the deck connected to the lake and eco -land was the best and healing hotel.",4.0,0.8126,5
+6.8,It's hard to work other than accommodation ... It's too uncomfortable and you can't eat it if you don't use the buffet.,-3.0,-0.4588,5
 6.8,"Believing Eco Land !!
 It was so good this time.
 However, it was a bit unfortunate to have employees and services.
 Breakfast is also breaking in the kitchen.
 It was empty, but it didn't fill it for a long time.
 I hope it will be improved.
-Good job ^^",9.0,0.9247
+Good job ^^",9.0,0.9247,5
 9.2,"Believing Eco Land !!
 It was so good this time.
 However, it was a bit unfortunate to have employees and services.
 Breakfast is also breaking in the kitchen.
 It was empty, but it didn't fill it for a long time.
 I hope it will be improved.
-Good job ^^",9.0,0.9247
-10.0,"The location is inland, not in the surrounding sightseeing spots or the beach, but it is convenient to move to tourist attractions near Jeju City or Gyo -rae.",2.0,0.5719
-9.6,Good Good Good,9.0,0.8271
+Good job ^^",9.0,0.9247,5
+10.0,"The location is inland, not in the surrounding sightseeing spots or the beach, but it is convenient to move to tourist attractions near Jeju City or Gyo -rae.",2.0,0.5719,5
+9.6,Good Good Good,9.0,0.8271,9
 8.0,"I went without expectation and went to the Jungmun hotel every time and went to Eco -Land as a cost -effectiveness.It is recommended if the hardware is not the latest style, but if you want to relax without the need for tourism because it has a wide ground with a European hotel feeling.
 However, it seemed to be a little insufficient to use the swimming pool facilities.
-It was a pity that the Sunbed paid or the Towel US -made",2.0,0.5647
+It was a pity that the Sunbed paid or the Towel US -made",2.0,0.5647,5
 6.4,"Once you can't connect to the front of the room.I don't know if I'm not deliberately turned to the line, but I've never been connected for two nights and three days, so I went down to the lobby every time.
 And even if you pay the cost, there is no additional bedding service.
 Oh, and there is only one microwave all over the hotel.
 
-In addition, the employees, including the housekeepers, are very friendly, clean and well -being, good kids room and satisfaction",3.0,0.9502
+In addition, the employees, including the housekeepers, are very friendly, clean and well -being, good kids room and satisfaction",3.0,0.9502,5
 9.6,"Eco Land Hotel has an outdoor swimming pool more than other resorts or hotels in Korea.Adult pools and children's pools are significant
 Also, it is so good to walk with Eco Land
-However, the bread & coffee digging on the first floor of the basement will be served at 10 am at the cafe at 9 o'clock.It's a 5 -star hotel cafe, so I thought it was called ""10 o'clock.""Early the early morning cold bread came out at 10 o'clock and was disappointed.",2.0,0.3488
-8.4,"It's surrounded by the mountains, so you don't need to say good air ~ ^^ It's easy not to go out of the hotel after entering the hotel.Appropriate size swimming pool.Steamed delicious restaurant.Up to Ecorand next door! ^^ There are many things you can enjoy cheaply after leaving.Hotel fitness is very shining.",12.0,0.9336
+However, the bread & coffee digging on the first floor of the basement will be served at 10 am at the cafe at 9 o'clock.It's a 5 -star hotel cafe, so I thought it was called ""10 o'clock.""Early the early morning cold bread came out at 10 o'clock and was disappointed.",2.0,0.3488,5
+8.4,"It's surrounded by the mountains, so you don't need to say good air ~ ^^ It's easy not to go out of the hotel after entering the hotel.Appropriate size swimming pool.Steamed delicious restaurant.Up to Ecorand next door! ^^ There are many things you can enjoy cheaply after leaving.Hotel fitness is very shining.",12.0,0.9336,5
 7.6,"The only advantage was one swimming pool.
 It is natural in this class hotel, such as hygiene & employee attitudes.
 
@@ -1221,11 +1221,11 @@ I wanted to play in Eco Land after leaving, but it's expensive to solve the meal
 
 Of course, the location is in the corner, but there are some nature -friendly
 When I am a lover, I don't think I will visit again
-If you have a child, I will visit again.",2.0,0.8807
-8.8,"I was able to sleep comfortably with room condition and mattresses.Breakfast buffet is also delicious, so it is better to include.It was the biggest advantage of Ecorand's walking on the child and hotel.However, the hotel location is too remote to go to eat.If you didn't move, it was a pity that there was no restaurant for lunch or dinner in the hotel.But this price was the best enough to come back.",9.0,0.9093
+If you have a child, I will visit again.",2.0,0.8807,5
+8.8,"I was able to sleep comfortably with room condition and mattresses.Breakfast buffet is also delicious, so it is better to include.It was the biggest advantage of Ecorand's walking on the child and hotel.However, the hotel location is too remote to go to eat.If you didn't move, it was a pity that there was no restaurant for lunch or dinner in the hotel.But this price was the best enough to come back.",9.0,0.9093,5
 8.8,"I felt the Mediterranean and I liked it that my husband chose well
 Room condition
-It was all good",5.0,0.7783
-8.4,"In commemoration of your parents' birthday, you were satisfied with the good lodging of the two.",5.0,0.6908
+It was all good",5.0,0.7783,5
+8.4,"In commemoration of your parents' birthday, you were satisfied with the good lodging of the two.",5.0,0.6908,7
 10.0,"The swimming pool where the pool can swim in the pool is a bit narrower than I thought
-If you are lucky, you will be right if you are lucky, but you have to wait a few minutes if the weather is not good or the timing",4.0,-0.0795
+If you are lucky, you will be right if you are lucky, but you have to wait a few minutes if the weather is not good or the timing",4.0,-0.0795,5

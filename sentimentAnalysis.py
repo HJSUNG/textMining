@@ -21,7 +21,7 @@ def sentiment_analysis(file_path):
     for i in range(0, len(df_hotel)):
         afinn_result.append(afinn.score(df_hotel.iloc[i].comment))
 
-    # Vador 분석 (negative : score <= -0.05 / neutral : -0.05 < score < 0.05 / positive : 0.05 < score )
+    # Vador 분석 (negative : score <= -0.05 / neutral : -0.05 < score < 0.05 / positive : 0.05 <= score )
     vader_analyzer = SentimentIntensityAnalyzer()
     for i in range(0, len(df_hotel)):
         vader_result.append(vader_analyzer.polarity_scores(df_hotel.iloc[i].comment)['compound'])
