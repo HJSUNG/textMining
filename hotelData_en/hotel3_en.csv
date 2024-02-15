@@ -1,24 +1,24 @@
-score,comment,afinn_score,vader_score,k10
+score,comment,afinn_score,vader_score,cluster
 10.0,"It will be more suitable for the couple, but I have booked and waited before it was built because the accommodation was so pretty.It was good without any inconvenience while staying with two young children.I thought the location was already a quiet place, so I was able to see Namwon side, which was not very good.I was able to eat breakfast with my children, so I like the latest ice cold water purifier, so I'm going to change my house.
-It's a couple white room, so it's perfect for couples to travel !!I think it's okay to stay if there are additional bedding.While we were living, there was a typhoon news, so the waves were high and there were many cloudy days.I'm definitely come back!",12.0,0.9764,2
-10.0,"Overall, it's clean and it's perfect for Instagram emotions. I didn't expect it, but it was surprisingly good",8.0,0.8705,9
-10.0,"The boss was kind, the view was good and the interior of the interior was perfect.I'll use it again when I come to Jeju again.",8.0,0.743,3
+It's a couple white room, so it's perfect for couples to travel !!I think it's okay to stay if there are additional bedding.While we were living, there was a typhoon news, so the waves were high and there were many cloudy days.I'm definitely come back!",12.0,0.9764,7
+10.0,"Overall, it's clean and it's perfect for Instagram emotions. I didn't expect it, but it was surprisingly good",8.0,0.8705,4
+10.0,"The boss was kind, the view was good and the interior of the interior was perfect.I'll use it again when I come to Jeju again.",8.0,0.743,2
 10.0,"I decided to see two nights after reviewing the lodgings
 It was a really good choice!
 I have been resting warmly while watching a good view and a good view in my stomach ~
-I want to visit again when I travel to Jeju next time :-)",10.0,0.9345,1
-10.0,"The café below is also delicious and the view is so good, clean and friendly.",10.0,0.9276,1
-9.6,"The bathtub and the outdoor pool were really good.The view is crazy and there aren't many things around, but if you walk a little, there is also a restaurant that sells a convenience restaurant.Good walk along the sea!",4.0,-0.2481,7
+I want to visit again when I travel to Jeju next time :-)",10.0,0.9345,0
+10.0,"The café below is also delicious and the view is so good, clean and friendly.",10.0,0.9276,4
+9.6,"The bathtub and the outdoor pool were really good.The view is crazy and there aren't many things around, but if you walk a little, there is also a restaurant that sells a convenience restaurant.Good walk along the sea!",4.0,-0.2481,3
 9.2,"The view of the sea in the bathtub is a neat accommodation where you can lie down on the garden and the rooftop.The call and the data are not well bursting, but it was solved by connecting the lodging Wi -Fi.",1.0,0.5012,6
-9.2,"The surrounding area was quiet, quiet, and the nearby convenience store was good.",3.0,0.4404,0
+9.2,"The surrounding area was quiet, quiet, and the nearby convenience store was good.",3.0,0.4404,1
 8.8,"The sea was right in front of you!
-If you don't blind, everything was perfect except that you can see it too well!I'll go again !!",2.0,0.7979,3
-8.0,Sunrise and sunset view restaurant,0.0,0.0,7
-7.6,Not bad ...,-3.0,0.431,4
-9.6,"The weather was not good during the trip, so I was in the condition.But while I was living in this hostel, I was healed in the cozy and neat house structure and interior in the vast sea scenery in front of my lodgings!Thank you for handing the warm words of smiling!",3.0,0.7251,8
+If you don't blind, everything was perfect except that you can see it too well!I'll go again !!",2.0,0.7979,2
+8.0,Sunrise and sunset view restaurant,0.0,0.0,3
+7.6,Not bad ...,-3.0,0.431,8
+9.6,"The weather was not good during the trip, so I was in the condition.But while I was living in this hostel, I was healed in the cozy and neat house structure and interior in the vast sea scenery in front of my lodgings!Thank you for handing the warm words of smiling!",3.0,0.7251,5
 9.2,"The inside of the hostel is clean and pretty, and the view is really all around the location of the accommodation or the surrounding area.",3.0,0.7096,1
 10.0,"The facility was so neat and satisfactory.
 However, there was a regret.
 In addition, there was a part that I was worried about not visible from the outside because the bed curtains were blind.
-The other part was so satisfied that it was good!",-1.0,0.7743,5
-10.0,The view was clean and the view was so good and the sea was quiet.,5.0,0.7537,1
+The other part was so satisfied that it was good!",-1.0,0.7743,9
+10.0,The view was clean and the view was so good and the sea was quiet.,5.0,0.7537,4
